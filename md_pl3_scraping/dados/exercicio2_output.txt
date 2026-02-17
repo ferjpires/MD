@@ -1,0 +1,267 @@
+#######################################################################
+# Exercício 2 - Seletores (BeautifulSoup)
+#######################################################################
+
+2.1 - Extração com find() e find_all()
+
+Todas as citações:
+
+“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+“It is our choices, Harry, that show what we truly are, far more than our abilities.”
+“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+“Try not to become a man of success. Rather become a man of value.”
+“It is better to be hated for what you are than to be loved for what you are not.”
+“I have not failed. I've just found 10,000 ways that won't work.”
+“A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+“A day without sunshine is like, you know, night.”
+
+
+Todos os autores:
+
+Albert Einstein
+J.K. Rowling
+Albert Einstein
+Jane Austen
+Marilyn Monroe
+Albert Einstein
+André Gide
+Thomas A. Edison
+Eleanor Roosevelt
+Steve Martin
+
+
+Todas as tags:
+
+change
+deep-thoughts
+thinking
+world
+abilities
+choices
+inspirational
+life
+live
+miracle
+miracles
+aliteracy
+books
+classic
+humor
+be-yourself
+inspirational
+adulthood
+success
+value
+life
+love
+edison
+failure
+inspirational
+paraphrased
+misattributed-eleanor-roosevelt
+humor
+obvious
+simile
+love
+inspirational
+life
+humor
+books
+reading
+friendship
+friends
+truth
+simile
+
+
+O primeiro autor da página:
+Albert Einstein
+
+
+A primeira citação:
+“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+
+
+O link 'Next' (se existir):
+/page/2/
+
+
+
+2.2 - Extração com select() e select_one()
+
+Todas as tags:
+
+change
+deep-thoughts
+thinking
+world
+abilities
+choices
+inspirational
+life
+live
+miracle
+miracles
+aliteracy
+books
+classic
+humor
+be-yourself
+inspirational
+adulthood
+success
+value
+life
+love
+edison
+failure
+inspirational
+paraphrased
+misattributed-eleanor-roosevelt
+humor
+obvious
+simile
+love
+inspirational
+life
+humor
+books
+reading
+friendship
+friends
+truth
+simile
+
+
+Todas as citações:
+
+“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+“It is our choices, Harry, that show what we truly are, far more than our abilities.”
+“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+“Try not to become a man of success. Rather become a man of value.”
+“It is better to be hated for what you are than to be loved for what you are not.”
+“I have not failed. I've just found 10,000 ways that won't work.”
+“A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+“A day without sunshine is like, you know, night.”
+
+
+Todos os autores:
+
+Albert Einstein
+J.K. Rowling
+Albert Einstein
+Jane Austen
+Marilyn Monroe
+Albert Einstein
+André Gide
+Thomas A. Edison
+Eleanor Roosevelt
+Steve Martin
+
+
+O primeiro autor da página:
+Albert Einstein
+
+
+A primeira citação:
+“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+
+
+O link 'Next' (se existir):
+/page/2/
+
+
+Todas as tags dentro de cada citação (texto das tags):
+Citação #1 -> ['change', 'deep-thoughts', 'thinking', 'world']
+Citação #2 -> ['abilities', 'choices']
+Citação #3 -> ['inspirational', 'life', 'live', 'miracle', 'miracles']
+Citação #4 -> ['aliteracy', 'books', 'classic', 'humor']
+Citação #5 -> ['be-yourself', 'inspirational']
+Citação #6 -> ['adulthood', 'success', 'value']
+Citação #7 -> ['life', 'love']
+Citação #8 -> ['edison', 'failure', 'inspirational', 'paraphrased']
+Citação #9 -> ['misattributed-eleanor-roosevelt']
+Citação #10 -> ['humor', 'obvious', 'simile']
+
+
+O autor da primeira citação (hierarquia CSS):
+Albert Einstein
+
+
+
+2.3 - Extração de atributos
+
+
+--- Citação #1 ---
+Texto: “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+Autor: Albert Einstein
+About href: /author/Albert-Einstein
+Nº tags: 4
+Classes do div.quote: ['quote']
+
+--- Citação #2 ---
+Texto: “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+Autor: J.K. Rowling
+About href: /author/J-K-Rowling
+Nº tags: 2
+Classes do div.quote: ['quote']
+
+--- Citação #3 ---
+Texto: “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+Autor: Albert Einstein
+About href: /author/Albert-Einstein
+Nº tags: 5
+Classes do div.quote: ['quote']
+
+--- Citação #4 ---
+Texto: “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+Autor: Jane Austen
+About href: /author/Jane-Austen
+Nº tags: 4
+Classes do div.quote: ['quote']
+
+--- Citação #5 ---
+Texto: “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+Autor: Marilyn Monroe
+About href: /author/Marilyn-Monroe
+Nº tags: 2
+Classes do div.quote: ['quote']
+
+--- Citação #6 ---
+Texto: “Try not to become a man of success. Rather become a man of value.”
+Autor: Albert Einstein
+About href: /author/Albert-Einstein
+Nº tags: 3
+Classes do div.quote: ['quote']
+
+--- Citação #7 ---
+Texto: “It is better to be hated for what you are than to be loved for what you are not.”
+Autor: André Gide
+About href: /author/Andre-Gide
+Nº tags: 2
+Classes do div.quote: ['quote']
+
+--- Citação #8 ---
+Texto: “I have not failed. I've just found 10,000 ways that won't work.”
+Autor: Thomas A. Edison
+About href: /author/Thomas-A-Edison
+Nº tags: 4
+Classes do div.quote: ['quote']
+
+--- Citação #9 ---
+Texto: “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+Autor: Eleanor Roosevelt
+About href: /author/Eleanor-Roosevelt
+Nº tags: 1
+Classes do div.quote: ['quote']
+
+--- Citação #10 ---
+Texto: “A day without sunshine is like, you know, night.”
+Autor: Steve Martin
+About href: /author/Steve-Martin
+Nº tags: 3
+Classes do div.quote: ['quote']

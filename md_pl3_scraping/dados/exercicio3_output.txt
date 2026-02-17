@@ -1,0 +1,7334 @@
+#######################################################################
+# Exercício 3 - Paginação / Crawling (BooksToScrape)
+#######################################################################
+
+
+==================== Página 1 ====================
+URL: http://books.toscrape.com/catalogue/page-1.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: A Light in the Attic
+  Preço: 51.77
+  Disponível: True
+  Rating: 3
+  URL (relativa): a-light-in-the-attic_1000/index.html
+
+Livro 2:
+  Título: Tipping the Velvet
+  Preço: 53.74
+  Disponível: True
+  Rating: 1
+  URL (relativa): tipping-the-velvet_999/index.html
+
+Livro 3:
+  Título: Soumission
+  Preço: 50.1
+  Disponível: True
+  Rating: 1
+  URL (relativa): soumission_998/index.html
+
+Livro 4:
+  Título: Sharp Objects
+  Preço: 47.82
+  Disponível: True
+  Rating: 4
+  URL (relativa): sharp-objects_997/index.html
+
+Livro 5:
+  Título: Sapiens: A Brief History of Humankind
+  Preço: 54.23
+  Disponível: True
+  Rating: 5
+  URL (relativa): sapiens-a-brief-history-of-humankind_996/index.html
+
+Livro 6:
+  Título: The Requiem Red
+  Preço: 22.65
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-requiem-red_995/index.html
+
+Livro 7:
+  Título: The Dirty Little Secrets of Getting Your Dream Job
+  Preço: 33.34
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+
+Livro 8:
+  Título: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+  Preço: 17.93
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+
+Livro 9:
+  Título: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+  Preço: 22.6
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+
+Livro 10:
+  Título: The Black Maria
+  Preço: 52.15
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-black-maria_991/index.html
+
+Livro 11:
+  Título: Starving Hearts (Triangular Trade Trilogy, #1)
+  Preço: 13.99
+  Disponível: True
+  Rating: 2
+  URL (relativa): starving-hearts-triangular-trade-trilogy-1_990/index.html
+
+Livro 12:
+  Título: Shakespeare's Sonnets
+  Preço: 20.66
+  Disponível: True
+  Rating: 4
+  URL (relativa): shakespeares-sonnets_989/index.html
+
+Livro 13:
+  Título: Set Me Free
+  Preço: 17.46
+  Disponível: True
+  Rating: 5
+  URL (relativa): set-me-free_988/index.html
+
+Livro 14:
+  Título: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+  Preço: 52.29
+  Disponível: True
+  Rating: 5
+  URL (relativa): scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+
+Livro 15:
+  Título: Rip it Up and Start Again
+  Preço: 35.02
+  Disponível: True
+  Rating: 5
+  URL (relativa): rip-it-up-and-start-again_986/index.html
+
+Livro 16:
+  Título: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+  Preço: 57.25
+  Disponível: True
+  Rating: 3
+  URL (relativa): our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+
+Livro 17:
+  Título: Olio
+  Preço: 23.88
+  Disponível: True
+  Rating: 1
+  URL (relativa): olio_984/index.html
+
+Livro 18:
+  Título: Mesaerion: The Best Science Fiction Stories 1800-1849
+  Preço: 37.59
+  Disponível: True
+  Rating: 1
+  URL (relativa): mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+
+Livro 19:
+  Título: Libertarianism for Beginners
+  Preço: 51.33
+  Disponível: True
+  Rating: 2
+  URL (relativa): libertarianism-for-beginners_982/index.html
+
+Livro 20:
+  Título: It's Only the Himalayas
+  Preço: 45.17
+  Disponível: True
+  Rating: 2
+  URL (relativa): its-only-the-himalayas_981/index.html
+
+Delay ético: 2.92s
+
+==================== Página 2 ====================
+URL: http://books.toscrape.com/catalogue/page-2.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: In Her Wake
+  Preço: 12.84
+  Disponível: True
+  Rating: 1
+  URL (relativa): in-her-wake_980/index.html
+
+Livro 2:
+  Título: How Music Works
+  Preço: 37.32
+  Disponível: True
+  Rating: 2
+  URL (relativa): how-music-works_979/index.html
+
+Livro 3:
+  Título: Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More
+  Preço: 30.52
+  Disponível: True
+  Rating: 3
+  URL (relativa): foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+
+Livro 4:
+  Título: Chase Me (Paris Nights #2)
+  Preço: 25.27
+  Disponível: True
+  Rating: 5
+  URL (relativa): chase-me-paris-nights-2_977/index.html
+
+Livro 5:
+  Título: Black Dust
+  Preço: 34.53
+  Disponível: True
+  Rating: 5
+  URL (relativa): black-dust_976/index.html
+
+Livro 6:
+  Título: Birdsong: A Story in Pictures
+  Preço: 54.64
+  Disponível: True
+  Rating: 3
+  URL (relativa): birdsong-a-story-in-pictures_975/index.html
+
+Livro 7:
+  Título: America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana
+  Preço: 22.5
+  Disponível: True
+  Rating: 3
+  URL (relativa): americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+
+Livro 8:
+  Título: Aladdin and His Wonderful Lamp
+  Preço: 53.13
+  Disponível: True
+  Rating: 3
+  URL (relativa): aladdin-and-his-wonderful-lamp_973/index.html
+
+Livro 9:
+  Título: Worlds Elsewhere: Journeys Around Shakespeare’s Globe
+  Preço: 40.3
+  Disponível: True
+  Rating: 5
+  URL (relativa): worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+
+Livro 10:
+  Título: Wall and Piece
+  Preço: 44.18
+  Disponível: True
+  Rating: 4
+  URL (relativa): wall-and-piece_971/index.html
+
+Livro 11:
+  Título: The Four Agreements: A Practical Guide to Personal Freedom
+  Preço: 17.66
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+
+Livro 12:
+  Título: The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
+  Preço: 31.05
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+
+Livro 13:
+  Título: The Elephant Tree
+  Preço: 23.82
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-elephant-tree_968/index.html
+
+Livro 14:
+  Título: The Bear and the Piano
+  Preço: 36.89
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-bear-and-the-piano_967/index.html
+
+Livro 15:
+  Título: Sophie's World
+  Preço: 15.94
+  Disponível: True
+  Rating: 5
+  URL (relativa): sophies-world_966/index.html
+
+Livro 16:
+  Título: Penny Maybe
+  Preço: 33.29
+  Disponível: True
+  Rating: 3
+  URL (relativa): penny-maybe_965/index.html
+
+Livro 17:
+  Título: Maude (1883-1993):She Grew Up with the country
+  Preço: 18.02
+  Disponível: True
+  Rating: 2
+  URL (relativa): maude-1883-1993she-grew-up-with-the-country_964/index.html
+
+Livro 18:
+  Título: In a Dark, Dark Wood
+  Preço: 19.63
+  Disponível: True
+  Rating: 1
+  URL (relativa): in-a-dark-dark-wood_963/index.html
+
+Livro 19:
+  Título: Behind Closed Doors
+  Preço: 52.22
+  Disponível: True
+  Rating: 4
+  URL (relativa): behind-closed-doors_962/index.html
+
+Livro 20:
+  Título: You can't bury them all: Poems
+  Preço: 33.63
+  Disponível: True
+  Rating: 2
+  URL (relativa): you-cant-bury-them-all-poems_961/index.html
+
+Delay ético: 1.71s
+
+==================== Página 3 ====================
+URL: http://books.toscrape.com/catalogue/page-3.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Slow States of Collapse: Poems
+  Preço: 57.31
+  Disponível: True
+  Rating: 3
+  URL (relativa): slow-states-of-collapse-poems_960/index.html
+
+Livro 2:
+  Título: Reasons to Stay Alive
+  Preço: 26.41
+  Disponível: True
+  Rating: 2
+  URL (relativa): reasons-to-stay-alive_959/index.html
+
+Livro 3:
+  Título: Private Paris (Private #10)
+  Preço: 47.61
+  Disponível: True
+  Rating: 5
+  URL (relativa): private-paris-private-10_958/index.html
+
+Livro 4:
+  Título: #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.
+  Preço: 23.11
+  Disponível: True
+  Rating: 5
+  URL (relativa): higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html
+
+Livro 5:
+  Título: Without Borders (Wanderlove #1)
+  Preço: 45.07
+  Disponível: True
+  Rating: 2
+  URL (relativa): without-borders-wanderlove-1_956/index.html
+
+Livro 6:
+  Título: When We Collided
+  Preço: 31.77
+  Disponível: True
+  Rating: 1
+  URL (relativa): when-we-collided_955/index.html
+
+Livro 7:
+  Título: We Love You, Charlie Freeman
+  Preço: 50.27
+  Disponível: True
+  Rating: 5
+  URL (relativa): we-love-you-charlie-freeman_954/index.html
+
+Livro 8:
+  Título: Untitled Collection: Sabbath Poems 2014
+  Preço: 14.27
+  Disponível: True
+  Rating: 4
+  URL (relativa): untitled-collection-sabbath-poems-2014_953/index.html
+
+Livro 9:
+  Título: Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
+  Preço: 44.18
+  Disponível: True
+  Rating: 4
+  URL (relativa): unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html
+
+Livro 10:
+  Título: Unicorn Tracks
+  Preço: 18.78
+  Disponível: True
+  Rating: 3
+  URL (relativa): unicorn-tracks_951/index.html
+
+Livro 11:
+  Título: Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink
+  Preço: 25.52
+  Disponível: True
+  Rating: 1
+  URL (relativa): unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
+
+Livro 12:
+  Título: Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)
+  Preço: 16.28
+  Disponível: True
+  Rating: 1
+  URL (relativa): tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html
+
+Livro 13:
+  Título: Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
+  Preço: 31.12
+  Disponível: True
+  Rating: 3
+  URL (relativa): throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html
+
+Livro 14:
+  Título: This One Summer
+  Preço: 19.49
+  Disponível: True
+  Rating: 4
+  URL (relativa): this-one-summer_947/index.html
+
+Livro 15:
+  Título: Thirst
+  Preço: 17.27
+  Disponível: True
+  Rating: 5
+  URL (relativa): thirst_946/index.html
+
+Livro 16:
+  Título: The Torch Is Passed: A Harding Family Story
+  Preço: 19.09
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-torch-is-passed-a-harding-family-story_945/index.html
+
+Livro 17:
+  Título: The Secret of Dreadwillow Carse
+  Preço: 56.13
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-secret-of-dreadwillow-carse_944/index.html
+
+Livro 18:
+  Título: The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!
+  Preço: 56.41
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html
+
+Livro 19:
+  Título: The Past Never Ends
+  Preço: 56.5
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-past-never-ends_942/index.html
+
+Livro 20:
+  Título: The Natural History of Us (The Fine Art of Pretending #2)
+  Preço: 45.22
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html
+
+Delay ético: 1.07s
+
+==================== Página 4 ====================
+URL: http://books.toscrape.com/catalogue/page-4.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Nameless City (The Nameless City #1)
+  Preço: 38.16
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-nameless-city-the-nameless-city-1_940/index.html
+
+Livro 2:
+  Título: The Murder That Never Was (Forensic Instincts #5)
+  Preço: 54.11
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-murder-that-never-was-forensic-instincts-5_939/index.html
+
+Livro 3:
+  Título: The Most Perfect Thing: Inside (and Outside) a Bird's Egg
+  Preço: 42.96
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html
+
+Livro 4:
+  Título: The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy
+  Preço: 23.89
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html
+
+Livro 5:
+  Título: The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+  Preço: 16.77
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html
+
+Livro 6:
+  Título: The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer
+  Preço: 20.59
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html
+
+Livro 7:
+  Título: The Gutsy Girl: Escapades for Your Life of Epic Adventure
+  Preço: 37.13
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html
+
+Livro 8:
+  Título: The Electric Pencil: Drawings from Inside State Hospital No. 3
+  Preço: 56.06
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html
+
+Livro 9:
+  Título: The Death of Humanity: and the Case for Life
+  Preço: 58.11
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-death-of-humanity-and-the-case-for-life_932/index.html
+
+Livro 10:
+  Título: The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life
+  Preço: 49.05
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html
+
+Livro 11:
+  Título: The Art Forger
+  Preço: 40.76
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-art-forger_930/index.html
+
+Livro 12:
+  Título: The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind
+  Preço: 19.73
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html
+
+Livro 13:
+  Título: The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution
+  Preço: 32.24
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html
+
+Livro 14:
+  Título: Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up
+  Preço: 41.83
+  Disponível: True
+  Rating: 4
+  URL (relativa): spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html
+
+Livro 15:
+  Título: Soul Reader
+  Preço: 39.58
+  Disponível: True
+  Rating: 2
+  URL (relativa): soul-reader_926/index.html
+
+Livro 16:
+  Título: Security
+  Preço: 39.25
+  Disponível: True
+  Rating: 2
+  URL (relativa): security_925/index.html
+
+Livro 17:
+  Título: Saga, Volume 6 (Saga (Collected Editions) #6)
+  Preço: 25.02
+  Disponível: True
+  Rating: 3
+  URL (relativa): saga-volume-6-saga-collected-editions-6_924/index.html
+
+Livro 18:
+  Título: Saga, Volume 5 (Saga (Collected Editions) #5)
+  Preço: 51.04
+  Disponível: True
+  Rating: 2
+  URL (relativa): saga-volume-5-saga-collected-editions-5_923/index.html
+
+Livro 19:
+  Título: Reskilling America: Learning to Labor in the Twenty-First Century
+  Preço: 19.83
+  Disponível: True
+  Rating: 2
+  URL (relativa): reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html
+
+Livro 20:
+  Título: Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)
+  Preço: 50.4
+  Disponível: True
+  Rating: 3
+  URL (relativa): rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html
+
+Delay ético: 2.19s
+
+==================== Página 5 ====================
+URL: http://books.toscrape.com/catalogue/page-5.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)
+  Preço: 13.61
+  Disponível: True
+  Rating: 5
+  URL (relativa): princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html
+
+Livro 2:
+  Título: Princess Between Worlds (Wide-Awake Princess #5)
+  Preço: 13.34
+  Disponível: True
+  Rating: 5
+  URL (relativa): princess-between-worlds-wide-awake-princess-5_919/index.html
+
+Livro 3:
+  Título: Pop Gun War, Volume 1: Gift
+  Preço: 18.97
+  Disponível: True
+  Rating: 1
+  URL (relativa): pop-gun-war-volume-1-gift_918/index.html
+
+Livro 4:
+  Título: Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics
+  Preço: 36.28
+  Disponível: True
+  Rating: 2
+  URL (relativa): political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html
+
+Livro 5:
+  Título: Patience
+  Preço: 10.16
+  Disponível: True
+  Rating: 3
+  URL (relativa): patience_916/index.html
+
+Livro 6:
+  Título: Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)
+  Preço: 15.44
+  Disponível: True
+  Rating: 4
+  URL (relativa): outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html
+
+Livro 7:
+  Título: orange: The Complete Collection 1 (orange: The Complete Collection #1)
+  Preço: 48.41
+  Disponível: True
+  Rating: 1
+  URL (relativa): orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html
+
+Livro 8:
+  Título: Online Marketing for Busy Authors: A Step-By-Step Guide
+  Preço: 46.35
+  Disponível: True
+  Rating: 1
+  URL (relativa): online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html
+
+Livro 9:
+  Título: On a Midnight Clear
+  Preço: 14.07
+  Disponível: True
+  Rating: 3
+  URL (relativa): on-a-midnight-clear_912/index.html
+
+Livro 10:
+  Título: Obsidian (Lux #1)
+  Preço: 14.86
+  Disponível: True
+  Rating: 2
+  URL (relativa): obsidian-lux-1_911/index.html
+
+Livro 11:
+  Título: My Paris Kitchen: Recipes and Stories
+  Preço: 33.37
+  Disponível: True
+  Rating: 2
+  URL (relativa): my-paris-kitchen-recipes-and-stories_910/index.html
+
+Livro 12:
+  Título: Masks and Shadows
+  Preço: 56.4
+  Disponível: True
+  Rating: 2
+  URL (relativa): masks-and-shadows_909/index.html
+
+Livro 13:
+  Título: Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed
+  Preço: 14.02
+  Disponível: True
+  Rating: 4
+  URL (relativa): mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html
+
+Livro 14:
+  Título: Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)
+  Preço: 46.91
+  Disponível: True
+  Rating: 2
+  URL (relativa): lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html
+
+Livro 15:
+  Título: Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)
+  Preço: 45.61
+  Disponível: True
+  Rating: 3
+  URL (relativa): lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html
+
+Livro 16:
+  Título: Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)
+  Preço: 19.92
+  Disponível: True
+  Rating: 2
+  URL (relativa): lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html
+
+Livro 17:
+  Título: Layered: Baking, Building, and Styling Spectacular Cakes
+  Preço: 40.11
+  Disponível: True
+  Rating: 1
+  URL (relativa): layered-baking-building-and-styling-spectacular-cakes_904/index.html
+
+Livro 18:
+  Título: Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)
+  Preço: 53.9
+  Disponível: True
+  Rating: 2
+  URL (relativa): judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html
+
+Livro 19:
+  Título: Join
+  Preço: 35.67
+  Disponível: True
+  Rating: 5
+  URL (relativa): join_902/index.html
+
+Livro 20:
+  Título: In the Country We Love: My Family Divided
+  Preço: 22.0
+  Disponível: True
+  Rating: 4
+  URL (relativa): in-the-country-we-love-my-family-divided_901/index.html
+
+Delay ético: 1.90s
+
+==================== Página 6 ====================
+URL: http://books.toscrape.com/catalogue/page-6.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine
+  Preço: 57.36
+  Disponível: True
+  Rating: 5
+  URL (relativa): immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html
+
+Livro 2:
+  Título: I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)
+  Preço: 29.17
+  Disponível: True
+  Rating: 2
+  URL (relativa): i-hate-fairyland-vol-1-madly-ever-after-i-hate-fairyland-compilations-1-5_899/index.html
+
+Livro 3:
+  Título: I am a Hero Omnibus Volume 1
+  Preço: 54.63
+  Disponível: True
+  Rating: 3
+  URL (relativa): i-am-a-hero-omnibus-volume-1_898/index.html
+
+Livro 4:
+  Título: How to Be Miserable: 40 Strategies You Already Use
+  Preço: 46.03
+  Disponível: True
+  Rating: 1
+  URL (relativa): how-to-be-miserable-40-strategies-you-already-use_897/index.html
+
+Livro 5:
+  Título: Her Backup Boyfriend (The Sorensen Family #1)
+  Preço: 33.97
+  Disponível: True
+  Rating: 1
+  URL (relativa): her-backup-boyfriend-the-sorensen-family-1_896/index.html
+
+Livro 6:
+  Título: Giant Days, Vol. 2 (Giant Days #5-8)
+  Preço: 22.11
+  Disponível: True
+  Rating: 2
+  URL (relativa): giant-days-vol-2-giant-days-5-8_895/index.html
+
+Livro 7:
+  Título: Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton
+  Preço: 29.69
+  Disponível: True
+  Rating: 3
+  URL (relativa): forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html
+
+Livro 8:
+  Título: First and First (Five Boroughs #3)
+  Preço: 15.97
+  Disponível: True
+  Rating: 4
+  URL (relativa): first-and-first-five-boroughs-3_893/index.html
+
+Livro 9:
+  Título: Fifty Shades Darker (Fifty Shades #2)
+  Preço: 21.96
+  Disponível: True
+  Rating: 1
+  URL (relativa): fifty-shades-darker-fifty-shades-2_892/index.html
+
+Livro 10:
+  Título: Everydata: The Misinformation Hidden in the Little Data You Consume Every Day
+  Preço: 54.35
+  Disponível: True
+  Rating: 2
+  URL (relativa): everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html
+
+Livro 11:
+  Título: Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master
+  Preço: 37.97
+  Disponível: True
+  Rating: 2
+  URL (relativa): dont-be-a-jerk-and-other-practical-advice-from-dogen-japans-greatest-zen-master_890/index.html
+
+Livro 12:
+  Título: Danganronpa Volume 1
+  Preço: 51.99
+  Disponível: True
+  Rating: 4
+  URL (relativa): danganronpa-volume-1_889/index.html
+
+Livro 13:
+  Título: Crown of Midnight (Throne of Glass #2)
+  Preço: 43.29
+  Disponível: True
+  Rating: 3
+  URL (relativa): crown-of-midnight-throne-of-glass-2_888/index.html
+
+Livro 14:
+  Título: Codename Baboushka, Volume 1: The Conclave of Death
+  Preço: 36.72
+  Disponível: True
+  Rating: 4
+  URL (relativa): codename-baboushka-volume-1-the-conclave-of-death_887/index.html
+
+Livro 15:
+  Título: Camp Midnight
+  Preço: 17.08
+  Disponível: True
+  Rating: 4
+  URL (relativa): camp-midnight_886/index.html
+
+Livro 16:
+  Título: Call the Nurse: True Stories of a Country Nurse on a Scottish Isle
+  Preço: 29.14
+  Disponível: True
+  Rating: 5
+  URL (relativa): call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html
+
+Livro 17:
+  Título: Burning
+  Preço: 28.81
+  Disponível: True
+  Rating: 3
+  URL (relativa): burning_884/index.html
+
+Livro 18:
+  Título: Bossypants
+  Preço: 49.46
+  Disponível: True
+  Rating: 2
+  URL (relativa): bossypants_883/index.html
+
+Livro 19:
+  Título: Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))
+  Preço: 37.92
+  Disponível: True
+  Rating: 2
+  URL (relativa): bitch-planet-vol-1-extraordinary-machine-bitch-planet-collected-editions_882/index.html
+
+Livro 20:
+  Título: Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)
+  Preço: 28.09
+  Disponível: True
+  Rating: 2
+  URL (relativa): avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html
+
+Delay ético: 2.00s
+
+==================== Página 7 ====================
+URL: http://books.toscrape.com/catalogue/page-7.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Algorithms to Live By: The Computer Science of Human Decisions
+  Preço: 30.81
+  Disponível: True
+  Rating: 1
+  URL (relativa): algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html
+
+Livro 2:
+  Título: A World of Flavor: Your Gluten Free Passport
+  Preço: 42.95
+  Disponível: True
+  Rating: 1
+  URL (relativa): a-world-of-flavor-your-gluten-free-passport_879/index.html
+
+Livro 3:
+  Título: A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations
+  Preço: 56.76
+  Disponível: True
+  Rating: 5
+  URL (relativa): a-piece-of-sky-a-grain-of-rice-a-memoir-in-four-meditations_878/index.html
+
+Livro 4:
+  Título: A Murder in Time
+  Preço: 16.64
+  Disponível: True
+  Rating: 1
+  URL (relativa): a-murder-in-time_877/index.html
+
+Livro 5:
+  Título: A Flight of Arrows (The Pathfinders #2)
+  Preço: 55.53
+  Disponível: True
+  Rating: 5
+  URL (relativa): a-flight-of-arrows-the-pathfinders-2_876/index.html
+
+Livro 6:
+  Título: A Fierce and Subtle Poison
+  Preço: 28.13
+  Disponível: True
+  Rating: 4
+  URL (relativa): a-fierce-and-subtle-poison_875/index.html
+
+Livro 7:
+  Título: A Court of Thorns and Roses (A Court of Thorns and Roses #1)
+  Preço: 52.37
+  Disponível: True
+  Rating: 1
+  URL (relativa): a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html
+
+Livro 8:
+  Título: (Un)Qualified: How God Uses Broken People to Do Big Things
+  Preço: 54.0
+  Disponível: True
+  Rating: 5
+  URL (relativa): unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html
+
+Livro 9:
+  Título: You Are What You Love: The Spiritual Power of Habit
+  Preço: 21.87
+  Disponível: True
+  Rating: 4
+  URL (relativa): you-are-what-you-love-the-spiritual-power-of-habit_872/index.html
+
+Livro 10:
+  Título: William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)
+  Preço: 43.3
+  Disponível: True
+  Rating: 4
+  URL (relativa): william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html
+
+Livro 11:
+  Título: Tuesday Nights in 1980
+  Preço: 21.04
+  Disponível: True
+  Rating: 2
+  URL (relativa): tuesday-nights-in-1980_870/index.html
+
+Livro 12:
+  Título: Tracing Numbers on a Train
+  Preço: 41.6
+  Disponível: True
+  Rating: 3
+  URL (relativa): tracing-numbers-on-a-train_869/index.html
+
+Livro 13:
+  Título: Throne of Glass (Throne of Glass #1)
+  Preço: 35.07
+  Disponível: True
+  Rating: 3
+  URL (relativa): throne-of-glass-throne-of-glass-1_868/index.html
+
+Livro 14:
+  Título: Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History
+  Preço: 59.64
+  Disponível: True
+  Rating: 1
+  URL (relativa): thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html
+
+Livro 15:
+  Título: Thirteen Reasons Why
+  Preço: 52.72
+  Disponível: True
+  Rating: 1
+  URL (relativa): thirteen-reasons-why_866/index.html
+
+Livro 16:
+  Título: The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”
+  Preço: 58.08
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html
+
+Livro 17:
+  Título: The Wedding Dress
+  Preço: 24.12
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-wedding-dress_864/index.html
+
+Livro 18:
+  Título: The Vacationers
+  Preço: 42.15
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-vacationers_863/index.html
+
+Livro 19:
+  Título: The Third Wave: An Entrepreneur’s Vision of the Future
+  Preço: 12.61
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-third-wave-an-entrepreneurs-vision-of-the-future_862/index.html
+
+Livro 20:
+  Título: The Stranger
+  Preço: 17.44
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-stranger_861/index.html
+
+Delay ético: 1.88s
+
+==================== Página 8 ====================
+URL: http://books.toscrape.com/catalogue/page-8.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Shadow Hero (The Shadow Hero)
+  Preço: 33.14
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-shadow-hero-the-shadow-hero_860/index.html
+
+Livro 2:
+  Título: The Secret (The Secret #1)
+  Preço: 27.37
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-secret-the-secret-1_859/index.html
+
+Livro 3:
+  Título: The Regional Office Is Under Attack!
+  Preço: 51.36
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-regional-office-is-under-attack_858/index.html
+
+Livro 4:
+  Título: The Psychopath Test: A Journey Through the Madness Industry
+  Preço: 36.0
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-psychopath-test-a-journey-through-the-madness-industry_857/index.html
+
+Livro 5:
+  Título: The Project
+  Preço: 10.65
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-project_856/index.html
+
+Livro 6:
+  Título: The Power of Now: A Guide to Spiritual Enlightenment
+  Preço: 43.54
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html
+
+Livro 7:
+  Título: The Omnivore's Dilemma: A Natural History of Four Meals
+  Preço: 38.21
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html
+
+Livro 8:
+  Título: The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us
+  Preço: 37.34
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-nerdy-nummies-cookbook-sweet-treats-for-the-geek-in-all-of-us_853/index.html
+
+Livro 9:
+  Título: The Murder of Roger Ackroyd (Hercule Poirot #4)
+  Preço: 44.1
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html
+
+Livro 10:
+  Título: The Mistake (Off-Campus #2)
+  Preço: 43.29
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-mistake-off-campus-2_851/index.html
+
+Livro 11:
+  Título: The Matchmaker's Playbook (Wingmen Inc. #1)
+  Preço: 55.85
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-matchmakers-playbook-wingmen-inc-1_850/index.html
+
+Livro 12:
+  Título: The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking
+  Preço: 37.6
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-love-and-lemons-cookbook-an-apple-to-zucchini-celebration-of-impromptu-cooking_849/index.html
+
+Livro 13:
+  Título: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+  Preço: 10.97
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html
+
+Livro 14:
+  Título: The Kite Runner
+  Preço: 41.82
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-kite-runner_847/index.html
+
+Livro 15:
+  Título: The House by the Lake
+  Preço: 36.95
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-house-by-the-lake_846/index.html
+
+Livro 16:
+  Título: The Glittering Court (The Glittering Court #1)
+  Preço: 44.28
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-glittering-court-the-glittering-court-1_845/index.html
+
+Livro 17:
+  Título: The Girl on the Train
+  Preço: 55.02
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-girl-on-the-train_844/index.html
+
+Livro 18:
+  Título: The Genius of Birds
+  Preço: 17.24
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-genius-of-birds_843/index.html
+
+Livro 19:
+  Título: The Emerald Mystery
+  Preço: 23.15
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-emerald-mystery_842/index.html
+
+Livro 20:
+  Título: The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First
+  Preço: 41.25
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-cookies-cups-cookbook-125-sweet-savory-recipes-reminding-you-to-always-eat-dessert-first_841/index.html
+
+Delay ético: 2.99s
+
+==================== Página 9 ====================
+URL: http://books.toscrape.com/catalogue/page-9.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.
+  Preço: 32.0
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-bridge-to-consciousness-im-writing-the-bridge-between-science-and-our-old-and-new-beliefs_840/index.html
+
+Livro 2:
+  Título: The Artist's Way: A Spiritual Path to Higher Creativity
+  Preço: 38.49
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html
+
+Livro 3:
+  Título: The Art of War
+  Preço: 33.34
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-art-of-war_838/index.html
+
+Livro 4:
+  Título: The Argonauts
+  Preço: 10.93
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-argonauts_837/index.html
+
+Livro 5:
+  Título: The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job
+  Preço: 27.55
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job_836/index.html
+
+Livro 6:
+  Título: Suddenly in Love (Lake Haven #1)
+  Preço: 55.99
+  Disponível: True
+  Rating: 2
+  URL (relativa): suddenly-in-love-lake-haven-1_835/index.html
+
+Livro 7:
+  Título: Something More Than This
+  Preço: 16.24
+  Disponível: True
+  Rating: 4
+  URL (relativa): something-more-than-this_834/index.html
+
+Livro 8:
+  Título: Soft Apocalypse
+  Preço: 26.12
+  Disponível: True
+  Rating: 2
+  URL (relativa): soft-apocalypse_833/index.html
+
+Livro 9:
+  Título: So You've Been Publicly Shamed
+  Preço: 12.23
+  Disponível: True
+  Rating: 2
+  URL (relativa): so-youve-been-publicly-shamed_832/index.html
+
+Livro 10:
+  Título: Shoe Dog: A Memoir by the Creator of NIKE
+  Preço: 23.99
+  Disponível: True
+  Rating: 2
+  URL (relativa): shoe-dog-a-memoir-by-the-creator-of-nike_831/index.html
+
+Livro 11:
+  Título: Shobu Samurai, Project Aryoku (#3)
+  Preço: 29.06
+  Disponível: True
+  Rating: 3
+  URL (relativa): shobu-samurai-project-aryoku-3_830/index.html
+
+Livro 12:
+  Título: Secrets and Lace (Fatal Hearts #1)
+  Preço: 20.27
+  Disponível: True
+  Rating: 1
+  URL (relativa): secrets-and-lace-fatal-hearts-1_829/index.html
+
+Livro 13:
+  Título: Scarlett Epstein Hates It Here
+  Preço: 43.55
+  Disponível: True
+  Rating: 5
+  URL (relativa): scarlett-epstein-hates-it-here_828/index.html
+
+Livro 14:
+  Título: Romero and Juliet: A Tragic Tale of Love and Zombies
+  Preço: 36.94
+  Disponível: True
+  Rating: 1
+  URL (relativa): romero-and-juliet-a-tragic-tale-of-love-and-zombies_827/index.html
+
+Livro 15:
+  Título: Redeeming Love
+  Preço: 20.47
+  Disponível: True
+  Rating: 5
+  URL (relativa): redeeming-love_826/index.html
+
+Livro 16:
+  Título: Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form
+  Preço: 41.06
+  Disponível: True
+  Rating: 1
+  URL (relativa): poses-for-artists-volume-1-dynamic-and-sitting-poses-an-essential-reference-for-figure-drawing-and-the-human-form_825/index.html
+
+Livro 17:
+  Título: Poems That Make Grown Women Cry
+  Preço: 14.19
+  Disponível: True
+  Rating: 4
+  URL (relativa): poems-that-make-grown-women-cry_824/index.html
+
+Livro 18:
+  Título: Nightingale, Sing
+  Preço: 38.28
+  Disponível: True
+  Rating: 1
+  URL (relativa): nightingale-sing_823/index.html
+
+Livro 19:
+  Título: Night Sky with Exit Wounds
+  Preço: 41.05
+  Disponível: True
+  Rating: 1
+  URL (relativa): night-sky-with-exit-wounds_822/index.html
+
+Livro 20:
+  Título: Mrs. Houdini
+  Preço: 30.25
+  Disponível: True
+  Rating: 5
+  URL (relativa): mrs-houdini_821/index.html
+
+Delay ético: 1.85s
+
+==================== Página 10 ====================
+URL: http://books.toscrape.com/catalogue/page-10.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Modern Romance
+  Preço: 28.26
+  Disponível: True
+  Rating: 5
+  URL (relativa): modern-romance_820/index.html
+
+Livro 2:
+  Título: Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1)
+  Preço: 10.76
+  Disponível: True
+  Rating: 1
+  URL (relativa): miss-peregrines-home-for-peculiar-children-miss-peregrines-peculiar-children-1_819/index.html
+
+Livro 3:
+  Título: Louisa: The Extraordinary Life of Mrs. Adams
+  Preço: 16.85
+  Disponível: True
+  Rating: 2
+  URL (relativa): louisa-the-extraordinary-life-of-mrs-adams_818/index.html
+
+Livro 4:
+  Título: Little Red
+  Preço: 13.47
+  Disponível: True
+  Rating: 3
+  URL (relativa): little-red_817/index.html
+
+Livro 5:
+  Título: Library of Souls (Miss Peregrine’s Peculiar Children #3)
+  Preço: 48.56
+  Disponível: True
+  Rating: 5
+  URL (relativa): library-of-souls-miss-peregrines-peculiar-children-3_816/index.html
+
+Livro 6:
+  Título: Large Print Heart of the Pride
+  Preço: 19.15
+  Disponível: True
+  Rating: 2
+  URL (relativa): large-print-heart-of-the-pride_815/index.html
+
+Livro 7:
+  Título: I Had a Nice Time And Other Lies...: How to find love & sh*t like that
+  Preço: 57.36
+  Disponível: True
+  Rating: 4
+  URL (relativa): i-had-a-nice-time-and-other-lies-how-to-find-love-sht-like-that_814/index.html
+
+Livro 8:
+  Título: Hollow City (Miss Peregrine’s Peculiar Children #2)
+  Preço: 42.98
+  Disponível: True
+  Rating: 1
+  URL (relativa): hollow-city-miss-peregrines-peculiar-children-2_813/index.html
+
+Livro 9:
+  Título: Grumbles
+  Preço: 22.16
+  Disponível: True
+  Rating: 2
+  URL (relativa): grumbles_812/index.html
+
+Livro 10:
+  Título: Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond
+  Preço: 49.43
+  Disponível: True
+  Rating: 4
+  URL (relativa): full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html
+
+Livro 11:
+  Título: Frostbite (Vampire Academy #2)
+  Preço: 29.99
+  Disponível: True
+  Rating: 5
+  URL (relativa): frostbite-vampire-academy-2_810/index.html
+
+Livro 12:
+  Título: Follow You Home
+  Preço: 21.36
+  Disponível: True
+  Rating: 1
+  URL (relativa): follow-you-home_809/index.html
+
+Livro 13:
+  Título: First Steps for New Christians (Print Edition)
+  Preço: 29.0
+  Disponível: True
+  Rating: 1
+  URL (relativa): first-steps-for-new-christians-print-edition_808/index.html
+
+Livro 14:
+  Título: Finders Keepers (Bill Hodges Trilogy #2)
+  Preço: 53.53
+  Disponível: True
+  Rating: 5
+  URL (relativa): finders-keepers-bill-hodges-trilogy-2_807/index.html
+
+Livro 15:
+  Título: Fables, Vol. 1: Legends in Exile (Fables #1)
+  Preço: 41.62
+  Disponível: True
+  Rating: 4
+  URL (relativa): fables-vol-1-legends-in-exile-fables-1_806/index.html
+
+Livro 16:
+  Título: Eureka Trivia 6.0
+  Preço: 54.59
+  Disponível: True
+  Rating: 4
+  URL (relativa): eureka-trivia-60_805/index.html
+
+Livro 17:
+  Título: Drive: The Surprising Truth About What Motivates Us
+  Preço: 34.95
+  Disponível: True
+  Rating: 4
+  URL (relativa): drive-the-surprising-truth-about-what-motivates-us_804/index.html
+
+Livro 18:
+  Título: Done Rubbed Out (Reightman & Bailey #1)
+  Preço: 37.72
+  Disponível: True
+  Rating: 5
+  URL (relativa): done-rubbed-out-reightman-bailey-1_803/index.html
+
+Livro 19:
+  Título: Doing It Over (Most Likely To #1)
+  Preço: 35.61
+  Disponível: True
+  Rating: 3
+  URL (relativa): doing-it-over-most-likely-to-1_802/index.html
+
+Livro 20:
+  Título: Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals
+  Preço: 42.16
+  Disponível: True
+  Rating: 3
+  URL (relativa): deliciously-ella-every-day-quick-and-easy-recipes-for-gluten-free-snacks-packed-lunches-and-simple-meals_801/index.html
+
+Delay ético: 1.15s
+
+==================== Página 11 ====================
+URL: http://books.toscrape.com/catalogue/page-11.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Dark Notes
+  Preço: 19.19
+  Disponível: True
+  Rating: 5
+  URL (relativa): dark-notes_800/index.html
+
+Livro 2:
+  Título: Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+  Preço: 19.43
+  Disponível: True
+  Rating: 3
+  URL (relativa): daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead_799/index.html
+
+Livro 3:
+  Título: Close to You
+  Preço: 49.46
+  Disponível: True
+  Rating: 4
+  URL (relativa): close-to-you_798/index.html
+
+Livro 4:
+  Título: Chasing Heaven: What Dying Taught Me About Living
+  Preço: 37.8
+  Disponível: True
+  Rating: 2
+  URL (relativa): chasing-heaven-what-dying-taught-me-about-living_797/index.html
+
+Livro 5:
+  Título: Big Magic: Creative Living Beyond Fear
+  Preço: 30.8
+  Disponível: True
+  Rating: 3
+  URL (relativa): big-magic-creative-living-beyond-fear_796/index.html
+
+Livro 6:
+  Título: Becoming Wise: An Inquiry into the Mystery and Art of Living
+  Preço: 27.43
+  Disponível: True
+  Rating: 2
+  URL (relativa): becoming-wise-an-inquiry-into-the-mystery-and-art-of-living_795/index.html
+
+Livro 7:
+  Título: Beauty Restored (Riley Family Legacy Novellas #3)
+  Preço: 11.11
+  Disponível: True
+  Rating: 2
+  URL (relativa): beauty-restored-riley-family-legacy-novellas-3_794/index.html
+
+Livro 8:
+  Título: Batman: The Long Halloween (Batman)
+  Preço: 36.5
+  Disponível: True
+  Rating: 2
+  URL (relativa): batman-the-long-halloween-batman_793/index.html
+
+Livro 9:
+  Título: Batman: The Dark Knight Returns (Batman)
+  Preço: 15.38
+  Disponível: True
+  Rating: 5
+  URL (relativa): batman-the-dark-knight-returns-batman_792/index.html
+
+Livro 10:
+  Título: Ayumi's Violin
+  Preço: 15.48
+  Disponível: True
+  Rating: 2
+  URL (relativa): ayumis-violin_791/index.html
+
+Livro 11:
+  Título: Anonymous
+  Preço: 46.82
+  Disponível: True
+  Rating: 4
+  URL (relativa): anonymous_790/index.html
+
+Livro 12:
+  Título: Amy Meets the Saints and Sages
+  Preço: 18.46
+  Disponível: True
+  Rating: 3
+  URL (relativa): amy-meets-the-saints-and-sages_789/index.html
+
+Livro 13:
+  Título: Amid the Chaos
+  Preço: 36.58
+  Disponível: True
+  Rating: 1
+  URL (relativa): amid-the-chaos_788/index.html
+
+Livro 14:
+  Título: Amatus
+  Preço: 50.54
+  Disponível: True
+  Rating: 5
+  URL (relativa): amatus_787/index.html
+
+Livro 15:
+  Título: Agnostic: A Spirited Manifesto
+  Preço: 12.51
+  Disponível: True
+  Rating: 5
+  URL (relativa): agnostic-a-spirited-manifesto_786/index.html
+
+Livro 16:
+  Título: Zealot: The Life and Times of Jesus of Nazareth
+  Preço: 24.7
+  Disponível: True
+  Rating: 3
+  URL (relativa): zealot-the-life-and-times-of-jesus-of-nazareth_785/index.html
+
+Livro 17:
+  Título: You (You #1)
+  Preço: 43.61
+  Disponível: True
+  Rating: 5
+  URL (relativa): you-you-1_784/index.html
+
+Livro 18:
+  Título: Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)
+  Preço: 37.34
+  Disponível: True
+  Rating: 4
+  URL (relativa): wonder-woman-earth-one-volume-one-wonder-woman-earth-one-1_783/index.html
+
+Livro 19:
+  Título: Wild Swans
+  Preço: 14.36
+  Disponível: True
+  Rating: 2
+  URL (relativa): wild-swans_782/index.html
+
+Livro 20:
+  Título: Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond
+  Preço: 52.65
+  Disponível: True
+  Rating: 4
+  URL (relativa): why-the-right-went-wrong-conservatism-from-goldwater-to-the-tea-party-and-beyond_781/index.html
+
+Delay ético: 1.80s
+
+==================== Página 12 ====================
+URL: http://books.toscrape.com/catalogue/page-12.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity
+  Preço: 38.2
+  Disponível: True
+  Rating: 4
+  URL (relativa): whole-lotta-creativity-going-on-60-fun-and-unusual-exercises-to-awaken-and-strengthen-your-creativity_780/index.html
+
+Livro 2:
+  Título: What's It Like in Space?: Stories from Astronauts Who've Been There
+  Preço: 19.6
+  Disponível: True
+  Rating: 2
+  URL (relativa): whats-it-like-in-space-stories-from-astronauts-whove-been-there_779/index.html
+
+Livro 3:
+  Título: We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)
+  Preço: 53.9
+  Disponível: True
+  Rating: 1
+  URL (relativa): we-are-robin-vol-1-the-vigilante-business-we-are-robin-1_778/index.html
+
+Livro 4:
+  Título: Walt Disney's Alice in Wonderland
+  Preço: 12.96
+  Disponível: True
+  Rating: 5
+  URL (relativa): walt-disneys-alice-in-wonderland_777/index.html
+
+Livro 5:
+  Título: V for Vendetta (V for Vendetta Complete)
+  Preço: 37.1
+  Disponível: True
+  Rating: 4
+  URL (relativa): v-for-vendetta-v-for-vendetta-complete_776/index.html
+
+Livro 6:
+  Título: Until Friday Night (The Field Party #1)
+  Preço: 46.31
+  Disponível: True
+  Rating: 2
+  URL (relativa): until-friday-night-the-field-party-1_775/index.html
+
+Livro 7:
+  Título: Unbroken: A World War II Story of Survival, Resilience, and Redemption
+  Preço: 45.95
+  Disponível: True
+  Rating: 2
+  URL (relativa): unbroken-a-world-war-ii-story-of-survival-resilience-and-redemption_774/index.html
+
+Livro 8:
+  Título: Twenty Yawns
+  Preço: 22.08
+  Disponível: True
+  Rating: 2
+  URL (relativa): twenty-yawns_773/index.html
+
+Livro 9:
+  Título: Through the Woods
+  Preço: 25.38
+  Disponível: True
+  Rating: 2
+  URL (relativa): through-the-woods_772/index.html
+
+Livro 10:
+  Título: This Is Where It Ends
+  Preço: 27.12
+  Disponível: True
+  Rating: 2
+  URL (relativa): this-is-where-it-ends_771/index.html
+
+Livro 11:
+  Título: The Year of Magical Thinking
+  Preço: 43.04
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-year-of-magical-thinking_770/index.html
+
+Livro 12:
+  Título: The Wright Brothers
+  Preço: 56.8
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-wright-brothers_769/index.html
+
+Livro 13:
+  Título: The White Queen (The Cousins' War #1)
+  Preço: 25.91
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-white-queen-the-cousins-war-1_768/index.html
+
+Livro 14:
+  Título: The Wedding Pact (The O'Malleys #2)
+  Preço: 32.61
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-wedding-pact-the-omalleys-2_767/index.html
+
+Livro 15:
+  Título: The Time Keeper
+  Preço: 27.88
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-time-keeper_766/index.html
+
+Livro 16:
+  Título: The Testament of Mary
+  Preço: 52.67
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-testament-of-mary_765/index.html
+
+Livro 17:
+  Título: The Star-Touched Queen
+  Preço: 46.02
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-star-touched-queen_764/index.html
+
+Livro 18:
+  Título: The Songs of the Gods
+  Preço: 44.48
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-songs-of-the-gods_763/index.html
+
+Livro 19:
+  Título: The Song of Achilles
+  Preço: 37.4
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-song-of-achilles_762/index.html
+
+Livro 20:
+  Título: The Rosie Project (Don Tillman #1)
+  Preço: 54.04
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-rosie-project-don-tillman-1_761/index.html
+
+Delay ético: 1.80s
+
+==================== Página 13 ====================
+URL: http://books.toscrape.com/catalogue/page-13.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Power of Habit: Why We Do What We Do in Life and Business
+  Preço: 16.88
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-power-of-habit-why-we-do-what-we-do-in-life-and-business_760/index.html
+
+Livro 2:
+  Título: The Marriage of Opposites
+  Preço: 28.08
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-marriage-of-opposites_759/index.html
+
+Livro 3:
+  Título: The Lucifer Effect: Understanding How Good People Turn Evil
+  Preço: 10.4
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-lucifer-effect-understanding-how-good-people-turn-evil_758/index.html
+
+Livro 4:
+  Título: The Long Haul (Diary of a Wimpy Kid #9)
+  Preço: 44.07
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-long-haul-diary-of-a-wimpy-kid-9_757/index.html
+
+Livro 5:
+  Título: The Loney
+  Preço: 23.4
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-loney_756/index.html
+
+Livro 6:
+  Título: The Literature Book (Big Ideas Simply Explained)
+  Preço: 17.43
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-literature-book-big-ideas-simply-explained_755/index.html
+
+Livro 7:
+  Título: The Last Mile (Amos Decker #2)
+  Preço: 54.21
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-last-mile-amos-decker-2_754/index.html
+
+Livro 8:
+  Título: The Immortal Life of Henrietta Lacks
+  Preço: 40.67
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-immortal-life-of-henrietta-lacks_753/index.html
+
+Livro 9:
+  Título: The Hidden Oracle (The Trials of Apollo #1)
+  Preço: 52.26
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-hidden-oracle-the-trials-of-apollo-1_752/index.html
+
+Livro 10:
+  Título: The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth
+  Preço: 28.77
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-help-yourself-cookbook-for-kids-60-easy-plant-based-recipes-kids-can-make-to-stay-healthy-and-save-the-earth_751/index.html
+
+Livro 11:
+  Título: The Guilty (Will Robie #4)
+  Preço: 13.82
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-guilty-will-robie-4_750/index.html
+
+Livro 12:
+  Título: The First Hostage (J.B. Collins #2)
+  Preço: 25.85
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-first-hostage-jb-collins-2_749/index.html
+
+Livro 13:
+  Título: The Dovekeepers
+  Preço: 48.78
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-dovekeepers_748/index.html
+
+Livro 14:
+  Título: The Darkest Lie
+  Preço: 35.35
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-darkest-lie_747/index.html
+
+Livro 15:
+  Título: The Bane Chronicles (The Bane Chronicles #1-11)
+  Preço: 44.73
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-bane-chronicles-the-bane-chronicles-1-11_746/index.html
+
+Livro 16:
+  Título: The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts
+  Preço: 15.77
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-bad-ass-librarians-of-timbuktu-and-their-race-to-save-the-worlds-most-precious-manuscripts_745/index.html
+
+Livro 17:
+  Título: The 14th Colony (Cotton Malone #11)
+  Preço: 39.24
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-14th-colony-cotton-malone-11_744/index.html
+
+Livro 18:
+  Título: That Darkness (Gardiner and Renner #1)
+  Preço: 13.92
+  Disponível: True
+  Rating: 1
+  URL (relativa): that-darkness-gardiner-and-renner-1_743/index.html
+
+Livro 19:
+  Título: Tastes Like Fear (DI Marnie Rome #3)
+  Preço: 10.69
+  Disponível: True
+  Rating: 1
+  URL (relativa): tastes-like-fear-di-marnie-rome-3_742/index.html
+
+Livro 20:
+  Título: Take Me with You
+  Preço: 45.21
+  Disponível: True
+  Rating: 3
+  URL (relativa): take-me-with-you_741/index.html
+
+Delay ético: 1.91s
+
+==================== Página 14 ====================
+URL: http://books.toscrape.com/catalogue/page-14.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Swell: A Year of Waves
+  Preço: 45.58
+  Disponível: True
+  Rating: 1
+  URL (relativa): swell-a-year-of-waves_740/index.html
+
+Livro 2:
+  Título: Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)
+  Preço: 11.89
+  Disponível: True
+  Rating: 5
+  URL (relativa): superman-vol-1-before-truth-superman-by-gene-luen-yang-1_739/index.html
+
+Livro 3:
+  Título: Still Life with Bread Crumbs
+  Preço: 26.41
+  Disponível: True
+  Rating: 3
+  URL (relativa): still-life-with-bread-crumbs_738/index.html
+
+Livro 4:
+  Título: Steve Jobs
+  Preço: 39.5
+  Disponível: True
+  Rating: 5
+  URL (relativa): steve-jobs_737/index.html
+
+Livro 5:
+  Título: Sorting the Beef from the Bull: The Science of Food Fraud Forensics
+  Preço: 44.74
+  Disponível: True
+  Rating: 4
+  URL (relativa): sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html
+
+Livro 6:
+  Título: Someone Like You (The Harrisons #2)
+  Preço: 52.79
+  Disponível: True
+  Rating: 5
+  URL (relativa): someone-like-you-the-harrisons-2_735/index.html
+
+Livro 7:
+  Título: So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)
+  Preço: 35.43
+  Disponível: True
+  Rating: 4
+  URL (relativa): so-cute-it-hurts-vol-6-so-cute-it-hurts-6_734/index.html
+
+Livro 8:
+  Título: Shtum
+  Preço: 55.84
+  Disponível: True
+  Rating: 4
+  URL (relativa): shtum_733/index.html
+
+Livro 9:
+  Título: See America: A Celebration of Our National Parks & Treasured Sites
+  Preço: 48.87
+  Disponível: True
+  Rating: 3
+  URL (relativa): see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html
+
+Livro 10:
+  Título: salt.
+  Preço: 46.78
+  Disponível: True
+  Rating: 4
+  URL (relativa): salt_731/index.html
+
+Livro 11:
+  Título: Robin War
+  Preço: 47.82
+  Disponível: True
+  Rating: 3
+  URL (relativa): robin-war_730/index.html
+
+Livro 12:
+  Título: Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)
+  Preço: 25.48
+  Disponível: True
+  Rating: 2
+  URL (relativa): red-hoodarsenal-vol-1-open-for-business-red-hoodarsenal-1_729/index.html
+
+Livro 13:
+  Título: Rain Fish
+  Preço: 23.57
+  Disponível: True
+  Rating: 3
+  URL (relativa): rain-fish_728/index.html
+
+Livro 14:
+  Título: Quarter Life Poetry: Poems for the Young, Broke and Hangry
+  Preço: 50.89
+  Disponível: True
+  Rating: 5
+  URL (relativa): quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html
+
+Livro 15:
+  Título: Pet Sematary
+  Preço: 10.56
+  Disponível: True
+  Rating: 3
+  URL (relativa): pet-sematary_726/index.html
+
+Livro 16:
+  Título: Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress
+  Preço: 52.15
+  Disponível: True
+  Rating: 3
+  URL (relativa): overload-how-to-unplug-unwind-and-unleash-yourself-from-the-pressure-of-stress_725/index.html
+
+Livro 17:
+  Título: Once Was a Time
+  Preço: 18.28
+  Disponível: True
+  Rating: 2
+  URL (relativa): once-was-a-time_724/index.html
+
+Livro 18:
+  Título: Old School (Diary of a Wimpy Kid #10)
+  Preço: 11.83
+  Disponível: True
+  Rating: 5
+  URL (relativa): old-school-diary-of-a-wimpy-kid-10_723/index.html
+
+Livro 19:
+  Título: No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon
+  Preço: 21.95
+  Disponível: True
+  Rating: 2
+  URL (relativa): no-dream-is-too-high-life-lessons-from-a-man-who-walked-on-the-moon_722/index.html
+
+Livro 20:
+  Título: Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)
+  Preço: 38.39
+  Disponível: True
+  Rating: 2
+  URL (relativa): naruto-3-in-1-edition-vol-14-includes-vols-40-41-42-naruto-omnibus-14_721/index.html
+
+Delay ético: 1.03s
+
+==================== Página 15 ====================
+URL: http://books.toscrape.com/catalogue/page-15.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: My Name Is Lucy Barton
+  Preço: 41.56
+  Disponível: True
+  Rating: 1
+  URL (relativa): my-name-is-lucy-barton_720/index.html
+
+Livro 2:
+  Título: My Mrs. Brown
+  Preço: 24.48
+  Disponível: True
+  Rating: 3
+  URL (relativa): my-mrs-brown_719/index.html
+
+Livro 3:
+  Título: My Kind of Crazy
+  Preço: 40.36
+  Disponível: True
+  Rating: 1
+  URL (relativa): my-kind-of-crazy_718/index.html
+
+Livro 4:
+  Título: Mr. Mercedes (Bill Hodges Trilogy #1)
+  Preço: 28.9
+  Disponível: True
+  Rating: 1
+  URL (relativa): mr-mercedes-bill-hodges-trilogy-1_717/index.html
+
+Livro 5:
+  Título: More Than Music (Chasing the Dream #1)
+  Preço: 37.61
+  Disponível: True
+  Rating: 2
+  URL (relativa): more-than-music-chasing-the-dream-1_716/index.html
+
+Livro 6:
+  Título: Made to Stick: Why Some Ideas Survive and Others Die
+  Preço: 38.85
+  Disponível: True
+  Rating: 5
+  URL (relativa): made-to-stick-why-some-ideas-survive-and-others-die_715/index.html
+
+Livro 7:
+  Título: Luis Paints the World
+  Preço: 53.95
+  Disponível: True
+  Rating: 3
+  URL (relativa): luis-paints-the-world_714/index.html
+
+Livro 8:
+  Título: Luckiest Girl Alive
+  Preço: 49.83
+  Disponível: True
+  Rating: 3
+  URL (relativa): luckiest-girl-alive_713/index.html
+
+Livro 9:
+  Título: Lowriders to the Center of the Earth (Lowriders in Space #2)
+  Preço: 51.51
+  Disponível: True
+  Rating: 2
+  URL (relativa): lowriders-to-the-center-of-the-earth-lowriders-in-space-2_712/index.html
+
+Livro 10:
+  Título: Love Is a Mix Tape (Music #1)
+  Preço: 18.03
+  Disponível: True
+  Rating: 1
+  URL (relativa): love-is-a-mix-tape-music-1_711/index.html
+
+Livro 11:
+  Título: Looking for Lovely: Collecting the Moments that Matter
+  Preço: 29.14
+  Disponível: True
+  Rating: 5
+  URL (relativa): looking-for-lovely-collecting-the-moments-that-matter_710/index.html
+
+Livro 12:
+  Título: Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments
+  Preço: 46.91
+  Disponível: True
+  Rating: 4
+  URL (relativa): living-leadership-by-insight-a-good-leader-achieves-a-great-leader-builds-monuments_709/index.html
+
+Livro 13:
+  Título: Let It Out: A Journey Through Journaling
+  Preço: 26.79
+  Disponível: True
+  Rating: 5
+  URL (relativa): let-it-out-a-journey-through-journaling_708/index.html
+
+Livro 14:
+  Título: Lady Midnight (The Dark Artifices #1)
+  Preço: 16.28
+  Disponível: True
+  Rating: 5
+  URL (relativa): lady-midnight-the-dark-artifices-1_707/index.html
+
+Livro 15:
+  Título: It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes
+  Preço: 19.55
+  Disponível: True
+  Rating: 1
+  URL (relativa): its-all-easy-healthy-delicious-weeknight-meals-in-under-30-minutes_706/index.html
+
+Livro 16:
+  Título: Island of Dragons (Unwanteds #7)
+  Preço: 29.65
+  Disponível: True
+  Rating: 1
+  URL (relativa): island-of-dragons-unwanteds-7_705/index.html
+
+Livro 17:
+  Título: I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction
+  Preço: 25.98
+  Disponível: True
+  Rating: 4
+  URL (relativa): i-know-what-im-doing-and-other-lies-i-tell-myself-dispatches-from-a-life-under-construction_704/index.html
+
+Livro 18:
+  Título: I Am Pilgrim (Pilgrim #1)
+  Preço: 10.6
+  Disponível: True
+  Rating: 4
+  URL (relativa): i-am-pilgrim-pilgrim-1_703/index.html
+
+Livro 19:
+  Título: Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened
+  Preço: 14.75
+  Disponível: True
+  Rating: 5
+  URL (relativa): hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened_702/index.html
+
+Livro 20:
+  Título: Hush, Hush (Hush, Hush #1)
+  Preço: 47.02
+  Disponível: True
+  Rating: 3
+  URL (relativa): hush-hush-hush-hush-1_701/index.html
+
+Delay ético: 1.54s
+
+==================== Página 16 ====================
+URL: http://books.toscrape.com/catalogue/page-16.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Hold Your Breath (Search and Rescue #1)
+  Preço: 28.82
+  Disponível: True
+  Rating: 1
+  URL (relativa): hold-your-breath-search-and-rescue-1_700/index.html
+
+Livro 2:
+  Título: Hamilton: The Revolution
+  Preço: 58.79
+  Disponível: True
+  Rating: 3
+  URL (relativa): hamilton-the-revolution_699/index.html
+
+Livro 3:
+  Título: Greek Mythic History
+  Preço: 10.23
+  Disponível: True
+  Rating: 5
+  URL (relativa): greek-mythic-history_698/index.html
+
+Livro 4:
+  Título: God: The Most Unpleasant Character in All Fiction
+  Preço: 30.03
+  Disponível: True
+  Rating: 5
+  URL (relativa): god-the-most-unpleasant-character-in-all-fiction_697/index.html
+
+Livro 5:
+  Título: Glory over Everything: Beyond The Kitchen House
+  Preço: 45.84
+  Disponível: True
+  Rating: 3
+  URL (relativa): glory-over-everything-beyond-the-kitchen-house_696/index.html
+
+Livro 6:
+  Título: Feathers: Displays of Brilliant Plumage
+  Preço: 49.05
+  Disponível: True
+  Rating: 3
+  URL (relativa): feathers-displays-of-brilliant-plumage_695/index.html
+
+Livro 7:
+  Título: Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years
+  Preço: 15.06
+  Disponível: True
+  Rating: 4
+  URL (relativa): far-away-places-on-the-brink-of-change-seven-continents-twenty-five-years_694/index.html
+
+Livro 8:
+  Título: Every Last Word
+  Preço: 46.47
+  Disponível: True
+  Rating: 3
+  URL (relativa): every-last-word_693/index.html
+
+Livro 9:
+  Título: Eligible (The Austen Project #4)
+  Preço: 27.09
+  Disponível: True
+  Rating: 3
+  URL (relativa): eligible-the-austen-project-4_692/index.html
+
+Livro 10:
+  Título: El Deafo
+  Preço: 57.62
+  Disponível: True
+  Rating: 5
+  URL (relativa): el-deafo_691/index.html
+
+Livro 11:
+  Título: Eight Hundred Grapes
+  Preço: 14.39
+  Disponível: True
+  Rating: 4
+  URL (relativa): eight-hundred-grapes_690/index.html
+
+Livro 12:
+  Título: Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life
+  Preço: 51.75
+  Disponível: True
+  Rating: 5
+  URL (relativa): eaternity-more-than-150-deliciously-easy-vegan-recipes-for-a-long-healthy-satisfied-joyful-life_689/index.html
+
+Livro 13:
+  Título: Eat Fat, Get Thin
+  Preço: 54.07
+  Disponível: True
+  Rating: 2
+  URL (relativa): eat-fat-get-thin_688/index.html
+
+Livro 14:
+  Título: Don't Get Caught
+  Preço: 55.35
+  Disponível: True
+  Rating: 1
+  URL (relativa): dont-get-caught_687/index.html
+
+Livro 15:
+  Título: Doctor Sleep (The Shining #2)
+  Preço: 40.12
+  Disponível: True
+  Rating: 2
+  URL (relativa): doctor-sleep-the-shining-2_686/index.html
+
+Livro 16:
+  Título: Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)
+  Preço: 37.51
+  Disponível: True
+  Rating: 5
+  URL (relativa): demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html
+
+Livro 17:
+  Título: Dear Mr. Knightley
+  Preço: 11.21
+  Disponível: True
+  Rating: 5
+  URL (relativa): dear-mr-knightley_684/index.html
+
+Livro 18:
+  Título: Daily Fantasy Sports
+  Preço: 36.58
+  Disponível: True
+  Rating: 1
+  URL (relativa): daily-fantasy-sports_683/index.html
+
+Livro 19:
+  Título: Crazy Love: Overwhelmed by a Relentless God
+  Preço: 47.72
+  Disponível: True
+  Rating: 2
+  URL (relativa): crazy-love-overwhelmed-by-a-relentless-god_682/index.html
+
+Livro 20:
+  Título: Cometh the Hour (The Clifton Chronicles #6)
+  Preço: 25.01
+  Disponível: True
+  Rating: 3
+  URL (relativa): cometh-the-hour-the-clifton-chronicles-6_681/index.html
+
+Delay ético: 2.42s
+
+==================== Página 17 ====================
+URL: http://books.toscrape.com/catalogue/page-17.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Code Name Verity (Code Name Verity #1)
+  Preço: 22.13
+  Disponível: True
+  Rating: 4
+  URL (relativa): code-name-verity-code-name-verity-1_680/index.html
+
+Livro 2:
+  Título: Clockwork Angel (The Infernal Devices #1)
+  Preço: 44.14
+  Disponível: True
+  Rating: 1
+  URL (relativa): clockwork-angel-the-infernal-devices-1_679/index.html
+
+Livro 3:
+  Título: City of Glass (The Mortal Instruments #3)
+  Preço: 56.02
+  Disponível: True
+  Rating: 4
+  URL (relativa): city-of-glass-the-mortal-instruments-3_678/index.html
+
+Livro 4:
+  Título: City of Fallen Angels (The Mortal Instruments #4)
+  Preço: 11.23
+  Disponível: True
+  Rating: 4
+  URL (relativa): city-of-fallen-angels-the-mortal-instruments-4_677/index.html
+
+Livro 5:
+  Título: City of Bones (The Mortal Instruments #1)
+  Preço: 43.28
+  Disponível: True
+  Rating: 1
+  URL (relativa): city-of-bones-the-mortal-instruments-1_676/index.html
+
+Livro 6:
+  Título: City of Ashes (The Mortal Instruments #2)
+  Preço: 47.27
+  Disponível: True
+  Rating: 1
+  URL (relativa): city-of-ashes-the-mortal-instruments-2_675/index.html
+
+Livro 7:
+  Título: Cell
+  Preço: 20.29
+  Disponível: True
+  Rating: 4
+  URL (relativa): cell_674/index.html
+
+Livro 8:
+  Título: Catching Jordan (Hundred Oaks)
+  Preço: 50.83
+  Disponível: True
+  Rating: 3
+  URL (relativa): catching-jordan-hundred-oaks_673/index.html
+
+Livro 9:
+  Título: Carry On, Warrior: Thoughts on Life Unarmed
+  Preço: 31.85
+  Disponível: True
+  Rating: 3
+  URL (relativa): carry-on-warrior-thoughts-on-life-unarmed_672/index.html
+
+Livro 10:
+  Título: Carrie
+  Preço: 46.23
+  Disponível: True
+  Rating: 2
+  URL (relativa): carrie_671/index.html
+
+Livro 11:
+  Título: Buying In: The Secret Dialogue Between What We Buy and Who We Are
+  Preço: 37.8
+  Disponível: True
+  Rating: 4
+  URL (relativa): buying-in-the-secret-dialogue-between-what-we-buy-and-who-we-are_670/index.html
+
+Livro 12:
+  Título: Brain on Fire: My Month of Madness
+  Preço: 49.32
+  Disponível: True
+  Rating: 5
+  URL (relativa): brain-on-fire-my-month-of-madness_669/index.html
+
+Livro 13:
+  Título: Batman: Europa
+  Preço: 32.01
+  Disponível: True
+  Rating: 2
+  URL (relativa): batman-europa_668/index.html
+
+Livro 14:
+  Título: Barefoot Contessa Back to Basics
+  Preço: 28.01
+  Disponível: True
+  Rating: 1
+  URL (relativa): barefoot-contessa-back-to-basics_667/index.html
+
+Livro 15:
+  Título: Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again
+  Preço: 50.62
+  Disponível: True
+  Rating: 5
+  URL (relativa): barefoot-contessa-at-home-everyday-recipes-youll-make-over-and-over-again_666/index.html
+
+Livro 16:
+  Título: Balloon Animals
+  Preço: 17.03
+  Disponível: True
+  Rating: 3
+  URL (relativa): balloon-animals_665/index.html
+
+Livro 17:
+  Título: Art Ops Vol. 1
+  Preço: 48.8
+  Disponível: True
+  Rating: 3
+  URL (relativa): art-ops-vol-1_664/index.html
+
+Livro 18:
+  Título: Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)
+  Preço: 58.14
+  Disponível: True
+  Rating: 4
+  URL (relativa): aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html
+
+Livro 19:
+  Título: Angels Walking (Angels Walking #1)
+  Preço: 34.2
+  Disponível: True
+  Rating: 2
+  URL (relativa): angels-walking-angels-walking-1_662/index.html
+
+Livro 20:
+  Título: Angels & Demons (Robert Langdon #1)
+  Preço: 51.48
+  Disponível: True
+  Rating: 3
+  URL (relativa): angels-demons-robert-langdon-1_661/index.html
+
+Delay ético: 1.70s
+
+==================== Página 18 ====================
+URL: http://books.toscrape.com/catalogue/page-18.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: All the Light We Cannot See
+  Preço: 29.87
+  Disponível: True
+  Rating: 5
+  URL (relativa): all-the-light-we-cannot-see_660/index.html
+
+Livro 2:
+  Título: Adulthood Is a Myth: A "Sarah's Scribbles" Collection
+  Preço: 10.9
+  Disponível: True
+  Rating: 2
+  URL (relativa): adulthood-is-a-myth-a-sarahs-scribbles-collection_659/index.html
+
+Livro 3:
+  Título: Abstract City
+  Preço: 56.37
+  Disponível: True
+  Rating: 5
+  URL (relativa): abstract-city_658/index.html
+
+Livro 4:
+  Título: A Time of Torment (Charlie Parker #14)
+  Preço: 48.35
+  Disponível: True
+  Rating: 5
+  URL (relativa): a-time-of-torment-charlie-parker-14_657/index.html
+
+Livro 5:
+  Título: A Study in Scarlet (Sherlock Holmes #1)
+  Preço: 16.73
+  Disponível: True
+  Rating: 2
+  URL (relativa): a-study-in-scarlet-sherlock-holmes-1_656/index.html
+
+Livro 6:
+  Título: A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer
+  Preço: 56.48
+  Disponível: True
+  Rating: 2
+  URL (relativa): a-series-of-catastrophes-and-miracles-a-true-story-of-love-science-and-cancer_655/index.html
+
+Livro 7:
+  Título: A People's History of the United States
+  Preço: 40.79
+  Disponível: True
+  Rating: 2
+  URL (relativa): a-peoples-history-of-the-united-states_654/index.html
+
+Livro 8:
+  Título: A Man Called Ove
+  Preço: 39.72
+  Disponível: True
+  Rating: 1
+  URL (relativa): a-man-called-ove_653/index.html
+
+Livro 9:
+  Título: A Distant Mirror: The Calamitous 14th Century
+  Preço: 14.58
+  Disponível: True
+  Rating: 3
+  URL (relativa): a-distant-mirror-the-calamitous-14th-century_652/index.html
+
+Livro 10:
+  Título: A Brush of Wings (Angels Walking #3)
+  Preço: 55.51
+  Disponível: True
+  Rating: 1
+  URL (relativa): a-brush-of-wings-angels-walking-3_651/index.html
+
+Livro 11:
+  Título: 1491: New Revelations of the Americas Before Columbus
+  Preço: 21.8
+  Disponível: True
+  Rating: 3
+  URL (relativa): 1491-new-revelations-of-the-americas-before-columbus_650/index.html
+
+Livro 12:
+  Título: The Three Searches, Meaning, and the Story
+  Preço: 13.33
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-three-searches-meaning-and-the-story_649/index.html
+
+Livro 13:
+  Título: Searching for Meaning in Gailana
+  Preço: 38.73
+  Disponível: True
+  Rating: 1
+  URL (relativa): searching-for-meaning-in-gailana_648/index.html
+
+Livro 14:
+  Título: Rook
+  Preço: 37.86
+  Disponível: True
+  Rating: 4
+  URL (relativa): rook_647/index.html
+
+Livro 15:
+  Título: My Kitchen Year: 136 Recipes That Saved My Life
+  Preço: 11.53
+  Disponível: True
+  Rating: 2
+  URL (relativa): my-kitchen-year-136-recipes-that-saved-my-life_646/index.html
+
+Livro 16:
+  Título: 13 Hours: The Inside Account of What Really Happened In Benghazi
+  Preço: 27.06
+  Disponível: True
+  Rating: 1
+  URL (relativa): 13-hours-the-inside-account-of-what-really-happened-in-benghazi_645/index.html
+
+Livro 17:
+  Título: Will You Won't You Want Me?
+  Preço: 13.86
+  Disponível: True
+  Rating: 3
+  URL (relativa): will-you-wont-you-want-me_644/index.html
+
+Livro 18:
+  Título: Tipping Point for Planet Earth: How Close Are We to the Edge?
+  Preço: 37.55
+  Disponível: True
+  Rating: 1
+  URL (relativa): tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html
+
+Livro 19:
+  Título: The Star-Touched Queen
+  Preço: 32.3
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-star-touched-queen_642/index.html
+
+Livro 20:
+  Título: The Silent Sister (Riley MacPherson #1)
+  Preço: 46.29
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-silent-sister-riley-macpherson-1_641/index.html
+
+Delay ético: 2.73s
+
+==================== Página 19 ====================
+URL: http://books.toscrape.com/catalogue/page-19.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Midnight Watch: A Novel of the Titanic and the Californian
+  Preço: 26.2
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-midnight-watch-a-novel-of-the-titanic-and-the-californian_640/index.html
+
+Livro 2:
+  Título: The Lonely City: Adventures in the Art of Being Alone
+  Preço: 33.26
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-lonely-city-adventures-in-the-art-of-being-alone_639/index.html
+
+Livro 3:
+  Título: The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore
+  Preço: 59.15
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-gray-rhino-how-to-recognize-and-act-on-the-obvious-dangers-we-ignore_638/index.html
+
+Livro 4:
+  Título: The Golden Condom: And Other Essays on Love Lost and Found
+  Preço: 39.43
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-golden-condom-and-other-essays-on-love-lost-and-found_637/index.html
+
+Livro 5:
+  Título: The Epidemic (The Program 0.6)
+  Preço: 14.44
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-epidemic-the-program-06_636/index.html
+
+Livro 6:
+  Título: The Dinner Party
+  Preço: 56.54
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-dinner-party_635/index.html
+
+Livro 7:
+  Título: The Diary of a Young Girl
+  Preço: 59.9
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-diary-of-a-young-girl_634/index.html
+
+Livro 8:
+  Título: The Children
+  Preço: 11.88
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-children_633/index.html
+
+Livro 9:
+  Título: Stars Above (The Lunar Chronicles #4.5)
+  Preço: 48.05
+  Disponível: True
+  Rating: 2
+  URL (relativa): stars-above-the-lunar-chronicles-45_632/index.html
+
+Livro 10:
+  Título: Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas
+  Preço: 21.21
+  Disponível: True
+  Rating: 3
+  URL (relativa): snatched-how-a-drug-queen-went-undercover-for-the-dea-and-was-kidnapped-by-colombian-guerillas_631/index.html
+
+Livro 11:
+  Título: Raspberry Pi Electronics Projects for the Evil Genius
+  Preço: 49.67
+  Disponível: True
+  Rating: 4
+  URL (relativa): raspberry-pi-electronics-projects-for-the-evil-genius_630/index.html
+
+Livro 12:
+  Título: Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two
+  Preço: 43.14
+  Disponível: True
+  Rating: 1
+  URL (relativa): quench-your-own-thirst-business-lessons-learned-over-a-beer-or-two_629/index.html
+
+Livro 13:
+  Título: Psycho: Sanitarium (Psycho #1.5)
+  Preço: 36.97
+  Disponível: True
+  Rating: 5
+  URL (relativa): psycho-sanitarium-psycho-15_628/index.html
+
+Livro 14:
+  Título: Poisonous (Max Revere Novels #3)
+  Preço: 26.8
+  Disponível: True
+  Rating: 3
+  URL (relativa): poisonous-max-revere-novels-3_627/index.html
+
+Livro 15:
+  Título: One with You (Crossfire #5)
+  Preço: 15.71
+  Disponível: True
+  Rating: 4
+  URL (relativa): one-with-you-crossfire-5_626/index.html
+
+Livro 16:
+  Título: No Love Allowed (Dodge Cove #1)
+  Preço: 54.65
+  Disponível: True
+  Rating: 4
+  URL (relativa): no-love-allowed-dodge-cove-1_625/index.html
+
+Livro 17:
+  Título: Murder at the 42nd Street Library (Raymond Ambler #1)
+  Preço: 54.36
+  Disponível: True
+  Rating: 4
+  URL (relativa): murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html
+
+Livro 18:
+  Título: Most Wanted
+  Preço: 35.28
+  Disponível: True
+  Rating: 3
+  URL (relativa): most-wanted_623/index.html
+
+Livro 19:
+  Título: Love, Lies and Spies
+  Preço: 20.55
+  Disponível: True
+  Rating: 2
+  URL (relativa): love-lies-and-spies_622/index.html
+
+Livro 20:
+  Título: How to Speak Golf: An Illustrated Guide to Links Lingo
+  Preço: 58.32
+  Disponível: True
+  Rating: 5
+  URL (relativa): how-to-speak-golf-an-illustrated-guide-to-links-lingo_621/index.html
+
+Delay ético: 1.49s
+
+==================== Página 20 ====================
+URL: http://books.toscrape.com/catalogue/page-20.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Hide Away (Eve Duncan #20)
+  Preço: 11.84
+  Disponível: True
+  Rating: 1
+  URL (relativa): hide-away-eve-duncan-20_620/index.html
+
+Livro 2:
+  Título: Furiously Happy: A Funny Book About Horrible Things
+  Preço: 41.46
+  Disponível: True
+  Rating: 4
+  URL (relativa): furiously-happy-a-funny-book-about-horrible-things_619/index.html
+
+Livro 3:
+  Título: Everyday Italian: 125 Simple and Delicious Recipes
+  Preço: 20.1
+  Disponível: True
+  Rating: 5
+  URL (relativa): everyday-italian-125-simple-and-delicious-recipes_618/index.html
+
+Livro 4:
+  Título: Equal Is Unfair: America's Misguided Fight Against Income Inequality
+  Preço: 56.86
+  Disponível: True
+  Rating: 1
+  URL (relativa): equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html
+
+Livro 5:
+  Título: Eleanor & Park
+  Preço: 56.51
+  Disponível: True
+  Rating: 5
+  URL (relativa): eleanor-park_616/index.html
+
+Livro 6:
+  Título: Dirty (Dive Bar #1)
+  Preço: 40.83
+  Disponível: True
+  Rating: 4
+  URL (relativa): dirty-dive-bar-1_615/index.html
+
+Livro 7:
+  Título: Can You Keep a Secret? (Fear Street Relaunch #4)
+  Preço: 48.64
+  Disponível: True
+  Rating: 1
+  URL (relativa): can-you-keep-a-secret-fear-street-relaunch-4_614/index.html
+
+Livro 8:
+  Título: Boar Island (Anna Pigeon #19)
+  Preço: 59.48
+  Disponível: True
+  Rating: 3
+  URL (relativa): boar-island-anna-pigeon-19_613/index.html
+
+Livro 9:
+  Título: A Paris Apartment
+  Preço: 39.01
+  Disponível: True
+  Rating: 4
+  URL (relativa): a-paris-apartment_612/index.html
+
+Livro 10:
+  Título: A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More
+  Preço: 38.77
+  Disponível: True
+  Rating: 1
+  URL (relativa): a-la-mode-120-recipes-in-60-pairings-pies-tarts-cakes-crisps-and-more-topped-with-ice-cream-gelato-frozen-custard-and-more_611/index.html
+
+Livro 11:
+  Título: Troublemaker: Surviving Hollywood and Scientology
+  Preço: 48.39
+  Disponível: True
+  Rating: 2
+  URL (relativa): troublemaker-surviving-hollywood-and-scientology_610/index.html
+
+Livro 12:
+  Título: The Widow
+  Preço: 27.26
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-widow_609/index.html
+
+Livro 13:
+  Título: The Sleep Revolution: Transforming Your Life, One Night at a Time
+  Preço: 11.68
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-sleep-revolution-transforming-your-life-one-night-at-a-time_608/index.html
+
+Livro 14:
+  Título: The Improbability of Love
+  Preço: 59.45
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-improbability-of-love_607/index.html
+
+Livro 15:
+  Título: The Art of Startup Fundraising
+  Preço: 21.0
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-art-of-startup-fundraising_606/index.html
+
+Livro 16:
+  Título: Take Me Home Tonight (Rock Star Romance #3)
+  Preço: 53.98
+  Disponível: True
+  Rating: 3
+  URL (relativa): take-me-home-tonight-rock-star-romance-3_605/index.html
+
+Livro 17:
+  Título: Sleeping Giants (Themis Files #1)
+  Preço: 48.74
+  Disponível: True
+  Rating: 1
+  URL (relativa): sleeping-giants-themis-files-1_604/index.html
+
+Livro 18:
+  Título: Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena
+  Preço: 21.15
+  Disponível: True
+  Rating: 2
+  URL (relativa): setting-the-world-on-fire-the-brief-astonishing-life-of-st-catherine-of-siena_603/index.html
+
+Livro 19:
+  Título: Playing with Fire
+  Preço: 13.71
+  Disponível: True
+  Rating: 3
+  URL (relativa): playing-with-fire_602/index.html
+
+Livro 20:
+  Título: Off the Hook (Fishing for Trouble #1)
+  Preço: 47.67
+  Disponível: True
+  Rating: 3
+  URL (relativa): off-the-hook-fishing-for-trouble-1_601/index.html
+
+Delay ético: 1.05s
+
+==================== Página 21 ====================
+URL: http://books.toscrape.com/catalogue/page-21.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Mothering Sunday
+  Preço: 13.34
+  Disponível: True
+  Rating: 2
+  URL (relativa): mothering-sunday_600/index.html
+
+Livro 2:
+  Título: Mother, Can You Not?
+  Preço: 16.89
+  Disponível: True
+  Rating: 5
+  URL (relativa): mother-can-you-not_599/index.html
+
+Livro 3:
+  Título: M Train
+  Preço: 27.18
+  Disponível: True
+  Rating: 1
+  URL (relativa): m-train_598/index.html
+
+Livro 4:
+  Título: Lilac Girls
+  Preço: 17.28
+  Disponível: True
+  Rating: 2
+  URL (relativa): lilac-girls_597/index.html
+
+Livro 5:
+  Título: Lies and Other Acts of Love
+  Preço: 45.14
+  Disponível: True
+  Rating: 1
+  URL (relativa): lies-and-other-acts-of-love_596/index.html
+
+Livro 6:
+  Título: Lab Girl
+  Preço: 40.85
+  Disponível: True
+  Rating: 1
+  URL (relativa): lab-girl_595/index.html
+
+Livro 7:
+  Título: Keep Me Posted
+  Preço: 20.46
+  Disponível: True
+  Rating: 4
+  URL (relativa): keep-me-posted_594/index.html
+
+Livro 8:
+  Título: It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle
+  Preço: 56.27
+  Disponível: True
+  Rating: 3
+  URL (relativa): it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle_593/index.html
+
+Livro 9:
+  Título: Grey (Fifty Shades #4)
+  Preço: 48.49
+  Disponível: True
+  Rating: 4
+  URL (relativa): grey-fifty-shades-4_592/index.html
+
+Livro 10:
+  Título: Exit, Pursued by a Bear
+  Preço: 51.34
+  Disponível: True
+  Rating: 4
+  URL (relativa): exit-pursued-by-a-bear_591/index.html
+
+Livro 11:
+  Título: Daredevils
+  Preço: 16.34
+  Disponível: True
+  Rating: 3
+  URL (relativa): daredevils_590/index.html
+
+Livro 12:
+  Título: Cravings: Recipes for What You Want to Eat
+  Preço: 20.5
+  Disponível: True
+  Rating: 3
+  URL (relativa): cravings-recipes-for-what-you-want-to-eat_589/index.html
+
+Livro 13:
+  Título: Born for This: How to Find the Work You Were Meant to Do
+  Preço: 21.59
+  Disponível: True
+  Rating: 5
+  URL (relativa): born-for-this-how-to-find-the-work-you-were-meant-to-do_588/index.html
+
+Livro 14:
+  Título: Arena
+  Preço: 21.36
+  Disponível: True
+  Rating: 4
+  URL (relativa): arena_587/index.html
+
+Livro 15:
+  Título: Adultery
+  Preço: 20.88
+  Disponível: True
+  Rating: 5
+  URL (relativa): adultery_586/index.html
+
+Livro 16:
+  Título: A Mother's Reckoning: Living in the Aftermath of Tragedy
+  Preço: 19.53
+  Disponível: True
+  Rating: 3
+  URL (relativa): a-mothers-reckoning-living-in-the-aftermath-of-tragedy_585/index.html
+
+Livro 17:
+  Título: A Gentleman's Position (Society of Gentlemen #3)
+  Preço: 14.75
+  Disponível: True
+  Rating: 5
+  URL (relativa): a-gentlemans-position-society-of-gentlemen-3_584/index.html
+
+Livro 18:
+  Título: 11/22/63
+  Preço: 48.48
+  Disponível: True
+  Rating: 3
+  URL (relativa): 112263_583/index.html
+
+Livro 19:
+  Título: 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works
+  Preço: 24.57
+  Disponível: True
+  Rating: 2
+  URL (relativa): 10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works_582/index.html
+
+Livro 20:
+  Título: 10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!
+  Preço: 49.71
+  Disponível: True
+  Rating: 5
+  URL (relativa): 10-day-green-smoothie-cleanse-lose-up-to-15-pounds-in-10-days_581/index.html
+
+Delay ético: 2.22s
+
+==================== Página 22 ====================
+URL: http://books.toscrape.com/catalogue/page-22.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Without Shame
+  Preço: 48.27
+  Disponível: True
+  Rating: 5
+  URL (relativa): without-shame_580/index.html
+
+Livro 2:
+  Título: Watchmen
+  Preço: 58.05
+  Disponível: True
+  Rating: 4
+  URL (relativa): watchmen_579/index.html
+
+Livro 3:
+  Título: Unlimited Intuition Now
+  Preço: 58.87
+  Disponível: True
+  Rating: 4
+  URL (relativa): unlimited-intuition-now_578/index.html
+
+Livro 4:
+  Título: Underlying Notes
+  Preço: 11.82
+  Disponível: True
+  Rating: 2
+  URL (relativa): underlying-notes_577/index.html
+
+Livro 5:
+  Título: The Shack
+  Preço: 28.03
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-shack_576/index.html
+
+Livro 6:
+  Título: The New Brand You: Your New Image Makes the Sale for You
+  Preço: 44.05
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-new-brand-you-your-new-image-makes-the-sale-for-you_575/index.html
+
+Livro 7:
+  Título: The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York
+  Preço: 12.34
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-moosewood-cookbook-recipes-from-moosewood-restaurant-ithaca-new-york_574/index.html
+
+Livro 8:
+  Título: The Flowers Lied
+  Preço: 16.68
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-flowers-lied_573/index.html
+
+Livro 9:
+  Título: The Fabric of the Cosmos: Space, Time, and the Texture of Reality
+  Preço: 55.91
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html
+
+Livro 10:
+  Título: The Book of Mormon
+  Preço: 24.57
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-book-of-mormon_571/index.html
+
+Livro 11:
+  Título: The Art and Science of Low Carbohydrate Living
+  Preço: 52.98
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-art-and-science-of-low-carbohydrate-living_570/index.html
+
+Livro 12:
+  Título: The Alien Club
+  Preço: 54.4
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-alien-club_569/index.html
+
+Livro 13:
+  Título: Suzie Snowflake: One beautiful flake (a self-esteem story)
+  Preço: 54.81
+  Disponível: True
+  Rating: 5
+  URL (relativa): suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html
+
+Livro 14:
+  Título: Nap-a-Roo
+  Preço: 25.08
+  Disponível: True
+  Rating: 1
+  URL (relativa): nap-a-roo_567/index.html
+
+Livro 15:
+  Título: NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond
+  Preço: 10.41
+  Disponível: True
+  Rating: 4
+  URL (relativa): nano-what-now-finding-your-editing-process-revising-your-nanowrimo-book-and-building-a-writing-career-through-publishing-and-beyond_566/index.html
+
+Livro 16:
+  Título: Modern Day Fables
+  Preço: 47.44
+  Disponível: True
+  Rating: 2
+  URL (relativa): modern-day-fables_565/index.html
+
+Livro 17:
+  Título: If I Gave You God's Phone Number....: Searching for Spirituality in America
+  Preço: 20.91
+  Disponível: True
+  Rating: 1
+  URL (relativa): if-i-gave-you-gods-phone-number-searching-for-spirituality-in-america_564/index.html
+
+Livro 18:
+  Título: Fruits Basket, Vol. 9 (Fruits Basket #9)
+  Preço: 33.95
+  Disponível: True
+  Rating: 4
+  URL (relativa): fruits-basket-vol-9-fruits-basket-9_563/index.html
+
+Livro 19:
+  Título: Dress Your Family in Corduroy and Denim
+  Preço: 43.68
+  Disponível: True
+  Rating: 3
+  URL (relativa): dress-your-family-in-corduroy-and-denim_562/index.html
+
+Livro 20:
+  Título: Don't Forget Steven
+  Preço: 33.23
+  Disponível: True
+  Rating: 1
+  URL (relativa): dont-forget-steven_561/index.html
+
+Delay ético: 1.72s
+
+==================== Página 23 ====================
+URL: http://books.toscrape.com/catalogue/page-23.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster
+  Preço: 35.92
+  Disponível: True
+  Rating: 2
+  URL (relativa): chernobyl-012340-the-incredible-true-story-of-the-worlds-worst-nuclear-disaster_560/index.html
+
+Livro 2:
+  Título: Art and Fear: Observations on the Perils (and Rewards) of Artmaking
+  Preço: 48.63
+  Disponível: True
+  Rating: 4
+  URL (relativa): art-and-fear-observations-on-the-perils-and-rewards-of-artmaking_559/index.html
+
+Livro 3:
+  Título: A Shard of Ice (The Black Symphony Saga #1)
+  Preço: 56.63
+  Disponível: True
+  Rating: 3
+  URL (relativa): a-shard-of-ice-the-black-symphony-saga-1_558/index.html
+
+Livro 4:
+  Título: A Hero's Curse (The Unseen Chronicles #1)
+  Preço: 50.49
+  Disponível: True
+  Rating: 3
+  URL (relativa): a-heros-curse-the-unseen-chronicles-1_557/index.html
+
+Livro 5:
+  Título: 23 Degrees South: A Tropical Tale of Changing Whether...
+  Preço: 35.79
+  Disponível: True
+  Rating: 2
+  URL (relativa): 23-degrees-south-a-tropical-tale-of-changing-whether_556/index.html
+
+Livro 6:
+  Título: Zero to One: Notes on Startups, or How to Build the Future
+  Preço: 34.06
+  Disponível: True
+  Rating: 3
+  URL (relativa): zero-to-one-notes-on-startups-or-how-to-build-the-future_555/index.html
+
+Livro 7:
+  Título: Why Not Me?
+  Preço: 17.76
+  Disponível: True
+  Rating: 1
+  URL (relativa): why-not-me_554/index.html
+
+Livro 8:
+  Título: When Breath Becomes Air
+  Preço: 39.36
+  Disponível: True
+  Rating: 2
+  URL (relativa): when-breath-becomes-air_553/index.html
+
+Livro 9:
+  Título: Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+  Preço: 36.94
+  Disponível: True
+  Rating: 2
+  URL (relativa): vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html
+
+Livro 10:
+  Título: The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)
+  Preço: 43.62
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-unlikely-pilgrimage-of-harold-fry-harold-fry-1_551/index.html
+
+Livro 11:
+  Título: The New Drawing on the Right Side of the Brain
+  Preço: 43.02
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-new-drawing-on-the-right-side-of-the-brain_550/index.html
+
+Livro 12:
+  Título: The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer
+  Preço: 28.45
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-midnight-assassin-panic-scandal-and-the-hunt-for-americas-first-serial-killer_549/index.html
+
+Livro 13:
+  Título: The Martian (The Martian #1)
+  Preço: 41.39
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-martian-the-martian-1_548/index.html
+
+Livro 14:
+  Título: The High Mountains of Portugal
+  Preço: 51.15
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-high-mountains-of-portugal_547/index.html
+
+Livro 15:
+  Título: The Grownup
+  Preço: 35.88
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-grownup_546/index.html
+
+Livro 16:
+  Título: The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It
+  Preço: 36.91
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-e-myth-revisited-why-most-small-businesses-dont-work-and-what-to-do-about-it_545/index.html
+
+Livro 17:
+  Título: South of Sunshine
+  Preço: 28.93
+  Disponível: True
+  Rating: 1
+  URL (relativa): south-of-sunshine_544/index.html
+
+Livro 18:
+  Título: Smarter Faster Better: The Secrets of Being Productive in Life and Business
+  Preço: 38.89
+  Disponível: True
+  Rating: 5
+  URL (relativa): smarter-faster-better-the-secrets-of-being-productive-in-life-and-business_543/index.html
+
+Livro 19:
+  Título: Silence in the Dark (Logan Point #4)
+  Preço: 58.33
+  Disponível: True
+  Rating: 3
+  URL (relativa): silence-in-the-dark-logan-point-4_542/index.html
+
+Livro 20:
+  Título: Shadows of the Past (Logan Point #1)
+  Preço: 39.67
+  Disponível: True
+  Rating: 5
+  URL (relativa): shadows-of-the-past-logan-point-1_541/index.html
+
+Delay ético: 1.43s
+
+==================== Página 24 ====================
+URL: http://books.toscrape.com/catalogue/page-24.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Roller Girl
+  Preço: 14.1
+  Disponível: True
+  Rating: 5
+  URL (relativa): roller-girl_540/index.html
+
+Livro 2:
+  Título: Rising Strong
+  Preço: 21.82
+  Disponível: True
+  Rating: 3
+  URL (relativa): rising-strong_539/index.html
+
+Livro 3:
+  Título: Proofs of God: Classical Arguments from Tertullian to Barth
+  Preço: 54.21
+  Disponível: True
+  Rating: 1
+  URL (relativa): proofs-of-god-classical-arguments-from-tertullian-to-barth_538/index.html
+
+Livro 4:
+  Título: Please Kill Me: The Uncensored Oral History of Punk
+  Preço: 31.19
+  Disponível: True
+  Rating: 4
+  URL (relativa): please-kill-me-the-uncensored-oral-history-of-punk_537/index.html
+
+Livro 5:
+  Título: Out of Print: City Lights Spotlight No. 14
+  Preço: 53.64
+  Disponível: True
+  Rating: 5
+  URL (relativa): out-of-print-city-lights-spotlight-no-14_536/index.html
+
+Livro 6:
+  Título: My Life Next Door (My Life Next Door )
+  Preço: 36.39
+  Disponível: True
+  Rating: 5
+  URL (relativa): my-life-next-door-my-life-next-door_535/index.html
+
+Livro 7:
+  Título: Miller's Valley
+  Preço: 58.54
+  Disponível: True
+  Rating: 2
+  URL (relativa): millers-valley_534/index.html
+
+Livro 8:
+  Título: Man's Search for Meaning
+  Preço: 29.48
+  Disponível: True
+  Rating: 3
+  URL (relativa): mans-search-for-meaning_533/index.html
+
+Livro 9:
+  Título: Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations
+  Preço: 25.06
+  Disponível: True
+  Rating: 2
+  URL (relativa): love-that-boy-what-two-presidents-eight-road-trips-and-my-son-taught-me-about-a-parents-expectations_532/index.html
+
+Livro 10:
+  Título: Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want
+  Preço: 12.55
+  Disponível: True
+  Rating: 3
+  URL (relativa): living-forward-a-proven-plan-to-stop-drifting-and-get-the-life-you-want_531/index.html
+
+Livro 11:
+  Título: Les Fleurs du Mal
+  Preço: 29.04
+  Disponível: True
+  Rating: 5
+  URL (relativa): les-fleurs-du-mal_530/index.html
+
+Livro 12:
+  Título: Left Behind (Left Behind #1)
+  Preço: 40.72
+  Disponível: True
+  Rating: 2
+  URL (relativa): left-behind-left-behind-1_529/index.html
+
+Livro 13:
+  Título: Kill 'Em and Leave: Searching for James Brown and the American Soul
+  Preço: 45.05
+  Disponível: True
+  Rating: 5
+  URL (relativa): kill-em-and-leave-searching-for-james-brown-and-the-american-soul_528/index.html
+
+Livro 14:
+  Título: Kierkegaard: A Christian Missionary to Christians
+  Preço: 47.13
+  Disponível: True
+  Rating: 1
+  URL (relativa): kierkegaard-a-christian-missionary-to-christians_527/index.html
+
+Livro 15:
+  Título: John Vassos: Industrial Design for Modern Life
+  Preço: 20.22
+  Disponível: True
+  Rating: 4
+  URL (relativa): john-vassos-industrial-design-for-modern-life_526/index.html
+
+Livro 16:
+  Título: I'll Give You the Sun
+  Preço: 56.48
+  Disponível: True
+  Rating: 1
+  URL (relativa): ill-give-you-the-sun_525/index.html
+
+Livro 17:
+  Título: I Will Find You
+  Preço: 44.21
+  Disponível: True
+  Rating: 1
+  URL (relativa): i-will-find-you_524/index.html
+
+Livro 18:
+  Título: Hystopia: A Novel
+  Preço: 21.96
+  Disponível: True
+  Rating: 4
+  URL (relativa): hystopia-a-novel_523/index.html
+
+Livro 19:
+  Título: Howl and Other Poems
+  Preço: 40.45
+  Disponível: True
+  Rating: 2
+  URL (relativa): howl-and-other-poems_522/index.html
+
+Livro 20:
+  Título: History of Beauty
+  Preço: 10.29
+  Disponível: True
+  Rating: 4
+  URL (relativa): history-of-beauty_521/index.html
+
+Delay ético: 1.97s
+
+==================== Página 25 ====================
+URL: http://books.toscrape.com/catalogue/page-25.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back
+  Preço: 52.86
+  Disponível: True
+  Rating: 2
+  URL (relativa): heaven-is-for-real-a-little-boys-astounding-story-of-his-trip-to-heaven-and-back_520/index.html
+
+Livro 2:
+  Título: Future Shock (Future Shock #1)
+  Preço: 55.65
+  Disponível: True
+  Rating: 5
+  URL (relativa): future-shock-future-shock-1_519/index.html
+
+Livro 3:
+  Título: Ender's Game (The Ender Quintet #1)
+  Preço: 43.64
+  Disponível: True
+  Rating: 1
+  URL (relativa): enders-game-the-ender-quintet-1_518/index.html
+
+Livro 4:
+  Título: Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World
+  Preço: 28.41
+  Disponível: True
+  Rating: 1
+  URL (relativa): diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html
+
+Livro 5:
+  Título: Death by Leisure: A Cautionary Tale
+  Preço: 37.51
+  Disponível: True
+  Rating: 4
+  URL (relativa): death-by-leisure-a-cautionary-tale_516/index.html
+
+Livro 6:
+  Título: Brilliant Beacons: A History of the American Lighthouse
+  Preço: 11.45
+  Disponível: True
+  Rating: 3
+  URL (relativa): brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html
+
+Livro 7:
+  Título: Brazen: The Courage to Find the You That's Been Hiding
+  Preço: 19.22
+  Disponível: True
+  Rating: 2
+  URL (relativa): brazen-the-courage-to-find-the-you-thats-been-hiding_514/index.html
+
+Livro 8:
+  Título: Between the World and Me
+  Preço: 56.91
+  Disponível: True
+  Rating: 4
+  URL (relativa): between-the-world-and-me_513/index.html
+
+Livro 9:
+  Título: Being Mortal: Medicine and What Matters in the End
+  Preço: 55.06
+  Disponível: True
+  Rating: 4
+  URL (relativa): being-mortal-medicine-and-what-matters-in-the-end_512/index.html
+
+Livro 10:
+  Título: A Murder Over a Girl: Justice, Gender, Junior High
+  Preço: 13.2
+  Disponível: True
+  Rating: 3
+  URL (relativa): a-murder-over-a-girl-justice-gender-junior-high_511/index.html
+
+Livro 11:
+  Título: 32 Yolks
+  Preço: 53.63
+  Disponível: True
+  Rating: 2
+  URL (relativa): 32-yolks_510/index.html
+
+Livro 12:
+  Título: "Most Blessed of the Patriarchs": Thomas Jefferson and the Empire of the Imagination
+  Preço: 44.48
+  Disponível: True
+  Rating: 5
+  URL (relativa): most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html
+
+Livro 13:
+  Título: You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life
+  Preço: 12.08
+  Disponível: True
+  Rating: 3
+  URL (relativa): you-are-a-badass-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life_508/index.html
+
+Livro 14:
+  Título: Wildlife of New York: A Five-Borough Coloring Book
+  Preço: 22.14
+  Disponível: True
+  Rating: 2
+  URL (relativa): wildlife-of-new-york-a-five-borough-coloring-book_507/index.html
+
+Livro 15:
+  Título: What Happened on Beale Street (Secrets of the South Mysteries #2)
+  Preço: 25.37
+  Disponível: True
+  Rating: 5
+  URL (relativa): what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html
+
+Livro 16:
+  Título: Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain
+  Preço: 46.33
+  Disponível: True
+  Rating: 2
+  URL (relativa): unreasonable-hope-finding-faith-in-the-god-who-brings-purpose-to-your-pain_505/index.html
+
+Livro 17:
+  Título: Under the Tuscan Sun
+  Preço: 37.33
+  Disponível: True
+  Rating: 3
+  URL (relativa): under-the-tuscan-sun_504/index.html
+
+Livro 18:
+  Título: Toddlers Are A**holes: It's Not Your Fault
+  Preço: 25.55
+  Disponível: True
+  Rating: 1
+  URL (relativa): toddlers-are-aholes-its-not-your-fault_503/index.html
+
+Livro 19:
+  Título: The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible
+  Preço: 34.72
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-year-of-living-biblically-one-mans-humble-quest-to-follow-the-bible-as-literally-as-possible_502/index.html
+
+Livro 20:
+  Título: The Whale
+  Preço: 35.96
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-whale_501/index.html
+
+Delay ético: 1.65s
+
+==================== Página 26 ====================
+URL: http://books.toscrape.com/catalogue/page-26.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Story of Art
+  Preço: 41.14
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-story-of-art_500/index.html
+
+Livro 2:
+  Título: The Origin of Species
+  Preço: 10.01
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-origin-of-species_499/index.html
+
+Livro 3:
+  Título: The Great Gatsby
+  Preço: 36.05
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-great-gatsby_498/index.html
+
+Livro 4:
+  Título: The Good Girl
+  Preço: 49.03
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-good-girl_497/index.html
+
+Livro 5:
+  Título: The Glass Castle
+  Preço: 16.24
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-glass-castle_496/index.html
+
+Livro 6:
+  Título: The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist
+  Preço: 39.55
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-faith-of-christopher-hitchens-the-restless-soul-of-the-worlds-most-notorious-atheist_495/index.html
+
+Livro 7:
+  Título: The Drowning Girls
+  Preço: 35.67
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-drowning-girls_494/index.html
+
+Livro 8:
+  Título: The Constant Princess (The Tudor Court #1)
+  Preço: 16.62
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-constant-princess-the-tudor-court-1_493/index.html
+
+Livro 9:
+  Título: The Bourne Identity (Jason Bourne #1)
+  Preço: 42.78
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-bourne-identity-jason-bourne-1_492/index.html
+
+Livro 10:
+  Título: The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)
+  Preço: 52.3
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html
+
+Livro 11:
+  Título: The Art Book
+  Preço: 32.34
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-art-book_490/index.html
+
+Livro 12:
+  Título: The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+  Preço: 33.17
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change_489/index.html
+
+Livro 13:
+  Título: Team of Rivals: The Political Genius of Abraham Lincoln
+  Preço: 20.12
+  Disponível: True
+  Rating: 5
+  URL (relativa): team-of-rivals-the-political-genius-of-abraham-lincoln_488/index.html
+
+Livro 14:
+  Título: Steal Like an Artist: 10 Things Nobody Told You About Being Creative
+  Preço: 20.9
+  Disponível: True
+  Rating: 2
+  URL (relativa): steal-like-an-artist-10-things-nobody-told-you-about-being-creative_487/index.html
+
+Livro 15:
+  Título: Sit, Stay, Love
+  Preço: 20.9
+  Disponível: True
+  Rating: 3
+  URL (relativa): sit-stay-love_486/index.html
+
+Livro 16:
+  Título: Sister Dear
+  Preço: 40.2
+  Disponível: True
+  Rating: 4
+  URL (relativa): sister-dear_485/index.html
+
+Livro 17:
+  Título: Shrunken Treasures: Literary Classics, Short, Sweet, and Silly
+  Preço: 52.87
+  Disponível: True
+  Rating: 3
+  URL (relativa): shrunken-treasures-literary-classics-short-sweet-and-silly_484/index.html
+
+Livro 18:
+  Título: Rich Dad, Poor Dad
+  Preço: 51.74
+  Disponível: True
+  Rating: 1
+  URL (relativa): rich-dad-poor-dad_483/index.html
+
+Livro 19:
+  Título: Raymie Nightingale
+  Preço: 34.41
+  Disponível: True
+  Rating: 2
+  URL (relativa): raymie-nightingale_482/index.html
+
+Livro 20:
+  Título: Playing from the Heart
+  Preço: 32.38
+  Disponível: True
+  Rating: 1
+  URL (relativa): playing-from-the-heart_481/index.html
+
+Delay ético: 2.40s
+
+==================== Página 27 ====================
+URL: http://books.toscrape.com/catalogue/page-27.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Nightstruck: A Novel
+  Preço: 50.35
+  Disponível: True
+  Rating: 4
+  URL (relativa): nightstruck-a-novel_480/index.html
+
+Livro 2:
+  Título: Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories
+  Preço: 11.38
+  Disponível: True
+  Rating: 5
+  URL (relativa): naturally-lean-125-nourishing-gluten-free-plant-based-recipes-all-under-300-calories_479/index.html
+
+Livro 3:
+  Título: Meternity
+  Preço: 43.58
+  Disponível: True
+  Rating: 3
+  URL (relativa): meternity_478/index.html
+
+Livro 4:
+  Título: Memoirs of a Geisha
+  Preço: 49.67
+  Disponível: True
+  Rating: 3
+  URL (relativa): memoirs-of-a-geisha_477/index.html
+
+Livro 5:
+  Título: Like Never Before (Walker Family #2)
+  Preço: 28.77
+  Disponível: True
+  Rating: 2
+  URL (relativa): like-never-before-walker-family-2_476/index.html
+
+Livro 6:
+  Título: Life of Pi
+  Preço: 13.22
+  Disponível: True
+  Rating: 4
+  URL (relativa): life-of-pi_475/index.html
+
+Livro 7:
+  Título: Leave This Song Behind: Teen Poetry at Its Best
+  Preço: 51.17
+  Disponível: True
+  Rating: 5
+  URL (relativa): leave-this-song-behind-teen-poetry-at-its-best_474/index.html
+
+Livro 8:
+  Título: King's Folly (The Kinsman Chronicles #1)
+  Preço: 39.61
+  Disponível: True
+  Rating: 5
+  URL (relativa): kings-folly-the-kinsman-chronicles-1_473/index.html
+
+Livro 9:
+  Título: John Adams
+  Preço: 57.43
+  Disponível: True
+  Rating: 4
+  URL (relativa): john-adams_472/index.html
+
+Livro 10:
+  Título: How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything)
+  Preço: 46.01
+  Disponível: True
+  Rating: 4
+  URL (relativa): how-to-cook-everything-vegetarian-simple-meatless-recipes-for-great-food-how-to-cook-everything_471/index.html
+
+Livro 11:
+  Título: How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking
+  Preço: 28.25
+  Disponível: True
+  Rating: 2
+  URL (relativa): how-to-be-a-domestic-goddess-baking-and-the-art-of-comfort-cooking_470/index.html
+
+Livro 12:
+  Título: Good in Bed (Cannie Shapiro #1)
+  Preço: 37.05
+  Disponível: True
+  Rating: 5
+  URL (relativa): good-in-bed-cannie-shapiro-1_469/index.html
+
+Livro 13:
+  Título: Fruits Basket, Vol. 7 (Fruits Basket #7)
+  Preço: 19.57
+  Disponível: True
+  Rating: 1
+  URL (relativa): fruits-basket-vol-7-fruits-basket-7_468/index.html
+
+Livro 14:
+  Título: For the Love: Fighting for Grace in a World of Impossible Standards
+  Preço: 45.13
+  Disponível: True
+  Rating: 3
+  URL (relativa): for-the-love-fighting-for-grace-in-a-world-of-impossible-standards_467/index.html
+
+Livro 15:
+  Título: Finding God in the Ruins: How God Redeems Pain
+  Preço: 46.64
+  Disponível: True
+  Rating: 2
+  URL (relativa): finding-god-in-the-ruins-how-god-redeems-pain_466/index.html
+
+Livro 16:
+  Título: Every Heart a Doorway (Every Heart A Doorway #1)
+  Preço: 12.16
+  Disponível: True
+  Rating: 5
+  URL (relativa): every-heart-a-doorway-every-heart-a-doorway-1_465/index.html
+
+Livro 17:
+  Título: Delivering the Truth (Quaker Midwife Mystery #1)
+  Preço: 20.89
+  Disponível: True
+  Rating: 4
+  URL (relativa): delivering-the-truth-quaker-midwife-mystery-1_464/index.html
+
+Livro 18:
+  Título: Counted With the Stars (Out from Egypt #1)
+  Preço: 17.97
+  Disponível: True
+  Rating: 5
+  URL (relativa): counted-with-the-stars-out-from-egypt-1_463/index.html
+
+Livro 19:
+  Título: Chronicles, Vol. 1
+  Preço: 52.6
+  Disponível: True
+  Rating: 2
+  URL (relativa): chronicles-vol-1_462/index.html
+
+Livro 20:
+  Título: Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
+  Preço: 25.77
+  Disponível: True
+  Rating: 1
+  URL (relativa): blue-like-jazz-nonreligious-thoughts-on-christian-spirituality_461/index.html
+
+Delay ético: 1.61s
+
+==================== Página 28 ====================
+URL: http://books.toscrape.com/catalogue/page-28.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Benjamin Franklin: An American Life
+  Preço: 48.19
+  Disponível: True
+  Rating: 3
+  URL (relativa): benjamin-franklin-an-american-life_460/index.html
+
+Livro 2:
+  Título: At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others
+  Preço: 29.93
+  Disponível: True
+  Rating: 5
+  URL (relativa): at-the-existentialist-cafe-freedom-being-and-apricot-cocktails-with-jean-paul-sartre-simone-de-beauvoir-albert-camus-martin-heidegger-edmund-husserl-karl-jaspers-maurice-merleau-ponty-and-others_459/index.html
+
+Livro 3:
+  Título: A Summer In Europe
+  Preço: 44.34
+  Disponível: True
+  Rating: 2
+  URL (relativa): a-summer-in-europe_458/index.html
+
+Livro 4:
+  Título: A Short History of Nearly Everything
+  Preço: 52.4
+  Disponível: True
+  Rating: 5
+  URL (relativa): a-short-history-of-nearly-everything_457/index.html
+
+Livro 5:
+  Título: A Gathering of Shadows (Shades of Magic #2)
+  Preço: 44.81
+  Disponível: True
+  Rating: 4
+  URL (relativa): a-gathering-of-shadows-shades-of-magic-2_456/index.html
+
+Livro 6:
+  Título: The Sound Of Love
+  Preço: 57.84
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-sound-of-love_455/index.html
+
+Livro 7:
+  Título: The Rise and Fall of the Third Reich: A History of Nazi Germany
+  Preço: 39.67
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html
+
+Livro 8:
+  Título: The Perks of Being a Wallflower
+  Preço: 55.02
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-perks-of-being-a-wallflower_453/index.html
+
+Livro 9:
+  Título: The Mysterious Affair at Styles (Hercule Poirot #1)
+  Preço: 24.8
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html
+
+Livro 10:
+  Título: The Man Who Mistook His Wife for a Hat and Other Clinical Tales
+  Preço: 59.45
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales_451/index.html
+
+Livro 11:
+  Título: The Makings of a Fatherless Child
+  Preço: 31.58
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-makings-of-a-fatherless-child_450/index.html
+
+Livro 12:
+  Título: The Joy of Cooking
+  Preço: 43.27
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-joy-of-cooking_449/index.html
+
+Livro 13:
+  Título: The Invention of Wings
+  Preço: 37.34
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-invention-of-wings_448/index.html
+
+Livro 14:
+  Título: The Hobbit (Middle-Earth Universe)
+  Preço: 17.8
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-hobbit-middle-earth-universe_447/index.html
+
+Livro 15:
+  Título: The Great Railway Bazaar
+  Preço: 30.54
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-great-railway-bazaar_446/index.html
+
+Livro 16:
+  Título: The Golden Compass (His Dark Materials #1)
+  Preço: 18.77
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-golden-compass-his-dark-materials-1_445/index.html
+
+Livro 17:
+  Título: The God Delusion
+  Preço: 46.85
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-god-delusion_444/index.html
+
+Livro 18:
+  Título: The Girl You Left Behind (The Girl You Left Behind #1)
+  Preço: 15.79
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-girl-you-left-behind-the-girl-you-left-behind-1_443/index.html
+
+Livro 19:
+  Título: The Fellowship of the Ring (The Lord of the Rings #1)
+  Preço: 10.27
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-fellowship-of-the-ring-the-lord-of-the-rings-1_442/index.html
+
+Livro 20:
+  Título: The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)
+  Preço: 15.42
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html
+
+Delay ético: 2.67s
+
+==================== Página 29 ====================
+URL: http://books.toscrape.com/catalogue/page-29.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Barefoot Contessa Cookbook
+  Preço: 59.92
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-barefoot-contessa-cookbook_440/index.html
+
+Livro 2:
+  Título: Tell the Wolves I'm Home
+  Preço: 50.96
+  Disponível: True
+  Rating: 2
+  URL (relativa): tell-the-wolves-im-home_439/index.html
+
+Livro 3:
+  Título: Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman
+  Preço: 30.6
+  Disponível: True
+  Rating: 3
+  URL (relativa): ship-leaves-harbor-essays-on-travel-by-a-recovering-journeyman_438/index.html
+
+Livro 4:
+  Título: Pride and Prejudice
+  Preço: 19.27
+  Disponível: True
+  Rating: 4
+  URL (relativa): pride-and-prejudice_437/index.html
+
+Livro 5:
+  Título: Musicophilia: Tales of Music and the Brain
+  Preço: 46.58
+  Disponível: True
+  Rating: 1
+  URL (relativa): musicophilia-tales-of-music-and-the-brain_436/index.html
+
+Livro 6:
+  Título: Mere Christianity
+  Preço: 48.51
+  Disponível: True
+  Rating: 3
+  URL (relativa): mere-christianity_435/index.html
+
+Livro 7:
+  Título: Me Before You (Me Before You #1)
+  Preço: 19.02
+  Disponível: True
+  Rating: 1
+  URL (relativa): me-before-you-me-before-you-1_434/index.html
+
+Livro 8:
+  Título: In the Woods (Dublin Murder Squad #1)
+  Preço: 38.38
+  Disponível: True
+  Rating: 2
+  URL (relativa): in-the-woods-dublin-murder-squad-1_433/index.html
+
+Livro 9:
+  Título: In Cold Blood
+  Preço: 49.98
+  Disponível: True
+  Rating: 4
+  URL (relativa): in-cold-blood_432/index.html
+
+Livro 10:
+  Título: How to Stop Worrying and Start Living
+  Preço: 46.49
+  Disponível: True
+  Rating: 5
+  URL (relativa): how-to-stop-worrying-and-start-living_431/index.html
+
+Livro 11:
+  Título: Give It Back
+  Preço: 18.32
+  Disponível: True
+  Rating: 2
+  URL (relativa): give-it-back_430/index.html
+
+Livro 12:
+  Título: Girl, Interrupted
+  Preço: 42.14
+  Disponível: True
+  Rating: 3
+  URL (relativa): girl-interrupted_429/index.html
+
+Livro 13:
+  Título: Fun Home: A Family Tragicomic
+  Preço: 56.59
+  Disponível: True
+  Rating: 4
+  URL (relativa): fun-home-a-family-tragicomic_428/index.html
+
+Livro 14:
+  Título: Fruits Basket, Vol. 6 (Fruits Basket #6)
+  Preço: 20.96
+  Disponível: True
+  Rating: 4
+  URL (relativa): fruits-basket-vol-6-fruits-basket-6_427/index.html
+
+Livro 15:
+  Título: Deception Point
+  Preço: 40.32
+  Disponível: True
+  Rating: 4
+  URL (relativa): deception-point_426/index.html
+
+Livro 16:
+  Título: Death Note, Vol. 6: Give-and-Take (Death Note #6)
+  Preço: 36.39
+  Disponível: True
+  Rating: 3
+  URL (relativa): death-note-vol-6-give-and-take-death-note-6_425/index.html
+
+Livro 17:
+  Título: Catherine the Great: Portrait of a Woman
+  Preço: 58.55
+  Disponível: True
+  Rating: 4
+  URL (relativa): catherine-the-great-portrait-of-a-woman_424/index.html
+
+Livro 18:
+  Título: Better Homes and Gardens New Cook Book
+  Preço: 39.61
+  Disponível: True
+  Rating: 3
+  URL (relativa): better-homes-and-gardens-new-cook-book_423/index.html
+
+Livro 19:
+  Título: An Unquiet Mind: A Memoir of Moods and Madness
+  Preço: 21.3
+  Disponível: True
+  Rating: 3
+  URL (relativa): an-unquiet-mind-a-memoir-of-moods-and-madness_422/index.html
+
+Livro 20:
+  Título: A Year in Provence (Provence #1)
+  Preço: 56.88
+  Disponível: True
+  Rating: 4
+  URL (relativa): a-year-in-provence-provence-1_421/index.html
+
+Delay ético: 2.50s
+
+==================== Página 30 ====================
+URL: http://books.toscrape.com/catalogue/page-30.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: World Without End (The Pillars of the Earth #2)
+  Preço: 32.97
+  Disponível: True
+  Rating: 4
+  URL (relativa): world-without-end-the-pillars-of-the-earth-2_420/index.html
+
+Livro 2:
+  Título: Will Grayson, Will Grayson (Will Grayson, Will Grayson)
+  Preço: 47.31
+  Disponível: True
+  Rating: 4
+  URL (relativa): will-grayson-will-grayson-will-grayson-will-grayson_419/index.html
+
+Livro 3:
+  Título: Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis
+  Preço: 48.67
+  Disponível: True
+  Rating: 2
+  URL (relativa): why-save-the-bankers-and-other-essays-on-our-economic-and-political-crisis_418/index.html
+
+Livro 4:
+  Título: Where She Went (If I Stay #2)
+  Preço: 41.73
+  Disponível: True
+  Rating: 4
+  URL (relativa): where-she-went-if-i-stay-2_417/index.html
+
+Livro 5:
+  Título: What If?: Serious Scientific Answers to Absurd Hypothetical Questions
+  Preço: 53.68
+  Disponível: True
+  Rating: 4
+  URL (relativa): what-if-serious-scientific-answers-to-absurd-hypothetical-questions_416/index.html
+
+Livro 6:
+  Título: Two Summers
+  Preço: 14.64
+  Disponível: True
+  Rating: 1
+  URL (relativa): two-summers_415/index.html
+
+Livro 7:
+  Título: This Is Your Brain on Music: The Science of a Human Obsession
+  Preço: 38.4
+  Disponível: True
+  Rating: 1
+  URL (relativa): this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html
+
+Livro 8:
+  Título: The Secret Garden
+  Preço: 15.08
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-secret-garden_413/index.html
+
+Livro 9:
+  Título: The Raven King (The Raven Cycle #4)
+  Preço: 30.57
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-raven-king-the-raven-cycle-4_412/index.html
+
+Livro 10:
+  Título: The Raven Boys (The Raven Cycle #1)
+  Preço: 57.74
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-raven-boys-the-raven-cycle-1_411/index.html
+
+Livro 11:
+  Título: The Power Greens Cookbook: 140 Delicious Superfood Recipes
+  Preço: 11.05
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-power-greens-cookbook-140-delicious-superfood-recipes_410/index.html
+
+Livro 12:
+  Título: The Metamorphosis
+  Preço: 28.58
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-metamorphosis_409/index.html
+
+Livro 13:
+  Título: The Mathews Men: Seven Brothers and the War Against Hitler's U-boats
+  Preço: 42.91
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html
+
+Livro 14:
+  Título: The Little Paris Bookshop
+  Preço: 24.73
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-little-paris-bookshop_407/index.html
+
+Livro 15:
+  Título: The Hiding Place
+  Preço: 55.91
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-hiding-place_406/index.html
+
+Livro 16:
+  Título: The Grand Design
+  Preço: 13.76
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-grand-design_405/index.html
+
+Livro 17:
+  Título: The Firm
+  Preço: 45.56
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-firm_404/index.html
+
+Livro 18:
+  Título: The Fault in Our Stars
+  Preço: 47.22
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-fault-in-our-stars_403/index.html
+
+Livro 19:
+  Título: The False Prince (The Ascendance Trilogy #1)
+  Preço: 56.0
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-false-prince-the-ascendance-trilogy-1_402/index.html
+
+Livro 20:
+  Título: The Expatriates
+  Preço: 44.58
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-expatriates_401/index.html
+
+Delay ético: 1.24s
+
+==================== Página 31 ====================
+URL: http://books.toscrape.com/catalogue/page-31.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Dream Thieves (The Raven Cycle #2)
+  Preço: 34.5
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-dream-thieves-the-raven-cycle-2_400/index.html
+
+Livro 2:
+  Título: The Darkest Corners
+  Preço: 11.33
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-darkest-corners_399/index.html
+
+Livro 3:
+  Título: The Crossover
+  Preço: 38.77
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-crossover_398/index.html
+
+Livro 4:
+  Título: The 5th Wave (The 5th Wave #1)
+  Preço: 11.83
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-5th-wave-the-5th-wave-1_397/index.html
+
+Livro 5:
+  Título: Tell the Wind and Fire
+  Preço: 45.51
+  Disponível: True
+  Rating: 3
+  URL (relativa): tell-the-wind-and-fire_396/index.html
+
+Livro 6:
+  Título: Tell Me Three Things
+  Preço: 41.81
+  Disponível: True
+  Rating: 1
+  URL (relativa): tell-me-three-things_395/index.html
+
+Livro 7:
+  Título: Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut
+  Preço: 25.15
+  Disponível: True
+  Rating: 4
+  URL (relativa): talking-to-girls-about-duran-duran-one-young-mans-quest-for-true-love-and-a-cooler-haircut_394/index.html
+
+Livro 8:
+  Título: Siddhartha
+  Preço: 34.22
+  Disponível: True
+  Rating: 5
+  URL (relativa): siddhartha_393/index.html
+
+Livro 9:
+  Título: Shiver (The Wolves of Mercy Falls #1)
+  Preço: 16.23
+  Disponível: True
+  Rating: 5
+  URL (relativa): shiver-the-wolves-of-mercy-falls-1_392/index.html
+
+Livro 10:
+  Título: Remember Me?
+  Preço: 11.48
+  Disponível: True
+  Rating: 3
+  URL (relativa): remember-me_391/index.html
+
+Livro 11:
+  Título: Red Dragon (Hannibal Lecter #1)
+  Preço: 23.37
+  Disponível: True
+  Rating: 3
+  URL (relativa): red-dragon-hannibal-lecter-1_390/index.html
+
+Livro 12:
+  Título: Peak: Secrets from the New Science of Expertise
+  Preço: 16.28
+  Disponível: True
+  Rating: 2
+  URL (relativa): peak-secrets-from-the-new-science-of-expertise_389/index.html
+
+Livro 13:
+  Título: My Mother Was Nuts
+  Preço: 31.63
+  Disponível: True
+  Rating: 4
+  URL (relativa): my-mother-was-nuts_388/index.html
+
+Livro 14:
+  Título: Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens
+  Preço: 24.91
+  Disponível: True
+  Rating: 5
+  URL (relativa): mexican-today-new-and-rediscovered-recipes-for-contemporary-kitchens_387/index.html
+
+Livro 15:
+  Título: Maybe Something Beautiful: How Art Transformed a Neighborhood
+  Preço: 22.54
+  Disponível: True
+  Rating: 1
+  URL (relativa): maybe-something-beautiful-how-art-transformed-a-neighborhood_386/index.html
+
+Livro 16:
+  Título: Lola and the Boy Next Door (Anna and the French Kiss #2)
+  Preço: 23.63
+  Disponível: True
+  Rating: 4
+  URL (relativa): lola-and-the-boy-next-door-anna-and-the-french-kiss-2_385/index.html
+
+Livro 17:
+  Título: Logan Kade (Fallen Crest High #5.5)
+  Preço: 13.12
+  Disponível: True
+  Rating: 2
+  URL (relativa): logan-kade-fallen-crest-high-55_384/index.html
+
+Livro 18:
+  Título: Last One Home (New Beginnings #1)
+  Preço: 59.98
+  Disponível: True
+  Rating: 3
+  URL (relativa): last-one-home-new-beginnings-1_383/index.html
+
+Livro 19:
+  Título: Killing Floor (Jack Reacher #1)
+  Preço: 31.49
+  Disponível: True
+  Rating: 4
+  URL (relativa): killing-floor-jack-reacher-1_382/index.html
+
+Livro 20:
+  Título: Kill the Boy Band
+  Preço: 15.52
+  Disponível: True
+  Rating: 5
+  URL (relativa): kill-the-boy-band_381/index.html
+
+Delay ético: 1.07s
+
+==================== Página 32 ====================
+URL: http://books.toscrape.com/catalogue/page-32.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Isla and the Happily Ever After (Anna and the French Kiss #3)
+  Preço: 48.13
+  Disponível: True
+  Rating: 5
+  URL (relativa): isla-and-the-happily-ever-after-anna-and-the-french-kiss-3_380/index.html
+
+Livro 2:
+  Título: If I Stay (If I Stay #1)
+  Preço: 38.13
+  Disponível: True
+  Rating: 5
+  URL (relativa): if-i-stay-if-i-stay-1_379/index.html
+
+Livro 3:
+  Título: I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)
+  Preço: 36.55
+  Disponível: True
+  Rating: 2
+  URL (relativa): i-know-why-the-caged-bird-sings-maya-angelous-autobiography-1_378/index.html
+
+Livro 4:
+  Título: Harry Potter and the Deathly Hallows (Harry Potter #7)
+  Preço: 23.32
+  Disponível: True
+  Rating: 1
+  URL (relativa): harry-potter-and-the-deathly-hallows-harry-potter-7_377/index.html
+
+Livro 5:
+  Título: Fruits Basket, Vol. 5 (Fruits Basket #5)
+  Preço: 16.33
+  Disponível: True
+  Rating: 1
+  URL (relativa): fruits-basket-vol-5-fruits-basket-5_376/index.html
+
+Livro 6:
+  Título: Foundation (Foundation (Publication Order) #1)
+  Preço: 32.42
+  Disponível: True
+  Rating: 1
+  URL (relativa): foundation-foundation-publication-order-1_375/index.html
+
+Livro 7:
+  Título: Fool Me Once
+  Preço: 16.96
+  Disponível: True
+  Rating: 1
+  URL (relativa): fool-me-once_374/index.html
+
+Livro 8:
+  Título: Find Her (Detective D.D. Warren #8)
+  Preço: 22.37
+  Disponível: True
+  Rating: 1
+  URL (relativa): find-her-detective-dd-warren-8_373/index.html
+
+Livro 9:
+  Título: Evicted: Poverty and Profit in the American City
+  Preço: 42.27
+  Disponível: True
+  Rating: 1
+  URL (relativa): evicted-poverty-and-profit-in-the-american-city_372/index.html
+
+Livro 10:
+  Título: Drama
+  Preço: 38.7
+  Disponível: True
+  Rating: 2
+  URL (relativa): drama_371/index.html
+
+Livro 11:
+  Título: Dracula the Un-Dead
+  Preço: 35.63
+  Disponível: True
+  Rating: 5
+  URL (relativa): dracula-the-un-dead_370/index.html
+
+Livro 12:
+  Título: Digital Fortress
+  Preço: 58.0
+  Disponível: True
+  Rating: 5
+  URL (relativa): digital-fortress_369/index.html
+
+Livro 13:
+  Título: Death Note, Vol. 5: Whiteout (Death Note #5)
+  Preço: 52.41
+  Disponível: True
+  Rating: 1
+  URL (relativa): death-note-vol-5-whiteout-death-note-5_368/index.html
+
+Livro 14:
+  Título: Data, A Love Story: How I Gamed Online Dating to Meet My Match
+  Preço: 32.35
+  Disponível: True
+  Rating: 3
+  URL (relativa): data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html
+
+Livro 15:
+  Título: Critique of Pure Reason
+  Preço: 20.75
+  Disponível: True
+  Rating: 1
+  URL (relativa): critique-of-pure-reason_366/index.html
+
+Livro 16:
+  Título: Booked
+  Preço: 17.49
+  Disponível: True
+  Rating: 5
+  URL (relativa): booked_365/index.html
+
+Livro 17:
+  Título: Blue Lily, Lily Blue (The Raven Cycle #3)
+  Preço: 34.13
+  Disponível: True
+  Rating: 5
+  URL (relativa): blue-lily-lily-blue-the-raven-cycle-3_364/index.html
+
+Livro 18:
+  Título: Approval Junkie: Adventures in Caring Too Much
+  Preço: 58.81
+  Disponível: True
+  Rating: 5
+  URL (relativa): approval-junkie-adventures-in-caring-too-much_363/index.html
+
+Livro 19:
+  Título: An Abundance of Katherines
+  Preço: 10.0
+  Disponível: True
+  Rating: 5
+  URL (relativa): an-abundance-of-katherines_362/index.html
+
+Livro 20:
+  Título: America's War for the Greater Middle East: A Military History
+  Preço: 51.22
+  Disponível: True
+  Rating: 2
+  URL (relativa): americas-war-for-the-greater-middle-east-a-military-history_361/index.html
+
+Delay ético: 2.11s
+
+==================== Página 33 ====================
+URL: http://books.toscrape.com/catalogue/page-33.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Alight (The Generations Trilogy #2)
+  Preço: 58.59
+  Disponível: True
+  Rating: 4
+  URL (relativa): alight-the-generations-trilogy-2_360/index.html
+
+Livro 2:
+  Título: A Girl's Guide to Moving On (New Beginnings #2)
+  Preço: 31.3
+  Disponível: True
+  Rating: 1
+  URL (relativa): a-girls-guide-to-moving-on-new-beginnings-2_359/index.html
+
+Livro 3:
+  Título: A Game of Thrones (A Song of Ice and Fire #1)
+  Preço: 46.42
+  Disponível: True
+  Rating: 2
+  URL (relativa): a-game-of-thrones-a-song-of-ice-and-fire-1_358/index.html
+
+Livro 4:
+  Título: A Feast for Crows (A Song of Ice and Fire #4)
+  Preço: 17.21
+  Disponível: True
+  Rating: 4
+  URL (relativa): a-feast-for-crows-a-song-of-ice-and-fire-4_357/index.html
+
+Livro 5:
+  Título: A Clash of Kings (A Song of Ice and Fire #2)
+  Preço: 10.79
+  Disponível: True
+  Rating: 3
+  URL (relativa): a-clash-of-kings-a-song-of-ice-and-fire-2_356/index.html
+
+Livro 6:
+  Título: Vogue Colors A to Z: A Fashion Coloring Book
+  Preço: 52.35
+  Disponível: True
+  Rating: 4
+  URL (relativa): vogue-colors-a-to-z-a-fashion-coloring-book_355/index.html
+
+Livro 7:
+  Título: The Shining (The Shining #1)
+  Preço: 27.88
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-shining-the-shining-1_354/index.html
+
+Livro 8:
+  Título: The Pilgrim's Progress
+  Preço: 50.26
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-pilgrims-progress_353/index.html
+
+Livro 9:
+  Título: The Perfect Play (Play by Play #1)
+  Preço: 59.99
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-perfect-play-play-by-play-1_352/index.html
+
+Livro 10:
+  Título: The Passion of Dolssa
+  Preço: 28.32
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-passion-of-dolssa_351/index.html
+
+Livro 11:
+  Título: The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe
+  Preço: 38.71
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-jazz-of-physics-the-secret-link-between-music-and-the-structure-of-the-universe_350/index.html
+
+Livro 12:
+  Título: The Hunger Games (The Hunger Games #1)
+  Preço: 29.85
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-hunger-games-the-hunger-games-1_349/index.html
+
+Livro 13:
+  Título: The Hound of the Baskervilles (Sherlock Holmes #5)
+  Preço: 14.82
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html
+
+Livro 14:
+  Título: The Gunning of America: Business and the Making of American Gun Culture
+  Preço: 16.81
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-gunning-of-america-business-and-the-making-of-american-gun-culture_347/index.html
+
+Livro 15:
+  Título: The Geography of Bliss: One Grump's Search for the Happiest Places in the World
+  Preço: 28.23
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-geography-of-bliss-one-grumps-search-for-the-happiest-places-in-the-world_346/index.html
+
+Livro 16:
+  Título: The Demonists (Demonist #1)
+  Preço: 52.11
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-demonists-demonist-1_345/index.html
+
+Livro 17:
+  Título: The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)
+  Preço: 27.88
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-demon-prince-of-momochi-house-vol-4-the-demon-prince-of-momochi-house-4_344/index.html
+
+Livro 18:
+  Título: The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)
+  Preço: 59.71
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html
+
+Livro 19:
+  Título: The Beast (Black Dagger Brotherhood #14)
+  Preço: 46.08
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-beast-black-dagger-brotherhood-14_342/index.html
+
+Livro 20:
+  Título: Some Women
+  Preço: 13.73
+  Disponível: True
+  Rating: 5
+  URL (relativa): some-women_341/index.html
+
+Delay ético: 1.16s
+
+==================== Página 34 ====================
+URL: http://books.toscrape.com/catalogue/page-34.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Shopaholic Ties the Knot (Shopaholic #3)
+  Preço: 48.39
+  Disponível: True
+  Rating: 5
+  URL (relativa): shopaholic-ties-the-knot-shopaholic-3_340/index.html
+
+Livro 2:
+  Título: Paper and Fire (The Great Library #2)
+  Preço: 49.45
+  Disponível: True
+  Rating: 5
+  URL (relativa): paper-and-fire-the-great-library-2_339/index.html
+
+Livro 3:
+  Título: Outlander (Outlander #1)
+  Preço: 19.67
+  Disponível: True
+  Rating: 5
+  URL (relativa): outlander-outlander-1_338/index.html
+
+Livro 4:
+  Título: Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors
+  Preço: 12.36
+  Disponível: True
+  Rating: 3
+  URL (relativa): orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html
+
+Livro 5:
+  Título: No One Here Gets Out Alive
+  Preço: 20.02
+  Disponível: True
+  Rating: 5
+  URL (relativa): no-one-here-gets-out-alive_336/index.html
+
+Livro 6:
+  Título: Night Shift (Night Shift #1-20)
+  Preço: 12.75
+  Disponível: True
+  Rating: 4
+  URL (relativa): night-shift-night-shift-1-20_335/index.html
+
+Livro 7:
+  Título: Needful Things
+  Preço: 47.51
+  Disponível: True
+  Rating: 4
+  URL (relativa): needful-things_334/index.html
+
+Livro 8:
+  Título: Mockingjay (The Hunger Games #3)
+  Preço: 20.44
+  Disponível: True
+  Rating: 4
+  URL (relativa): mockingjay-the-hunger-games-3_333/index.html
+
+Livro 9:
+  Título: Misery
+  Preço: 34.79
+  Disponível: True
+  Rating: 2
+  URL (relativa): misery_332/index.html
+
+Livro 10:
+  Título: Little Women (Little Women #1)
+  Preço: 28.07
+  Disponível: True
+  Rating: 4
+  URL (relativa): little-women-little-women-1_331/index.html
+
+Livro 11:
+  Título: It
+  Preço: 25.01
+  Disponível: True
+  Rating: 3
+  URL (relativa): it_330/index.html
+
+Livro 12:
+  Título: Harry Potter and the Sorcerer's Stone (Harry Potter #1)
+  Preço: 13.9
+  Disponível: True
+  Rating: 3
+  URL (relativa): harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html
+
+Livro 13:
+  Título: Harry Potter and the Prisoner of Azkaban (Harry Potter #3)
+  Preço: 24.17
+  Disponível: True
+  Rating: 4
+  URL (relativa): harry-potter-and-the-prisoner-of-azkaban-harry-potter-3_328/index.html
+
+Livro 14:
+  Título: Harry Potter and the Order of the Phoenix (Harry Potter #5)
+  Preço: 31.63
+  Disponível: True
+  Rating: 4
+  URL (relativa): harry-potter-and-the-order-of-the-phoenix-harry-potter-5_327/index.html
+
+Livro 15:
+  Título: Harry Potter and the Half-Blood Prince (Harry Potter #6)
+  Preço: 48.75
+  Disponível: True
+  Rating: 5
+  URL (relativa): harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html
+
+Livro 16:
+  Título: Harry Potter and the Chamber of Secrets (Harry Potter #2)
+  Preço: 14.74
+  Disponível: True
+  Rating: 1
+  URL (relativa): harry-potter-and-the-chamber-of-secrets-harry-potter-2_325/index.html
+
+Livro 17:
+  Título: Gone with the Wind
+  Preço: 32.49
+  Disponível: True
+  Rating: 3
+  URL (relativa): gone-with-the-wind_324/index.html
+
+Livro 18:
+  Título: God Is Not Great: How Religion Poisons Everything
+  Preço: 27.8
+  Disponível: True
+  Rating: 1
+  URL (relativa): god-is-not-great-how-religion-poisons-everything_323/index.html
+
+Livro 19:
+  Título: Girl With a Pearl Earring
+  Preço: 26.77
+  Disponível: True
+  Rating: 1
+  URL (relativa): girl-with-a-pearl-earring_322/index.html
+
+Livro 20:
+  Título: Fruits Basket, Vol. 4 (Fruits Basket #4)
+  Preço: 50.44
+  Disponível: True
+  Rating: 4
+  URL (relativa): fruits-basket-vol-4-fruits-basket-4_321/index.html
+
+Delay ético: 2.86s
+
+==================== Página 35 ====================
+URL: http://books.toscrape.com/catalogue/page-35.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Far From True (Promise Falls Trilogy #2)
+  Preço: 34.93
+  Disponível: True
+  Rating: 2
+  URL (relativa): far-from-true-promise-falls-trilogy-2_320/index.html
+
+Livro 2:
+  Título: Dark Lover (Black Dagger Brotherhood #1)
+  Preço: 12.87
+  Disponível: True
+  Rating: 1
+  URL (relativa): dark-lover-black-dagger-brotherhood-1_319/index.html
+
+Livro 3:
+  Título: Confessions of a Shopaholic (Shopaholic #1)
+  Preço: 48.94
+  Disponível: True
+  Rating: 2
+  URL (relativa): confessions-of-a-shopaholic-shopaholic-1_318/index.html
+
+Livro 4:
+  Título: Changing the Game (Play by Play #2)
+  Preço: 13.38
+  Disponível: True
+  Rating: 3
+  URL (relativa): changing-the-game-play-by-play-2_317/index.html
+
+Livro 5:
+  Título: Candide
+  Preço: 58.63
+  Disponível: True
+  Rating: 3
+  URL (relativa): candide_316/index.html
+
+Livro 6:
+  Título: Can You Keep a Secret?
+  Preço: 21.94
+  Disponível: True
+  Rating: 1
+  URL (relativa): can-you-keep-a-secret_315/index.html
+
+Livro 7:
+  Título: Atlas Shrugged
+  Preço: 26.58
+  Disponível: True
+  Rating: 5
+  URL (relativa): atlas-shrugged_314/index.html
+
+Livro 8:
+  Título: Animal Farm
+  Preço: 57.22
+  Disponível: True
+  Rating: 3
+  URL (relativa): animal-farm_313/index.html
+
+Livro 9:
+  Título: A Walk to Remember
+  Preço: 56.43
+  Disponível: True
+  Rating: 1
+  URL (relativa): a-walk-to-remember_312/index.html
+
+Livro 10:
+  Título: A New Earth: Awakening to Your Life's Purpose
+  Preço: 55.65
+  Disponível: True
+  Rating: 5
+  URL (relativa): a-new-earth-awakening-to-your-lifes-purpose_311/index.html
+
+Livro 11:
+  Título: A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam
+  Preço: 27.62
+  Disponível: True
+  Rating: 1
+  URL (relativa): a-history-of-god-the-4000-year-quest-of-judaism-christianity-and-islam_310/index.html
+
+Livro 12:
+  Título: 'Salem's Lot
+  Preço: 49.56
+  Disponível: True
+  Rating: 4
+  URL (relativa): salems-lot_309/index.html
+
+Livro 13:
+  Título: Zero History (Blue Ant #3)
+  Preço: 34.77
+  Disponível: True
+  Rating: 1
+  URL (relativa): zero-history-blue-ant-3_308/index.html
+
+Livro 14:
+  Título: Wuthering Heights
+  Preço: 17.73
+  Disponível: True
+  Rating: 3
+  URL (relativa): wuthering-heights_307/index.html
+
+Livro 15:
+  Título: World War Z: An Oral History of the Zombie War
+  Preço: 21.8
+  Disponível: True
+  Rating: 1
+  URL (relativa): world-war-z-an-oral-history-of-the-zombie-war_306/index.html
+
+Livro 16:
+  Título: Wild: From Lost to Found on the Pacific Crest Trail
+  Preço: 46.02
+  Disponível: True
+  Rating: 3
+  URL (relativa): wild-from-lost-to-found-on-the-pacific-crest-trail_305/index.html
+
+Livro 17:
+  Título: Where'd You Go, Bernadette
+  Preço: 18.13
+  Disponível: True
+  Rating: 1
+  URL (relativa): whered-you-go-bernadette_304/index.html
+
+Livro 18:
+  Título: When You Are Engulfed in Flames
+  Preço: 30.89
+  Disponível: True
+  Rating: 5
+  URL (relativa): when-you-are-engulfed-in-flames_303/index.html
+
+Livro 19:
+  Título: We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America
+  Preço: 31.95
+  Disponível: True
+  Rating: 3
+  URL (relativa): we-the-people-the-modern-day-figures-who-have-reshaped-and-affirmed-the-founding-fathers-vision-of-america_302/index.html
+
+Livro 20:
+  Título: We Are All Completely Beside Ourselves
+  Preço: 24.04
+  Disponível: True
+  Rating: 1
+  URL (relativa): we-are-all-completely-beside-ourselves_301/index.html
+
+Delay ético: 1.06s
+
+==================== Página 36 ====================
+URL: http://books.toscrape.com/catalogue/page-36.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Walk the Edge (Thunder Road #2)
+  Preço: 32.36
+  Disponível: True
+  Rating: 3
+  URL (relativa): walk-the-edge-thunder-road-2_300/index.html
+
+Livro 2:
+  Título: Voyager (Outlander #3)
+  Preço: 21.07
+  Disponível: True
+  Rating: 5
+  URL (relativa): voyager-outlander-3_299/index.html
+
+Livro 3:
+  Título: Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination
+  Preço: 50.66
+  Disponível: True
+  Rating: 3
+  URL (relativa): very-good-lives-the-fringe-benefits-of-failure-and-the-importance-of-imagination_298/index.html
+
+Livro 4:
+  Título: Vegan Vegetarian Omnivore: Dinner for Everyone at the Table
+  Preço: 13.66
+  Disponível: True
+  Rating: 2
+  URL (relativa): vegan-vegetarian-omnivore-dinner-for-everyone-at-the-table_297/index.html
+
+Livro 5:
+  Título: Unstuffed: Decluttering Your Home, Mind, and Soul
+  Preço: 58.09
+  Disponível: True
+  Rating: 1
+  URL (relativa): unstuffed-decluttering-your-home-mind-and-soul_296/index.html
+
+Livro 6:
+  Título: Under the Banner of Heaven: A Story of Violent Faith
+  Preço: 30.0
+  Disponível: True
+  Rating: 1
+  URL (relativa): under-the-banner-of-heaven-a-story-of-violent-faith_295/index.html
+
+Livro 7:
+  Título: Two Boys Kissing
+  Preço: 32.74
+  Disponível: True
+  Rating: 2
+  URL (relativa): two-boys-kissing_294/index.html
+
+Livro 8:
+  Título: Twilight (Twilight #1)
+  Preço: 41.93
+  Disponível: True
+  Rating: 2
+  URL (relativa): twilight-twilight-1_293/index.html
+
+Livro 9:
+  Título: Twenties Girl
+  Preço: 42.8
+  Disponível: True
+  Rating: 2
+  URL (relativa): twenties-girl_292/index.html
+
+Livro 10:
+  Título: Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland
+  Preço: 53.51
+  Disponível: True
+  Rating: 1
+  URL (relativa): trespassing-across-america-one-mans-epic-never-done-before-and-sort-of-illegal-hike-across-the-heartland_291/index.html
+
+Livro 11:
+  Título: Three-Martini Lunch
+  Preço: 23.21
+  Disponível: True
+  Rating: 3
+  URL (relativa): three-martini-lunch_290/index.html
+
+Livro 12:
+  Título: Thinking, Fast and Slow
+  Preço: 21.14
+  Disponível: True
+  Rating: 1
+  URL (relativa): thinking-fast-and-slow_289/index.html
+
+Livro 13:
+  Título: The Wild Robot
+  Preço: 56.07
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-wild-robot_288/index.html
+
+Livro 14:
+  Título: The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)
+  Preço: 14.41
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-wicked-the-divine-vol-3-commercial-suicide-the-wicked-the-divine_287/index.html
+
+Livro 15:
+  Título: The Undomestic Goddess
+  Preço: 45.75
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-undomestic-goddess_286/index.html
+
+Livro 16:
+  Título: The Travelers
+  Preço: 15.77
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-travelers_285/index.html
+
+Livro 17:
+  Título: The Tipping Point: How Little Things Can Make a Big Difference
+  Preço: 10.02
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-tipping-point-how-little-things-can-make-a-big-difference_284/index.html
+
+Livro 18:
+  Título: The Thing About Jellyfish
+  Preço: 48.77
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-thing-about-jellyfish_283/index.html
+
+Livro 19:
+  Título: The Stand
+  Preço: 57.86
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-stand_282/index.html
+
+Livro 20:
+  Título: The Smitten Kitchen Cookbook
+  Preço: 23.59
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-smitten-kitchen-cookbook_281/index.html
+
+Delay ético: 1.47s
+
+==================== Página 37 ====================
+URL: http://books.toscrape.com/catalogue/page-37.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Silkworm (Cormoran Strike #2)
+  Preço: 23.05
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-silkworm-cormoran-strike-2_280/index.html
+
+Livro 2:
+  Título: The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)
+  Preço: 55.55
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html
+
+Livro 3:
+  Título: The Rose & the Dagger (The Wrath and the Dawn #2)
+  Preço: 58.64
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html
+
+Livro 4:
+  Título: The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)
+  Preço: 23.21
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html
+
+Livro 5:
+  Título: The Rise of Theodore Roosevelt (Theodore Roosevelt #1)
+  Preço: 42.57
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html
+
+Livro 6:
+  Título: The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)
+  Preço: 10.92
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html
+
+Livro 7:
+  Título: The Rest Is Noise: Listening to the Twentieth Century
+  Preço: 34.77
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-rest-is-noise-listening-to-the-twentieth-century_274/index.html
+
+Livro 8:
+  Título: The Red Tent
+  Preço: 35.66
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-red-tent_273/index.html
+
+Livro 9:
+  Título: The Purpose Driven Life: What on Earth Am I Here for?
+  Preço: 37.19
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-purpose-driven-life-what-on-earth-am-i-here-for_272/index.html
+
+Livro 10:
+  Título: The Purest Hook (Second Circle Tattoos #3)
+  Preço: 12.25
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-purest-hook-second-circle-tattoos-3_271/index.html
+
+Livro 11:
+  Título: The Picture of Dorian Gray
+  Preço: 29.7
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-picture-of-dorian-gray_270/index.html
+
+Livro 12:
+  Título: The Paris Wife
+  Preço: 36.8
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-paris-wife_269/index.html
+
+Livro 13:
+  Título: The Obsession
+  Preço: 45.43
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-obsession_268/index.html
+
+Livro 14:
+  Título: The Nightingale
+  Preço: 26.26
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-nightingale_267/index.html
+
+Livro 15:
+  Título: The New Guy (and Other Senior Year Distractions)
+  Preço: 44.92
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-new-guy-and-other-senior-year-distractions_266/index.html
+
+Livro 16:
+  Título: The Nanny Diaries (Nanny #1)
+  Preço: 52.53
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-nanny-diaries-nanny-1_265/index.html
+
+Livro 17:
+  Título: The Name of God is Mercy
+  Preço: 37.25
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-name-of-god-is-mercy_264/index.html
+
+Livro 18:
+  Título: The Maze Runner (The Maze Runner #1)
+  Preço: 20.93
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-maze-runner-the-maze-runner-1_263/index.html
+
+Livro 19:
+  Título: The Lover's Dictionary
+  Preço: 58.09
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-lovers-dictionary_262/index.html
+
+Livro 20:
+  Título: The Lonely Ones
+  Preço: 43.59
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-lonely-ones_261/index.html
+
+Delay ético: 2.34s
+
+==================== Página 38 ====================
+URL: http://books.toscrape.com/catalogue/page-38.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+  Preço: 33.92
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses_260/index.html
+
+Livro 2:
+  Título: The Last Painting of Sara de Vos
+  Preço: 55.55
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-last-painting-of-sara-de-vos_259/index.html
+
+Livro 3:
+  Título: The Land of 10,000 Madonnas
+  Preço: 29.64
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-land-of-10000-madonnas_258/index.html
+
+Livro 4:
+  Título: The Infinities
+  Preço: 27.41
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-infinities_257/index.html
+
+Livro 5:
+  Título: The Husband's Secret
+  Preço: 52.51
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-husbands-secret_256/index.html
+
+Livro 6:
+  Título: The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1)
+  Preço: 47.8
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1_255/index.html
+
+Livro 7:
+  Título: The Guns of August
+  Preço: 14.54
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-guns-of-august_254/index.html
+
+Livro 8:
+  Título: The Guernsey Literary and Potato Peel Pie Society
+  Preço: 49.53
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-guernsey-literary-and-potato-peel-pie-society_253/index.html
+
+Livro 9:
+  Título: The Goldfinch
+  Preço: 43.58
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-goldfinch_252/index.html
+
+Livro 10:
+  Título: The Giver (The Giver Quartet #1)
+  Preço: 12.3
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-giver-the-giver-quartet-1_251/index.html
+
+Livro 11:
+  Título: The Girl with All the Gifts
+  Preço: 49.47
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-girl-with-all-the-gifts_250/index.html
+
+Livro 12:
+  Título: The Girl Who Played with Fire (Millennium Trilogy #2)
+  Preço: 22.14
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-girl-who-played-with-fire-millennium-trilogy-2_249/index.html
+
+Livro 13:
+  Título: The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)
+  Preço: 57.48
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-girl-who-kicked-the-hornets-nest-millennium-trilogy-3_248/index.html
+
+Livro 14:
+  Título: The Exiled
+  Preço: 43.45
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-exiled_247/index.html
+
+Livro 15:
+  Título: The End of Faith: Religion, Terror, and the Future of Reason
+  Preço: 22.13
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-end-of-faith-religion-terror-and-the-future-of-reason_246/index.html
+
+Livro 16:
+  Título: The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
+  Preço: 13.03
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html
+
+Livro 17:
+  Título: The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements
+  Preço: 57.35
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html
+
+Livro 18:
+  Título: The Devil Wears Prada (The Devil Wears Prada #1)
+  Preço: 44.29
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-devil-wears-prada-the-devil-wears-prada-1_243/index.html
+
+Livro 19:
+  Título: The Demon-Haunted World: Science as a Candle in the Dark
+  Preço: 52.25
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html
+
+Livro 20:
+  Título: The Day the Crayons Came Home (Crayons)
+  Preço: 26.33
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-day-the-crayons-came-home-crayons_241/index.html
+
+Delay ético: 2.44s
+
+==================== Página 39 ====================
+URL: http://books.toscrape.com/catalogue/page-39.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Da Vinci Code (Robert Langdon #2)
+  Preço: 22.96
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-da-vinci-code-robert-langdon-2_240/index.html
+
+Livro 2:
+  Título: The Cuckoo's Calling (Cormoran Strike #1)
+  Preço: 19.21
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-cuckoos-calling-cormoran-strike-1_239/index.html
+
+Livro 3:
+  Título: The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])
+  Preço: 26.78
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html
+
+Livro 4:
+  Título: The Complete Poems
+  Preço: 41.32
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-complete-poems_237/index.html
+
+Livro 5:
+  Título: The Catcher in the Rye
+  Preço: 24.55
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-catcher-in-the-rye_236/index.html
+
+Livro 6:
+  Título: The Cat in the Hat (Beginner Books B-1)
+  Preço: 16.26
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-cat-in-the-hat-beginner-books-b-1_235/index.html
+
+Livro 7:
+  Título: The Case for Christ (Cases for Christianity)
+  Preço: 47.84
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-case-for-christ-cases-for-christianity_234/index.html
+
+Livro 8:
+  Título: The Book Thief
+  Preço: 53.49
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-book-thief_233/index.html
+
+Livro 9:
+  Título: The Book of Basketball: The NBA According to The Sports Guy
+  Preço: 44.84
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html
+
+Livro 10:
+  Título: The Blind Side: Evolution of a Game
+  Preço: 53.71
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-blind-side-evolution-of-a-game_231/index.html
+
+Livro 11:
+  Título: The Autobiography of Malcolm X
+  Preço: 23.43
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-autobiography-of-malcolm-x_230/index.html
+
+Livro 12:
+  Título: The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution
+  Preço: 34.32
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-art-of-simple-food-notes-lessons-and-recipes-from-a-delicious-revolution_229/index.html
+
+Livro 13:
+  Título: The Art of Fielding
+  Preço: 22.1
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-art-of-fielding_228/index.html
+
+Livro 14:
+  Título: Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character
+  Preço: 25.83
+  Disponível: True
+  Rating: 2
+  URL (relativa): surely-youre-joking-mr-feynman-adventures-of-a-curious-character_227/index.html
+
+Livro 15:
+  Título: Stiff: The Curious Lives of Human Cadavers
+  Preço: 36.74
+  Disponível: True
+  Rating: 3
+  URL (relativa): stiff-the-curious-lives-of-human-cadavers_226/index.html
+
+Livro 16:
+  Título: Spilled Milk: Based on a True Story
+  Preço: 49.51
+  Disponível: True
+  Rating: 1
+  URL (relativa): spilled-milk-based-on-a-true-story_225/index.html
+
+Livro 17:
+  Título: Something Borrowed (Darcy & Rachel #1)
+  Preço: 48.96
+  Disponível: True
+  Rating: 5
+  URL (relativa): something-borrowed-darcy-rachel-1_224/index.html
+
+Livro 18:
+  Título: Something Blue (Darcy & Rachel #2)
+  Preço: 54.62
+  Disponível: True
+  Rating: 1
+  URL (relativa): something-blue-darcy-rachel-2_223/index.html
+
+Livro 19:
+  Título: Soldier (Talon #3)
+  Preço: 24.72
+  Disponível: True
+  Rating: 2
+  URL (relativa): soldier-talon-3_222/index.html
+
+Livro 20:
+  Título: Shopaholic & Baby (Shopaholic #5)
+  Preço: 46.45
+  Disponível: True
+  Rating: 2
+  URL (relativa): shopaholic-baby-shopaholic-5_221/index.html
+
+Delay ético: 2.70s
+
+==================== Página 40 ====================
+URL: http://books.toscrape.com/catalogue/page-40.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Seven Days in the Art World
+  Preço: 52.33
+  Disponível: True
+  Rating: 2
+  URL (relativa): seven-days-in-the-art-world_220/index.html
+
+Livro 2:
+  Título: Seven Brief Lessons on Physics
+  Preço: 30.6
+  Disponível: True
+  Rating: 4
+  URL (relativa): seven-brief-lessons-on-physics_219/index.html
+
+Livro 3:
+  Título: Scarlet (The Lunar Chronicles #2)
+  Preço: 14.57
+  Disponível: True
+  Rating: 4
+  URL (relativa): scarlet-the-lunar-chronicles-2_218/index.html
+
+Livro 4:
+  Título: Sarah's Key
+  Preço: 46.29
+  Disponível: True
+  Rating: 1
+  URL (relativa): sarahs-key_217/index.html
+
+Livro 5:
+  Título: Saga, Volume 3 (Saga (Collected Editions) #3)
+  Preço: 21.57
+  Disponível: True
+  Rating: 5
+  URL (relativa): saga-volume-3-saga-collected-editions-3_216/index.html
+
+Livro 6:
+  Título: Running with Scissors
+  Preço: 12.91
+  Disponível: True
+  Rating: 4
+  URL (relativa): running-with-scissors_215/index.html
+
+Livro 7:
+  Título: Rogue Lawyer (Rogue Lawyer #1)
+  Preço: 50.11
+  Disponível: True
+  Rating: 3
+  URL (relativa): rogue-lawyer-rogue-lawyer-1_214/index.html
+
+Livro 8:
+  Título: Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars
+  Preço: 41.67
+  Disponível: True
+  Rating: 4
+  URL (relativa): rise-of-the-rocket-girls-the-women-who-propelled-us-from-missiles-to-the-moon-to-mars_213/index.html
+
+Livro 9:
+  Título: Rework
+  Preço: 44.88
+  Disponível: True
+  Rating: 2
+  URL (relativa): rework_212/index.html
+
+Livro 10:
+  Título: Reservations for Two
+  Preço: 11.1
+  Disponível: True
+  Rating: 3
+  URL (relativa): reservations-for-two_211/index.html
+
+Livro 11:
+  Título: Red: The True Story of Red Riding Hood
+  Preço: 28.54
+  Disponível: True
+  Rating: 3
+  URL (relativa): red-the-true-story-of-red-riding-hood_210/index.html
+
+Livro 12:
+  Título: Ready Player One
+  Preço: 19.07
+  Disponível: True
+  Rating: 4
+  URL (relativa): ready-player-one_209/index.html
+
+Livro 13:
+  Título: Quiet: The Power of Introverts in a World That Can't Stop Talking
+  Preço: 43.55
+  Disponível: True
+  Rating: 1
+  URL (relativa): quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking_208/index.html
+
+Livro 14:
+  Título: Prodigy: The Graphic Novel (Legend: The Graphic Novel #2)
+  Preço: 43.63
+  Disponível: True
+  Rating: 3
+  URL (relativa): prodigy-the-graphic-novel-legend-the-graphic-novel-2_207/index.html
+
+Livro 15:
+  Título: Persepolis: The Story of a Childhood (Persepolis #1-2)
+  Preço: 39.13
+  Disponível: True
+  Rating: 1
+  URL (relativa): persepolis-the-story-of-a-childhood-persepolis-1-2_206/index.html
+
+Livro 16:
+  Título: Packing for Mars: The Curious Science of Life in the Void
+  Preço: 56.68
+  Disponível: True
+  Rating: 2
+  URL (relativa): packing-for-mars-the-curious-science-of-life-in-the-void_205/index.html
+
+Livro 17:
+  Título: Outliers: The Story of Success
+  Preço: 14.16
+  Disponível: True
+  Rating: 1
+  URL (relativa): outliers-the-story-of-success_204/index.html
+
+Livro 18:
+  Título: Original Fake
+  Preço: 31.45
+  Disponível: True
+  Rating: 3
+  URL (relativa): original-fake_203/index.html
+
+Livro 19:
+  Título: Orange Is the New Black
+  Preço: 24.61
+  Disponível: True
+  Rating: 2
+  URL (relativa): orange-is-the-new-black_202/index.html
+
+Livro 20:
+  Título: One for the Money (Stephanie Plum #1)
+  Preço: 32.87
+  Disponível: True
+  Rating: 2
+  URL (relativa): one-for-the-money-stephanie-plum-1_201/index.html
+
+Delay ético: 1.73s
+
+==================== Página 41 ====================
+URL: http://books.toscrape.com/catalogue/page-41.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Notes from a Small Island (Notes From a Small Island #1)
+  Preço: 40.17
+  Disponível: True
+  Rating: 1
+  URL (relativa): notes-from-a-small-island-notes-from-a-small-island-1_200/index.html
+
+Livro 2:
+  Título: Night (The Night Trilogy #1)
+  Preço: 13.51
+  Disponível: True
+  Rating: 1
+  URL (relativa): night-the-night-trilogy-1_199/index.html
+
+Livro 3:
+  Título: Neither Here nor There: Travels in Europe
+  Preço: 38.95
+  Disponível: True
+  Rating: 3
+  URL (relativa): neither-here-nor-there-travels-in-europe_198/index.html
+
+Livro 4:
+  Título: Naked
+  Preço: 31.69
+  Disponível: True
+  Rating: 3
+  URL (relativa): naked_197/index.html
+
+Livro 5:
+  Título: Morning Star (Red Rising #3)
+  Preço: 29.4
+  Disponível: True
+  Rating: 1
+  URL (relativa): morning-star-red-rising-3_196/index.html
+
+Livro 6:
+  Título: Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing
+  Preço: 57.83
+  Disponível: True
+  Rating: 1
+  URL (relativa): miracles-from-heaven-a-little-girl-her-journey-to-heaven-and-her-amazing-story-of-healing_195/index.html
+
+Livro 7:
+  Título: Midnight Riot (Peter Grant/ Rivers of London - books #1)
+  Preço: 55.46
+  Disponível: True
+  Rating: 2
+  URL (relativa): midnight-riot-peter-grant-rivers-of-london-books-1_194/index.html
+
+Livro 8:
+  Título: Me Talk Pretty One Day
+  Preço: 57.6
+  Disponível: True
+  Rating: 2
+  URL (relativa): me-talk-pretty-one-day_193/index.html
+
+Livro 9:
+  Título: Manuscript Found in Accra
+  Preço: 34.98
+  Disponível: True
+  Rating: 2
+  URL (relativa): manuscript-found-in-accra_192/index.html
+
+Livro 10:
+  Título: Lust & Wonder
+  Preço: 11.87
+  Disponível: True
+  Rating: 2
+  URL (relativa): lust-wonder_191/index.html
+
+Livro 11:
+  Título: Lila (Gilead #3)
+  Preço: 12.47
+  Disponível: True
+  Rating: 3
+  URL (relativa): lila-gilead-3_190/index.html
+
+Livro 12:
+  Título: Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)
+  Preço: 33.26
+  Disponível: True
+  Rating: 2
+  URL (relativa): life-the-universe-and-everything-hitchhikers-guide-to-the-galaxy-3_189/index.html
+
+Livro 13:
+  Título: Life Without a Recipe
+  Preço: 59.04
+  Disponível: True
+  Rating: 5
+  URL (relativa): life-without-a-recipe_188/index.html
+
+Livro 14:
+  Título: Life After Life
+  Preço: 26.13
+  Disponível: True
+  Rating: 2
+  URL (relativa): life-after-life_187/index.html
+
+Livro 15:
+  Título: Letter to a Christian Nation
+  Preço: 22.2
+  Disponível: True
+  Rating: 1
+  URL (relativa): letter-to-a-christian-nation_186/index.html
+
+Livro 16:
+  Título: Let's Pretend This Never Happened: A Mostly True Memoir
+  Preço: 45.11
+  Disponível: True
+  Rating: 1
+  URL (relativa): lets-pretend-this-never-happened-a-mostly-true-memoir_185/index.html
+
+Livro 17:
+  Título: Legend (Legend #1)
+  Preço: 43.69
+  Disponível: True
+  Rating: 4
+  URL (relativa): legend-legend-1_184/index.html
+
+Livro 18:
+  Título: Lean In: Women, Work, and the Will to Lead
+  Preço: 25.02
+  Disponível: True
+  Rating: 1
+  URL (relativa): lean-in-women-work-and-the-will-to-lead_183/index.html
+
+Livro 19:
+  Título: Lamb: The Gospel According to Biff, Christ's Childhood Pal
+  Preço: 55.5
+  Disponível: True
+  Rating: 5
+  URL (relativa): lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html
+
+Livro 20:
+  Título: Lady Renegades (Rebel Belle #3)
+  Preço: 53.04
+  Disponível: True
+  Rating: 5
+  URL (relativa): lady-renegades-rebel-belle-3_181/index.html
+
+Delay ético: 1.55s
+
+==================== Página 42 ====================
+URL: http://books.toscrape.com/catalogue/page-42.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Jurassic Park (Jurassic Park #1)
+  Preço: 44.97
+  Disponível: True
+  Rating: 1
+  URL (relativa): jurassic-park-jurassic-park-1_180/index.html
+
+Livro 2:
+  Título: It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond
+  Preço: 42.38
+  Disponível: True
+  Rating: 1
+  URL (relativa): its-never-too-late-to-begin-again-discovering-creativity-and-meaning-at-midlife-and-beyond_179/index.html
+
+Livro 3:
+  Título: Is Everyone Hanging Out Without Me? (And Other Concerns)
+  Preço: 20.11
+  Disponível: True
+  Rating: 3
+  URL (relativa): is-everyone-hanging-out-without-me-and-other-concerns_178/index.html
+
+Livro 4:
+  Título: Into the Wild
+  Preço: 56.7
+  Disponível: True
+  Rating: 5
+  URL (relativa): into-the-wild_177/index.html
+
+Livro 5:
+  Título: Inferno (Robert Langdon #4)
+  Preço: 41.0
+  Disponível: True
+  Rating: 5
+  URL (relativa): inferno-robert-langdon-4_176/index.html
+
+Livro 6:
+  Título: In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin
+  Preço: 28.85
+  Disponível: True
+  Rating: 3
+  URL (relativa): in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitlers-berlin_175/index.html
+
+Livro 7:
+  Título: If I Run (If I Run #1)
+  Preço: 49.97
+  Disponível: True
+  Rating: 4
+  URL (relativa): if-i-run-if-i-run-1_174/index.html
+
+Livro 8:
+  Título: I've Got Your Number
+  Preço: 19.69
+  Disponível: True
+  Rating: 1
+  URL (relativa): ive-got-your-number_173/index.html
+
+Livro 9:
+  Título: I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban
+  Preço: 28.88
+  Disponível: True
+  Rating: 2
+  URL (relativa): i-am-malala-the-girl-who-stood-up-for-education-and-was-shot-by-the-taliban_172/index.html
+
+Livro 10:
+  Título: Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World
+  Preço: 33.14
+  Disponível: True
+  Rating: 3
+  URL (relativa): hungry-girl-clean-hungry-easy-all-natural-recipes-for-healthy-eating-in-the-real-world_171/index.html
+
+Livro 11:
+  Título: House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth
+  Preço: 43.7
+  Disponível: True
+  Rating: 2
+  URL (relativa): house-of-lost-worlds-dinosaurs-dynasties-and-the-story-of-life-on-earth_170/index.html
+
+Livro 12:
+  Título: House of Leaves
+  Preço: 54.89
+  Disponível: True
+  Rating: 1
+  URL (relativa): house-of-leaves_169/index.html
+
+Livro 13:
+  Título: Horrible Bear!
+  Preço: 37.52
+  Disponível: True
+  Rating: 2
+  URL (relativa): horrible-bear_168/index.html
+
+Livro 14:
+  Título: Holidays on Ice
+  Preço: 51.07
+  Disponível: True
+  Rating: 2
+  URL (relativa): holidays-on-ice_167/index.html
+
+Livro 15:
+  Título: Heir to the Sky
+  Preço: 44.07
+  Disponível: True
+  Rating: 4
+  URL (relativa): heir-to-the-sky_166/index.html
+
+Livro 16:
+  Título: Green Eggs and Ham (Beginner Books B-16)
+  Preço: 10.79
+  Disponível: True
+  Rating: 4
+  URL (relativa): green-eggs-and-ham-beginner-books-b-16_165/index.html
+
+Livro 17:
+  Título: Grayson, Vol 3: Nemesis (Grayson #3)
+  Preço: 42.72
+  Disponível: True
+  Rating: 1
+  URL (relativa): grayson-vol-3-nemesis-grayson-3_164/index.html
+
+Livro 18:
+  Título: Gratitude
+  Preço: 26.66
+  Disponível: True
+  Rating: 5
+  URL (relativa): gratitude_163/index.html
+
+Livro 19:
+  Título: Gone Girl
+  Preço: 37.6
+  Disponível: True
+  Rating: 5
+  URL (relativa): gone-girl_162/index.html
+
+Livro 20:
+  Título: Golden (Heart of Dread #3)
+  Preço: 42.21
+  Disponível: True
+  Rating: 4
+  URL (relativa): golden-heart-of-dread-3_161/index.html
+
+Delay ético: 2.78s
+
+==================== Página 43 ====================
+URL: http://books.toscrape.com/catalogue/page-43.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Girl in the Blue Coat
+  Preço: 46.83
+  Disponível: True
+  Rating: 2
+  URL (relativa): girl-in-the-blue-coat_160/index.html
+
+Livro 2:
+  Título: Fruits Basket, Vol. 3 (Fruits Basket #3)
+  Preço: 45.17
+  Disponível: True
+  Rating: 2
+  URL (relativa): fruits-basket-vol-3-fruits-basket-3_159/index.html
+
+Livro 3:
+  Título: Friday Night Lights: A Town, a Team, and a Dream
+  Preço: 51.22
+  Disponível: True
+  Rating: 3
+  URL (relativa): friday-night-lights-a-town-a-team-and-a-dream_158/index.html
+
+Livro 4:
+  Título: Fire Bound (Sea Haven/Sisters of the Heart #5)
+  Preço: 21.28
+  Disponível: True
+  Rating: 4
+  URL (relativa): fire-bound-sea-havensisters-of-the-heart-5_157/index.html
+
+Livro 5:
+  Título: Fifty Shades Freed (Fifty Shades #3)
+  Preço: 15.36
+  Disponível: True
+  Rating: 5
+  URL (relativa): fifty-shades-freed-fifty-shades-3_156/index.html
+
+Livro 6:
+  Título: Fellside
+  Preço: 38.62
+  Disponível: True
+  Rating: 1
+  URL (relativa): fellside_155/index.html
+
+Livro 7:
+  Título: Extreme Prey (Lucas Davenport #26)
+  Preço: 25.4
+  Disponível: True
+  Rating: 3
+  URL (relativa): extreme-prey-lucas-davenport-26_154/index.html
+
+Livro 8:
+  Título: Eragon (The Inheritance Cycle #1)
+  Preço: 43.87
+  Disponível: True
+  Rating: 3
+  URL (relativa): eragon-the-inheritance-cycle-1_153/index.html
+
+Livro 9:
+  Título: Eclipse (Twilight #3)
+  Preço: 18.74
+  Disponível: True
+  Rating: 1
+  URL (relativa): eclipse-twilight-3_152/index.html
+
+Livro 10:
+  Título: Dune (Dune #1)
+  Preço: 54.86
+  Disponível: True
+  Rating: 1
+  URL (relativa): dune-dune-1_151/index.html
+
+Livro 11:
+  Título: Dracula
+  Preço: 52.62
+  Disponível: True
+  Rating: 3
+  URL (relativa): dracula_150/index.html
+
+Livro 12:
+  Título: Do Androids Dream of Electric Sheep? (Blade Runner #1)
+  Preço: 51.48
+  Disponível: True
+  Rating: 1
+  URL (relativa): do-androids-dream-of-electric-sheep-blade-runner-1_149/index.html
+
+Livro 13:
+  Título: Disrupted: My Misadventure in the Start-Up Bubble
+  Preço: 15.28
+  Disponível: True
+  Rating: 5
+  URL (relativa): disrupted-my-misadventure-in-the-start-up-bubble_148/index.html
+
+Livro 14:
+  Título: Dead Wake: The Last Crossing of the Lusitania
+  Preço: 39.24
+  Disponível: True
+  Rating: 5
+  URL (relativa): dead-wake-the-last-crossing-of-the-lusitania_147/index.html
+
+Livro 15:
+  Título: David and Goliath: Underdogs, Misfits, and the Art of Battling Giants
+  Preço: 17.81
+  Disponível: True
+  Rating: 1
+  URL (relativa): david-and-goliath-underdogs-misfits-and-the-art-of-battling-giants_146/index.html
+
+Livro 16:
+  Título: Darkfever (Fever #1)
+  Preço: 56.02
+  Disponível: True
+  Rating: 1
+  URL (relativa): darkfever-fever-1_145/index.html
+
+Livro 17:
+  Título: Dark Places
+  Preço: 23.9
+  Disponível: True
+  Rating: 5
+  URL (relativa): dark-places_144/index.html
+
+Livro 18:
+  Título: Crazy Rich Asians (Crazy Rich Asians #1)
+  Preço: 49.13
+  Disponível: True
+  Rating: 5
+  URL (relativa): crazy-rich-asians-crazy-rich-asians-1_143/index.html
+
+Livro 19:
+  Título: Counting Thyme
+  Preço: 10.62
+  Disponível: True
+  Rating: 1
+  URL (relativa): counting-thyme_142/index.html
+
+Livro 20:
+  Título: Cosmos
+  Preço: 36.17
+  Disponível: True
+  Rating: 2
+  URL (relativa): cosmos_141/index.html
+
+Delay ético: 2.32s
+
+==================== Página 44 ====================
+URL: http://books.toscrape.com/catalogue/page-44.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Civilization and Its Discontents
+  Preço: 59.95
+  Disponível: True
+  Rating: 2
+  URL (relativa): civilization-and-its-discontents_140/index.html
+
+Livro 2:
+  Título: Cinder (The Lunar Chronicles #1)
+  Preço: 26.09
+  Disponível: True
+  Rating: 1
+  URL (relativa): cinder-the-lunar-chronicles-1_139/index.html
+
+Livro 3:
+  Título: Catastrophic Happiness: Finding Joy in Childhood's Messy Years
+  Preço: 37.35
+  Disponível: True
+  Rating: 2
+  URL (relativa): catastrophic-happiness-finding-joy-in-childhoods-messy-years_138/index.html
+
+Livro 4:
+  Título: Career of Evil (Cormoran Strike #3)
+  Preço: 24.72
+  Disponível: True
+  Rating: 2
+  URL (relativa): career-of-evil-cormoran-strike-3_137/index.html
+
+Livro 5:
+  Título: Breaking Dawn (Twilight #4)
+  Preço: 35.28
+  Disponível: True
+  Rating: 5
+  URL (relativa): breaking-dawn-twilight-4_136/index.html
+
+Livro 6:
+  Título: Brave Enough
+  Preço: 51.32
+  Disponível: True
+  Rating: 5
+  URL (relativa): brave-enough_135/index.html
+
+Livro 7:
+  Título: Boy Meets Boy
+  Preço: 21.12
+  Disponível: True
+  Rating: 3
+  URL (relativa): boy-meets-boy_134/index.html
+
+Livro 8:
+  Título: Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen
+  Preço: 27.35
+  Disponível: True
+  Rating: 2
+  URL (relativa): born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen_133/index.html
+
+Livro 9:
+  Título: Blink: The Power of Thinking Without Thinking
+  Preço: 21.74
+  Disponível: True
+  Rating: 5
+  URL (relativa): blink-the-power-of-thinking-without-thinking_132/index.html
+
+Livro 10:
+  Título: Black Flags: The Rise of ISIS
+  Preço: 40.87
+  Disponível: True
+  Rating: 1
+  URL (relativa): black-flags-the-rise-of-isis_131/index.html
+
+Livro 11:
+  Título: Black Butler, Vol. 1 (Black Butler #1)
+  Preço: 49.31
+  Disponível: True
+  Rating: 1
+  URL (relativa): black-butler-vol-1-black-butler-1_130/index.html
+
+Livro 12:
+  Título: Big Little Lies
+  Preço: 22.11
+  Disponível: True
+  Rating: 1
+  URL (relativa): big-little-lies_129/index.html
+
+Livro 13:
+  Título: Between Shades of Gray
+  Preço: 20.79
+  Disponível: True
+  Rating: 5
+  URL (relativa): between-shades-of-gray_128/index.html
+
+Livro 14:
+  Título: Best of My Love (Fool's Gold #20)
+  Preço: 27.41
+  Disponível: True
+  Rating: 2
+  URL (relativa): best-of-my-love-fools-gold-20_127/index.html
+
+Livro 15:
+  Título: Beowulf
+  Preço: 38.35
+  Disponível: True
+  Rating: 2
+  URL (relativa): beowulf_126/index.html
+
+Livro 16:
+  Título: Beautiful Creatures (Caster Chronicles #1)
+  Preço: 21.55
+  Disponível: True
+  Rating: 5
+  URL (relativa): beautiful-creatures-caster-chronicles-1_125/index.html
+
+Livro 17:
+  Título: Awkward
+  Preço: 38.02
+  Disponível: True
+  Rating: 2
+  URL (relativa): awkward_124/index.html
+
+Livro 18:
+  Título: Ash
+  Preço: 22.06
+  Disponível: True
+  Rating: 4
+  URL (relativa): ash_123/index.html
+
+Livro 19:
+  Título: Are We There Yet?
+  Preço: 10.66
+  Disponível: True
+  Rating: 3
+  URL (relativa): are-we-there-yet_122/index.html
+
+Livro 20:
+  Título: Are We Smart Enough to Know How Smart Animals Are?
+  Preço: 56.58
+  Disponível: True
+  Rating: 1
+  URL (relativa): are-we-smart-enough-to-know-how-smart-animals-are_121/index.html
+
+Delay ético: 1.03s
+
+==================== Página 45 ====================
+URL: http://books.toscrape.com/catalogue/page-45.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Annie on My Mind
+  Preço: 36.83
+  Disponível: True
+  Rating: 5
+  URL (relativa): annie-on-my-mind_120/index.html
+
+Livro 2:
+  Título: And Then There Were None
+  Preço: 35.01
+  Disponível: True
+  Rating: 2
+  URL (relativa): and-then-there-were-none_119/index.html
+
+Livro 3:
+  Título: A Walk in the Woods: Rediscovering America on the Appalachian Trail
+  Preço: 30.48
+  Disponível: True
+  Rating: 4
+  URL (relativa): a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail_118/index.html
+
+Livro 4:
+  Título: A Visit from the Goon Squad
+  Preço: 14.08
+  Disponível: True
+  Rating: 5
+  URL (relativa): a-visit-from-the-goon-squad_117/index.html
+
+Livro 5:
+  Título: A Storm of Swords (A Song of Ice and Fire #3)
+  Preço: 31.22
+  Disponível: True
+  Rating: 2
+  URL (relativa): a-storm-of-swords-a-song-of-ice-and-fire-3_116/index.html
+
+Livro 6:
+  Título: A Heartbreaking Work of Staggering Genius
+  Preço: 54.29
+  Disponível: True
+  Rating: 5
+  URL (relativa): a-heartbreaking-work-of-staggering-genius_115/index.html
+
+Livro 7:
+  Título: 8 Keys to Mental Health Through Exercise
+  Preço: 31.04
+  Disponível: True
+  Rating: 1
+  URL (relativa): 8-keys-to-mental-health-through-exercise_114/index.html
+
+Livro 8:
+  Título: #GIRLBOSS
+  Preço: 50.96
+  Disponível: True
+  Rating: 1
+  URL (relativa): girlboss_113/index.html
+
+Livro 9:
+  Título: The Suffragettes (Little Black Classics, #96)
+  Preço: 11.89
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-suffragettes-little-black-classics-96_112/index.html
+
+Livro 10:
+  Título: The Sense of an Ending
+  Preço: 31.38
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-sense-of-an-ending_111/index.html
+
+Livro 11:
+  Título: The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)
+  Preço: 54.81
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-sandman-vol-2-the-dolls-house-the-sandman-volumes-2_110/index.html
+
+Livro 12:
+  Título: The Course of Love
+  Preço: 16.78
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-course-of-love_109/index.html
+
+Livro 13:
+  Título: Sugar Rush (Offensive Line #2)
+  Preço: 24.42
+  Disponível: True
+  Rating: 1
+  URL (relativa): sugar-rush-offensive-line-2_108/index.html
+
+Livro 14:
+  Título: Saga, Volume 2 (Saga (Collected Editions) #2)
+  Preço: 11.75
+  Disponível: True
+  Rating: 3
+  URL (relativa): saga-volume-2-saga-collected-editions-2_107/index.html
+
+Livro 15:
+  Título: Run, Spot, Run: The Ethics of Keeping Pets
+  Preço: 20.02
+  Disponível: True
+  Rating: 1
+  URL (relativa): run-spot-run-the-ethics-of-keeping-pets_106/index.html
+
+Livro 16:
+  Título: New Moon (Twilight #2)
+  Preço: 12.86
+  Disponível: True
+  Rating: 4
+  URL (relativa): new-moon-twilight-2_105/index.html
+
+Livro 17:
+  Título: Life
+  Preço: 31.58
+  Disponível: True
+  Rating: 5
+  URL (relativa): life_104/index.html
+
+Livro 18:
+  Título: Kindle Paperwhite User's Guide
+  Preço: 34.0
+  Disponível: True
+  Rating: 3
+  URL (relativa): kindle-paperwhite-users-guide_103/index.html
+
+Livro 19:
+  Título: H is for Hawk
+  Preço: 57.42
+  Disponível: True
+  Rating: 5
+  URL (relativa): h-is-for-hawk_102/index.html
+
+Livro 20:
+  Título: Girl Online On Tour (Girl Online #2)
+  Preço: 53.47
+  Disponível: True
+  Rating: 1
+  URL (relativa): girl-online-on-tour-girl-online-2_101/index.html
+
+Delay ético: 2.77s
+
+==================== Página 46 ====================
+URL: http://books.toscrape.com/catalogue/page-46.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Fruits Basket, Vol. 2 (Fruits Basket #2)
+  Preço: 11.64
+  Disponível: True
+  Rating: 5
+  URL (relativa): fruits-basket-vol-2-fruits-basket-2_100/index.html
+
+Livro 2:
+  Título: Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book)
+  Preço: 52.88
+  Disponível: True
+  Rating: 4
+  URL (relativa): diary-of-a-minecraft-zombie-book-1-a-scare-of-a-dare-an-unofficial-minecraft-book_99/index.html
+
+Livro 3:
+  Título: Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)
+  Preço: 18.51
+  Disponível: True
+  Rating: 4
+  URL (relativa): y-the-last-man-vol-1-unmanned-y-the-last-man-1_98/index.html
+
+Livro 4:
+  Título: While You Were Mine
+  Preço: 41.32
+  Disponível: True
+  Rating: 5
+  URL (relativa): while-you-were-mine_97/index.html
+
+Livro 5:
+  Título: Where Lightning Strikes (Bleeding Stars #3)
+  Preço: 39.77
+  Disponível: True
+  Rating: 3
+  URL (relativa): where-lightning-strikes-bleeding-stars-3_96/index.html
+
+Livro 6:
+  Título: When I'm Gone
+  Preço: 51.96
+  Disponível: True
+  Rating: 3
+  URL (relativa): when-im-gone_95/index.html
+
+Livro 7:
+  Título: Ways of Seeing
+  Preço: 39.51
+  Disponível: True
+  Rating: 5
+  URL (relativa): ways-of-seeing_94/index.html
+
+Livro 8:
+  Título: Vampire Knight, Vol. 1 (Vampire Knight #1)
+  Preço: 15.4
+  Disponível: True
+  Rating: 1
+  URL (relativa): vampire-knight-vol-1-vampire-knight-1_93/index.html
+
+Livro 9:
+  Título: Vampire Girl (Vampire Girl #1)
+  Preço: 53.82
+  Disponível: True
+  Rating: 2
+  URL (relativa): vampire-girl-vampire-girl-1_92/index.html
+
+Livro 10:
+  Título: Twenty Love Poems and a Song of Despair
+  Preço: 30.95
+  Disponível: True
+  Rating: 4
+  URL (relativa): twenty-love-poems-and-a-song-of-despair_91/index.html
+
+Livro 11:
+  Título: Travels with Charley: In Search of America
+  Preço: 57.82
+  Disponível: True
+  Rating: 5
+  URL (relativa): travels-with-charley-in-search-of-america_90/index.html
+
+Livro 12:
+  Título: Three Wishes (River of Time: California #1)
+  Preço: 44.18
+  Disponível: True
+  Rating: 2
+  URL (relativa): three-wishes-river-of-time-california-1_89/index.html
+
+Livro 13:
+  Título: This One Moment (Pushing Limits #1)
+  Preço: 48.71
+  Disponível: True
+  Rating: 1
+  URL (relativa): this-one-moment-pushing-limits-1_88/index.html
+
+Livro 14:
+  Título: The Zombie Room
+  Preço: 19.69
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-zombie-room_87/index.html
+
+Livro 15:
+  Título: The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)
+  Preço: 36.52
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-wicked-the-divine-vol-1-the-faust-act-the-wicked-the-divine_86/index.html
+
+Livro 16:
+  Título: The Tumor
+  Preço: 41.56
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-tumor_85/index.html
+
+Livro 17:
+  Título: The Story of Hong Gildong
+  Preço: 43.19
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-story-of-hong-gildong_84/index.html
+
+Livro 18:
+  Título: The Silent Wife
+  Preço: 12.34
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-silent-wife_83/index.html
+
+Livro 19:
+  Título: The Silent Twin (Detective Jennifer Knight #3)
+  Preço: 36.25
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-silent-twin-detective-jennifer-knight-3_82/index.html
+
+Livro 20:
+  Título: The Selfish Gene
+  Preço: 29.45
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-selfish-gene_81/index.html
+
+Delay ético: 1.33s
+
+==================== Página 47 ====================
+URL: http://books.toscrape.com/catalogue/page-47.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Secret Healer
+  Preço: 34.56
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-secret-healer_80/index.html
+
+Livro 2:
+  Título: The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)
+  Preço: 54.12
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-sandman-vol-1-preludes-and-nocturnes-the-sandman-volumes-1_79/index.html
+
+Livro 3:
+  Título: The Republic
+  Preço: 33.78
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-republic_78/index.html
+
+Livro 4:
+  Título: The Odyssey
+  Preço: 29.64
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-odyssey_77/index.html
+
+Livro 5:
+  Título: The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)
+  Preço: 57.7
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html
+
+Livro 6:
+  Título: The Nicomachean Ethics
+  Preço: 36.34
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-nicomachean-ethics_75/index.html
+
+Livro 7:
+  Título: The Name of the Wind (The Kingkiller Chronicle #1)
+  Preço: 50.59
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-name-of-the-wind-the-kingkiller-chronicle-1_74/index.html
+
+Livro 8:
+  Título: The Mirror & the Maze (The Wrath and the Dawn #1.5)
+  Preço: 29.38
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-mirror-the-maze-the-wrath-and-the-dawn-15_73/index.html
+
+Livro 9:
+  Título: The Little Prince
+  Preço: 45.42
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-little-prince_72/index.html
+
+Livro 10:
+  Título: The Light of the Fireflies
+  Preço: 54.43
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-light-of-the-fireflies_71/index.html
+
+Livro 11:
+  Título: The Last Girl (The Dominion Trilogy #1)
+  Preço: 36.26
+  Disponível: True
+  Rating: 2
+  URL (relativa): the-last-girl-the-dominion-trilogy-1_70/index.html
+
+Livro 12:
+  Título: The Iliad
+  Preço: 16.16
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-iliad_69/index.html
+
+Livro 13:
+  Título: The Hook Up (Game On #1)
+  Preço: 36.29
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-hook-up-game-on-1_68/index.html
+
+Livro 14:
+  Título: The Haters
+  Preço: 27.89
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-haters_67/index.html
+
+Livro 15:
+  Título: The Girl You Lost
+  Preço: 12.29
+  Disponível: True
+  Rating: 5
+  URL (relativa): the-girl-you-lost_66/index.html
+
+Livro 16:
+  Título: The Girl In The Ice (DCI Erika Foster #1)
+  Preço: 15.85
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-girl-in-the-ice-dci-erika-foster-1_65/index.html
+
+Livro 17:
+  Título: The End of the Jesus Era (An Investigation #1)
+  Preço: 14.4
+  Disponível: True
+  Rating: 1
+  URL (relativa): the-end-of-the-jesus-era-an-investigation-1_64/index.html
+
+Livro 18:
+  Título: The Edge of Reason (Bridget Jones #2)
+  Preço: 19.18
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-edge-of-reason-bridget-jones-2_63/index.html
+
+Livro 19:
+  Título: The Complete Maus (Maus #1-2)
+  Preço: 10.64
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-complete-maus-maus-1-2_62/index.html
+
+Livro 20:
+  Título: The Communist Manifesto
+  Preço: 14.76
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-communist-manifesto_61/index.html
+
+Delay ético: 2.33s
+
+==================== Página 48 ====================
+URL: http://books.toscrape.com/catalogue/page-48.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: The Bhagavad Gita
+  Preço: 57.49
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-bhagavad-gita_60/index.html
+
+Livro 2:
+  Título: The Bette Davis Club
+  Preço: 30.66
+  Disponível: True
+  Rating: 3
+  URL (relativa): the-bette-davis-club_59/index.html
+
+Livro 3:
+  Título: The Art of Not Breathing
+  Preço: 40.83
+  Disponível: True
+  Rating: 4
+  URL (relativa): the-art-of-not-breathing_58/index.html
+
+Livro 4:
+  Título: Taking Shots (Assassins #1)
+  Preço: 18.88
+  Disponível: True
+  Rating: 2
+  URL (relativa): taking-shots-assassins-1_57/index.html
+
+Livro 5:
+  Título: Starlark
+  Preço: 25.83
+  Disponível: True
+  Rating: 3
+  URL (relativa): starlark_56/index.html
+
+Livro 6:
+  Título: Skip Beat!, Vol. 01 (Skip Beat! #1)
+  Preço: 42.12
+  Disponível: True
+  Rating: 3
+  URL (relativa): skip-beat-vol-01-skip-beat-1_55/index.html
+
+Livro 7:
+  Título: Sister Sable (The Mad Queen #1)
+  Preço: 13.33
+  Disponível: True
+  Rating: 3
+  URL (relativa): sister-sable-the-mad-queen-1_54/index.html
+
+Livro 8:
+  Título: Shatter Me (Shatter Me #1)
+  Preço: 42.4
+  Disponível: True
+  Rating: 1
+  URL (relativa): shatter-me-shatter-me-1_53/index.html
+
+Livro 9:
+  Título: Shameless
+  Preço: 58.35
+  Disponível: True
+  Rating: 3
+  URL (relativa): shameless_52/index.html
+
+Livro 10:
+  Título: Shadow Rites (Jane Yellowrock #10)
+  Preço: 21.72
+  Disponível: True
+  Rating: 4
+  URL (relativa): shadow-rites-jane-yellowrock-10_51/index.html
+
+Livro 11:
+  Título: Settling the Score (The Summer Games #1)
+  Preço: 44.91
+  Disponível: True
+  Rating: 2
+  URL (relativa): settling-the-score-the-summer-games-1_50/index.html
+
+Livro 12:
+  Título: Sense and Sensibility
+  Preço: 37.46
+  Disponível: True
+  Rating: 1
+  URL (relativa): sense-and-sensibility_49/index.html
+
+Livro 13:
+  Título: Saga, Volume 1 (Saga (Collected Editions) #1)
+  Preço: 28.48
+  Disponível: True
+  Rating: 1
+  URL (relativa): saga-volume-1-saga-collected-editions-1_48/index.html
+
+Livro 14:
+  Título: Rhythm, Chord & Malykhin
+  Preço: 28.34
+  Disponível: True
+  Rating: 2
+  URL (relativa): rhythm-chord-malykhin_47/index.html
+
+Livro 15:
+  Título: Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)
+  Preço: 46.96
+  Disponível: True
+  Rating: 5
+  URL (relativa): rat-queens-vol-1-sass-sorcery-rat-queens-collected-editions-1-5_46/index.html
+
+Livro 16:
+  Título: Paradise Lost (Paradise #1)
+  Preço: 24.96
+  Disponível: True
+  Rating: 1
+  URL (relativa): paradise-lost-paradise-1_45/index.html
+
+Livro 17:
+  Título: Paper Girls, Vol. 1 (Paper Girls #1-5)
+  Preço: 21.71
+  Disponível: True
+  Rating: 4
+  URL (relativa): paper-girls-vol-1-paper-girls-1-5_44/index.html
+
+Livro 18:
+  Título: Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)
+  Preço: 29.87
+  Disponível: True
+  Rating: 3
+  URL (relativa): ouran-high-school-host-club-vol-1-ouran-high-school-host-club-1_43/index.html
+
+Livro 19:
+  Título: Origins (Alphas 0.5)
+  Preço: 28.99
+  Disponível: True
+  Rating: 1
+  URL (relativa): origins-alphas-05_42/index.html
+
+Livro 20:
+  Título: One Second (Seven #7)
+  Preço: 52.94
+  Disponível: True
+  Rating: 2
+  URL (relativa): one-second-seven-7_41/index.html
+
+Delay ético: 2.28s
+
+==================== Página 49 ====================
+URL: http://books.toscrape.com/catalogue/page-49.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: On the Road (Duluoz Legend)
+  Preço: 32.36
+  Disponível: True
+  Rating: 3
+  URL (relativa): on-the-road-duluoz-legend_40/index.html
+
+Livro 2:
+  Título: Old Records Never Die: One Man's Quest for His Vinyl and His Past
+  Preço: 55.66
+  Disponível: True
+  Rating: 2
+  URL (relativa): old-records-never-die-one-mans-quest-for-his-vinyl-and-his-past_39/index.html
+
+Livro 3:
+  Título: Off Sides (Off #1)
+  Preço: 39.45
+  Disponível: True
+  Rating: 5
+  URL (relativa): off-sides-off-1_38/index.html
+
+Livro 4:
+  Título: Of Mice and Men
+  Preço: 47.11
+  Disponível: True
+  Rating: 2
+  URL (relativa): of-mice-and-men_37/index.html
+
+Livro 5:
+  Título: Myriad (Prentor #1)
+  Preço: 58.75
+  Disponível: True
+  Rating: 4
+  URL (relativa): myriad-prentor-1_36/index.html
+
+Livro 6:
+  Título: My Perfect Mistake (Over the Top #1)
+  Preço: 38.92
+  Disponível: True
+  Rating: 2
+  URL (relativa): my-perfect-mistake-over-the-top-1_35/index.html
+
+Livro 7:
+  Título: Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)
+  Preço: 39.39
+  Disponível: True
+  Rating: 4
+  URL (relativa): ms-marvel-vol-1-no-normal-ms-marvel-2014-2015-1_34/index.html
+
+Livro 8:
+  Título: Meditations
+  Preço: 25.89
+  Disponível: True
+  Rating: 2
+  URL (relativa): meditations_33/index.html
+
+Livro 9:
+  Título: Matilda
+  Preço: 28.34
+  Disponível: True
+  Rating: 1
+  URL (relativa): matilda_32/index.html
+
+Livro 10:
+  Título: Lost Among the Living
+  Preço: 27.7
+  Disponível: True
+  Rating: 4
+  URL (relativa): lost-among-the-living_31/index.html
+
+Livro 11:
+  Título: Lord of the Flies
+  Preço: 24.89
+  Disponível: True
+  Rating: 3
+  URL (relativa): lord-of-the-flies_30/index.html
+
+Livro 12:
+  Título: Listen to Me (Fusion #1)
+  Preço: 58.99
+  Disponível: True
+  Rating: 3
+  URL (relativa): listen-to-me-fusion-1_29/index.html
+
+Livro 13:
+  Título: Kitchens of the Great Midwest
+  Preço: 57.2
+  Disponível: True
+  Rating: 5
+  URL (relativa): kitchens-of-the-great-midwest_28/index.html
+
+Livro 14:
+  Título: Jane Eyre
+  Preço: 38.43
+  Disponível: True
+  Rating: 5
+  URL (relativa): jane-eyre_27/index.html
+
+Livro 15:
+  Título: Imperfect Harmony
+  Preço: 34.74
+  Disponível: True
+  Rating: 4
+  URL (relativa): imperfect-harmony_26/index.html
+
+Livro 16:
+  Título: Icing (Aces Hockey #2)
+  Preço: 40.44
+  Disponível: True
+  Rating: 4
+  URL (relativa): icing-aces-hockey-2_25/index.html
+
+Livro 17:
+  Título: Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)
+  Preço: 45.24
+  Disponível: True
+  Rating: 3
+  URL (relativa): hawkeye-vol-1-my-life-as-a-weapon-hawkeye-1_24/index.html
+
+Livro 18:
+  Título: Having the Barbarian's Baby (Ice Planet Barbarians #7.5)
+  Preço: 34.96
+  Disponível: True
+  Rating: 4
+  URL (relativa): having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html
+
+Livro 19:
+  Título: Giant Days, Vol. 1 (Giant Days #1-4)
+  Preço: 56.76
+  Disponível: True
+  Rating: 4
+  URL (relativa): giant-days-vol-1-giant-days-1-4_22/index.html
+
+Livro 20:
+  Título: Fruits Basket, Vol. 1 (Fruits Basket #1)
+  Preço: 40.28
+  Disponível: True
+  Rating: 5
+  URL (relativa): fruits-basket-vol-1-fruits-basket-1_21/index.html
+
+Delay ético: 2.84s
+
+==================== Página 50 ====================
+URL: http://books.toscrape.com/catalogue/page-50.html
+Livros extraídos nesta página: 20
+
+Livro 1:
+  Título: Frankenstein
+  Preço: 38.0
+  Disponível: True
+  Rating: 2
+  URL (relativa): frankenstein_20/index.html
+
+Livro 2:
+  Título: Forever Rockers (The Rocker #12)
+  Preço: 28.8
+  Disponível: True
+  Rating: 3
+  URL (relativa): forever-rockers-the-rocker-12_19/index.html
+
+Livro 3:
+  Título: Fighting Fate (Fighting #6)
+  Preço: 39.24
+  Disponível: True
+  Rating: 3
+  URL (relativa): fighting-fate-fighting-6_18/index.html
+
+Livro 4:
+  Título: Emma
+  Preço: 32.93
+  Disponível: True
+  Rating: 2
+  URL (relativa): emma_17/index.html
+
+Livro 5:
+  Título: Eat, Pray, Love
+  Preço: 51.32
+  Disponível: True
+  Rating: 3
+  URL (relativa): eat-pray-love_16/index.html
+
+Livro 6:
+  Título: Deep Under (Walker Security #1)
+  Preço: 47.09
+  Disponível: True
+  Rating: 5
+  URL (relativa): deep-under-walker-security-1_15/index.html
+
+Livro 7:
+  Título: Choosing Our Religion: The Spiritual Lives of America's Nones
+  Preço: 28.42
+  Disponível: True
+  Rating: 4
+  URL (relativa): choosing-our-religion-the-spiritual-lives-of-americas-nones_14/index.html
+
+Livro 8:
+  Título: Charlie and the Chocolate Factory (Charlie Bucket #1)
+  Preço: 22.85
+  Disponível: True
+  Rating: 3
+  URL (relativa): charlie-and-the-chocolate-factory-charlie-bucket-1_13/index.html
+
+Livro 9:
+  Título: Charity's Cross (Charles Towne Belles #4)
+  Preço: 41.24
+  Disponível: True
+  Rating: 1
+  URL (relativa): charitys-cross-charles-towne-belles-4_12/index.html
+
+Livro 10:
+  Título: Bright Lines
+  Preço: 39.07
+  Disponível: True
+  Rating: 5
+  URL (relativa): bright-lines_11/index.html
+
+Livro 11:
+  Título: Bridget Jones's Diary (Bridget Jones #1)
+  Preço: 29.82
+  Disponível: True
+  Rating: 1
+  URL (relativa): bridget-joness-diary-bridget-jones-1_10/index.html
+
+Livro 12:
+  Título: Bounty (Colorado Mountain #7)
+  Preço: 37.26
+  Disponível: True
+  Rating: 4
+  URL (relativa): bounty-colorado-mountain-7_9/index.html
+
+Livro 13:
+  Título: Blood Defense (Samantha Brinkman #1)
+  Preço: 20.3
+  Disponível: True
+  Rating: 3
+  URL (relativa): blood-defense-samantha-brinkman-1_8/index.html
+
+Livro 14:
+  Título: Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)
+  Preço: 34.65
+  Disponível: True
+  Rating: 5
+  URL (relativa): bleach-vol-1-strawberry-and-the-soul-reapers-bleach-1_7/index.html
+
+Livro 15:
+  Título: Beyond Good and Evil
+  Preço: 43.38
+  Disponível: True
+  Rating: 1
+  URL (relativa): beyond-good-and-evil_6/index.html
+
+Livro 16:
+  Título: Alice in Wonderland (Alice's Adventures in Wonderland #1)
+  Preço: 55.53
+  Disponível: True
+  Rating: 1
+  URL (relativa): alice-in-wonderland-alices-adventures-in-wonderland-1_5/index.html
+
+Livro 17:
+  Título: Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)
+  Preço: 57.06
+  Disponível: True
+  Rating: 4
+  URL (relativa): ajin-demi-human-volume-1-ajin-demi-human-1_4/index.html
+
+Livro 18:
+  Título: A Spy's Devotion (The Regency Spies of London #1)
+  Preço: 16.97
+  Disponível: True
+  Rating: 5
+  URL (relativa): a-spys-devotion-the-regency-spies-of-london-1_3/index.html
+
+Livro 19:
+  Título: 1st to Die (Women's Murder Club #1)
+  Preço: 53.98
+  Disponível: True
+  Rating: 1
+  URL (relativa): 1st-to-die-womens-murder-club-1_2/index.html
+
+Livro 20:
+  Título: 1,000 Places to See Before You Die
+  Preço: 26.08
+  Disponível: True
+  Rating: 5
+  URL (relativa): 1000-places-to-see-before-you-die_1/index.html
+
+Delay ético: 2.24s
+
+==================== Página 51 ====================
+URL: http://books.toscrape.com/catalogue/page-51.html
+Sem resposta (404/fim ou erro definitivo). Terminar.
+
+#######################################################################
+# Resumo final
+#######################################################################
+
+Total de livros extraídos: 1000
+CSV gravado em: dados\books.csv
+JSON gravado em: dados\books.json
+
+Livro mais caro:
+{
+  "titulo": "The Perfect Play (Play by Play #1)",
+  "preco": 59.99,
+  "disponibilidade": true,
+  "rating": 3,
+  "url_relativa": "the-perfect-play-play-by-play-1_352/index.html"
+}
+
+Quantos disponíveis: 1000
+
+Distribuição ratings:
+  1: 226
+  2: 196
+  3: 203
+  4: 179
+  5: 196

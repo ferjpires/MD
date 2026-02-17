@@ -1,0 +1,44 @@
+#######################################################################
+# Exercício 1 - HTTP
+#######################################################################
+
+URL: http://httpbin.org/get
+Headers enviados: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+  "Accept-Language": "pt-PT,pt;q=0.9,en;q=0.8"
+}
+
+Status code: 200
+Content-Type: application/json
+
+JSON completo devolvido pelo httpbin:
+{
+  "args": {},
+  "headers": {
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept-Language": "pt-PT,pt;q=0.9,en;q=0.8",
+    "Host": "httpbin.org",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "X-Amzn-Trace-Id": "Root=1-69949aac-0635ac9928e3ffa876944f04"
+  },
+  "origin": "213.22.110.14",
+  "url": "http://httpbin.org/get"
+}
+
+IP do cliente (origin): 213.22.110.14
+IP (normalizado): 213.22.110.14
+
+Headers recebidos pelo servidor (httpbin):
+{
+  "Accept": "*/*",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept-Language": "pt-PT,pt;q=0.9,en;q=0.8",
+  "Host": "httpbin.org",
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+  "X-Amzn-Trace-Id": "Root=1-69949aac-0635ac9928e3ffa876944f04"
+}
+
+Validação de headers:
+User-Agent recebido igual ao enviado? -> True
+Accept-Language recebido igual ao enviado? -> True
